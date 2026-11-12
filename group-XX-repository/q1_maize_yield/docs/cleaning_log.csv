@@ -1,0 +1,29 @@
+step,operation,column,problem,action,records_affected,reason
+1,trim_text,all text columns,leading/trailing spaces,stripped (check),0,the same label with a space would be counted as another category
+2,duplicates,record_id,same record_id repeated,removed (keep first),0,a farm must count once
+3,duplicates,all except record_id,same content under a different record_id,removed (keep first),0,a copied form would double the weight of one farm
+4,categories,season,labels outside the allowed list,check only,0,one label per category
+5,categories,soil_type,labels outside the allowed list,check only,0,one label per category
+6,categories,seed_variety,labels outside the allowed list,check only,0,one label per category
+7,categories,farming_practice,labels outside the allowed list,check only,0,one label per category
+8,categories,irrigation,labels outside the allowed list,check only,0,one label per category
+9,categories,province,'Kigali' instead of the official 'Kigali City',renamed,132,use official administrative names (NISR) so the data joins with other national data
+10,categories,"district, province",district written under the wrong province,province taken from district,0,each of the 30 districts belongs to exactly one province
+11,ranges,year,value outside 2010-2026,set to NaN (check),0,agronomist / national ranges
+12,ranges,altitude_m,value outside 900-2600,set to NaN (check),0,agronomist / national ranges
+13,ranges,rainfall_mm,value outside 0-1500,set to NaN (check),0,agronomist / national ranges
+14,ranges,avg_temp_c,value outside 10-30,set to NaN (check),0,agronomist / national ranges
+15,ranges,soil_ph,value outside 4-8,set to NaN (check),0,agronomist / national ranges
+16,ranges,npk_kg_ha,value outside 0-400,set to NaN (check),0,agronomist / national ranges
+17,ranges,urea_kg_ha,value outside 0-300,set to NaN (check),0,agronomist / national ranges
+18,ranges,manure_t_ha,value outside 0-30,set to NaN (check),0,agronomist / national ranges
+19,ranges,plant_density_per_ha,value outside 10000-100000,set to NaN (check),0,agronomist / national ranges
+20,ranges,farm_area_ha,value outside 0.02-20,set to NaN (check),0,agronomist / national ranges
+21,ranges,pest_incidence_index,value outside 0-1,set to NaN (check),0,agronomist / national ranges
+22,ranges,yield_t_ha,value outside 0.2-12,set to NaN (check),0,agronomist / national ranges
+23,missing,soil_ph,empty cells,kept; imputed later (median learned on train only),14,deleting rows would lose the other 16 good values of these farms
+24,missing,pest_incidence_index,empty cells,kept; imputed later (median learned on train only),14,deleting rows would lose the other 16 good values of these farms
+25,missing,rainfall_mm,empty cells,kept; imputed later (median learned on train only),11,deleting rows would lose the other 16 good values of these farms
+26,missing,"soil_ph, pest_incidence_index, rainfall_mm","gaps occur together in the same farms (pattern, not random)",indicator column field_data_missing,14,the model can learn whether farms without a soil test/scouting visit differ
+27,target,yield_t_ha,missing or impossible yield,row removed,0,a row without a target is useless
+28,target,yield_t_ha,"unit t/ha, but the brief and agronomist use kg/ha",kept t/ha + added yield_kg_ha,1426,"both units available; 1 t/ha = 1,000 kg/ha"

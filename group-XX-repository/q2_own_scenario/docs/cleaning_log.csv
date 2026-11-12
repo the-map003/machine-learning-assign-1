@@ -1,0 +1,33 @@
+step,operation,column,problem,action,records_affected,reason
+1,trim_and_type,all,values padded with spaces ('  70.0'),spaces removed,128312,padded text cannot be read as numbers
+2,trim_and_type,"TEMP, DEWP, SLP, STP, VISIB, WDSP, MXSPD, GUST, MAX, MIN, PRCP, SNDP, LATITUDE, LONGITUDE, ELEVATION, DATE",numbers and dates stored as text,converted to float / datetime,10614,calculations need real numbers and dates
+3,missing_codes,TEMP,missing code 9999.9,set to NaN,0,a code like 9999.9 would be read as a real (impossible) value
+4,missing_codes,DEWP,missing code 9999.9,set to NaN,26,a code like 9999.9 would be read as a real (impossible) value
+5,missing_codes,SLP,missing code 9999.9,set to NaN,10614,a code like 9999.9 would be read as a real (impossible) value
+6,missing_codes,STP,missing code 999.9,set to NaN,8997,a code like 9999.9 would be read as a real (impossible) value
+7,missing_codes,VISIB,missing code 999.9,set to NaN,30,a code like 9999.9 would be read as a real (impossible) value
+8,missing_codes,WDSP,missing code 999.9,set to NaN,85,a code like 9999.9 would be read as a real (impossible) value
+9,missing_codes,MXSPD,missing code 999.9,set to NaN,1212,a code like 9999.9 would be read as a real (impossible) value
+10,missing_codes,GUST,missing code 999.9,set to NaN,10165,a code like 9999.9 would be read as a real (impossible) value
+11,missing_codes,MAX,missing code 9999.9,set to NaN,2,a code like 9999.9 would be read as a real (impossible) value
+12,missing_codes,MIN,missing code 9999.9,set to NaN,2,a code like 9999.9 would be read as a real (impossible) value
+13,missing_codes,PRCP,missing code 99.99,set to NaN,862,a code like 9999.9 would be read as a real (impossible) value
+14,missing_codes,SNDP,missing code 999.9,set to NaN,10614,a code like 9999.9 would be read as a real (impossible) value
+15,drop_empty_columns,SLP,100% of values missing,column removed,10614,too few values to learn from; imputing > 50 % would invent data
+16,drop_empty_columns,STP,85% of values missing,column removed,10614,too few values to learn from; imputing > 50 % would invent data
+17,drop_empty_columns,GUST,96% of values missing,column removed,10614,too few values to learn from; imputing > 50 % would invent data
+18,drop_empty_columns,SNDP,100% of values missing,column removed,10614,too few values to learn from; imputing > 50 % would invent data
+19,drop_empty_columns,"DEWP_ATTRIBUTES, SLP_ATTRIBUTES, STP_ATTRIBUTES, VISIB_ATTRIBUTES, WDSP_ATTRIBUTES, MAX_ATTRIBUTES, MIN_ATTRIBUTES",observation-count columns of other variables,removed (TEMP count and PRCP flag kept),10614,bookkeeping only; one count is enough as a quality signal
+20,drop_empty_columns,"LATITUDE, LONGITUDE",constant for each station,removed,10614,the same information is in the station column
+21,name_stations,NAME,"long names ('KIGALI INTERNATIONAL, RW')","short station, district, province",10614,MINEMA works by district; short labels are easier to read
+22,convert_units,"TEMP, DEWP, MAX, MIN, WDSP, MXSPD, VISIB, PRCP","imperial units (F, knots, miles, inches)","converted to C, km/h, km, mm",10614,"Rwanda (Meteo Rwanda, MINEMA) uses metric units"
+23,quality_flags,FRSHTT,6 weather events packed in one code ('010010'),"split into fog, rain, hail, thunder",10614,each event becomes a 0/1 column a model can use
+24,quality_flags,PRCP_ATTRIBUTES,flag 'I' = incomplete precipitation total,kept as 0/1 prcp_incomplete,3827,an incomplete total of 0 mm does not prove a dry day
+25,quality_flags,TEMP_ATTRIBUTES,daily mean built from fewer than 4 reports,"kept, count stored as n_obs",0,values are less reliable; the model can learn how much to trust them
+26,impossible,dewpoint_c,dew point above air temperature,set to NaN,0,physically impossible
+27,impossible,"max_temp_c, min_temp_c",maximum below minimum,both set to NaN,0,impossible
+28,impossible,"max_temp_c, min_temp_c",daily mean outside its own min-max range,min/max set to NaN,0,min/max are often derived from incomplete hourly reports
+29,impossible,wind_kmh,daily mean wind above 40 km/h,set to NaN,1,station climatology: normal daily mean 3-15 km/h; such values come with very few reports
+30,impossible,max_wind_kmh,max sustained wind above 90 km/h,set to NaN,1,not credible
+31,remove_duplicates,"STATION, DATE",same station-day twice,removed (kept first),0,one day must count once
+32,add_target,rain_tomorrow,"next day missing in the record (gaps, end of data)",row removed,796,without tomorrow's observation there is no answer to learn

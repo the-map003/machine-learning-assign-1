@@ -1,0 +1,20 @@
+feature,how_created_or_reason,business_question,evidence,decision
+n_applied_kg_ha,0.17 x npk_kg_ha + 0.46 x urea_kg_ha (N content of NPK 17-17-17 and urea),B,"r with yield 0.23, RF importance 0.041",kept
+uses_mineral_fertiliser,1 if npk + urea > 0,B,separates true zeros (no fertiliser) from small doses,kept
+seed_class,seed_variety -> Local / OPV / Hybrid,B,Local clearly lower (Fig. 3.4a),kept
+improved_package,1 if OPV/Hybrid seed AND Improved practice,B,"r with yield 0.46, RF importance 0.003",kept
+log_farm_area_ha,log(1 + farm_area_ha),A,skew 1.88 -> 0.92,kept
+temp_dev_from_optimum,degrees below 18 C or above 27 C,C,"r with yield -0.05, RF importance 0.002",kept
+ph_in_optimal_range,1 if 5.5 <= soil_ph <= 7,C,"r with yield 0.16, RF importance 0.002",kept
+is_irrigated,irrigation Yes = 1 / No = 0,C,numeric form,kept
+altitude_zone,"altitude < 1,600 / 1,600-1,900 / > 1,900 m","C, D",lowland / midland / highland advice groups,kept
+plant_density_k_ha,"plant_density_per_ha / 1,000",A,"r with yield 0.28, RF importance 0.070",kept
+low_yield_risk,1 if yield < 10th percentile of TRAIN yields,E,second target; ~10 % positives,target
+province,-,-,fully determined by district (each district in one province),removed
+urea_kg_ha,-,-,"r = 0.95 with n_applied_kg_ha, which contains the urea nitrogen",removed
+farm_area_ha,-,-,r = 0.98 with log_farm_area_ha (less skewed),removed
+plant_density_per_ha,-,-,"same values as plant_density_k_ha (only divided by 1,000)",removed
+irrigation,-,-,replaced by numeric is_irrigated,removed
+field_data_missing,-,-,near-constant (variance threshold): only 9 of 998 training farms,removed
+record_id,-,-,"identifier, not a feature",removed
+yield_kg_ha,-,-,same as the target in another unit (would leak the answer),removed

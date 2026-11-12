@@ -1,0 +1,21 @@
+column,meaning,data_type,unit,allowed_values_notes
+record_id,Record code,text (ID),-,RW-MZ-00001 ... unique; not a feature
+year,Year of the season,integer,year,2015-2024
+season,Agricultural season,category,-,"A (Sep-Jan), B (Feb-Jun), C (Jun-Sep)"
+province,Province,category,-,"Kigali City, Eastern, Northern, Southern, Western"
+district,District,category,-,30 official districts
+altitude_m,Altitude of the farm,integer,m,"900-2,600 in Rwanda"
+rainfall_mm,Rainfall during the season,float,mm,> 0
+avg_temp_c,Average season temperature,float,deg C,maize best 18-27
+soil_ph,Soil acidity,float,pH,4-8 normal; maize best 5.5-7
+soil_type,Soil type,category,-,"Clay, Clay loam, Loam, Sandy loam, Volcanic"
+seed_variety,Seed variety,category,-,"Local, ZM607, ZM621 (OPV), RHM104, WH505, PAN691 (hybrids)"
+farming_practice,Farming practice,category,-,Improved / Traditional
+npk_kg_ha,NPK fertiliser per hectare,float,kg/ha,>= 0 (0 = none used)
+urea_kg_ha,Urea fertiliser per hectare,float,kg/ha,>= 0
+manure_t_ha,Organic manure per hectare,float,t/ha,>= 0
+plant_density_per_ha,Maize plants per hectare,integer,plants/ha,"about 20,000-75,000"
+farm_area_ha,Area of the maize farm,float,ha,> 0
+irrigation,Plot irrigated,category,-,Yes / No
+pest_incidence_index,Pest pressure,float,0-1 index,"0 = none, 1 = severe"
+yield_t_ha,Maize yield - TARGET,float,t/ha,> 0; typical 1-4 t/ha

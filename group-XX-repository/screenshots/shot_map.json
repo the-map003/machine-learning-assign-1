@@ -1,0 +1,20 @@
+{
+  "Anaconda Navigator with Jupyter Notebook": ["stage1_anaconda_navigator.png"],
+  "Anaconda Prompt - active environment and list of environments": ["stage1_anaconda_prompt.png"],
+  "Library versions printed by 00_environment_check": ["q1_00_environment_check_p*.png"],
+  "Data requirements Markdown cell (01_acquire)": ["q1_01_acquire_p*.png"],
+  "First rows, shape and info of the loaded data": ["skip"],
+  "Missing values, duplicate count and summary statistics": ["q1_02_eda_p*.png"],
+  "Cleaning steps with before/after views": ["q1_03_clean_p*.png"],
+  "Encoding and scaling output, split shapes": ["skip"],
+  "New features, importance output and final feature list": ["q1_04_features_p*.png"],
+  "Restart & Run All finished without errors": ["skip"],
+  "Saved final files in the project folder": ["files_q1_processed.png"],
+  "Final dataset info": ["skip"],
+  "Q2 data requirements and source comparison": ["q2_01_acquire_p*.png"],
+  "Q2 raw files and loaded data": ["files_q2_raw_files.png"],
+  "Q2 missing values, duplicates and summary statistics": ["q2_02_eda_p*.png"],
+  "Q2 cleaning before/after and split shapes": ["q2_03_clean_p*.png"],
+  "Q2 new features and final list": ["q2_04_features_p*.png"],
+  "Q2 processed files and final info": ["files_q2_processed.png"]
+}

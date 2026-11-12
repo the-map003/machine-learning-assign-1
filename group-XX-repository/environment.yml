@@ -1,0 +1,23 @@
+﻿name: ml-project
+# Rebuild with:  conda env create -f environment.yml   then   conda activate ml-project
+# Versions below are the ones the notebooks were tested with (Anaconda 2026.07, "defaults" channel).
+# The defaults channel is used on purpose: on Windows with Smart App Control, conda-forge's matplotlib
+# DLL was blocked ("Application Control policy has blocked this file"); Anaconda's signed build works.
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - pandas=3.0
+  - numpy=2.4
+  - matplotlib=3.11
+  - seaborn=0.13
+  - scikit-learn=1.9
+  - joblib
+  - notebook
+  - ipykernel
+  - nbconvert
+  - openpyxl
+  - requests
+  - pip
+  - pip:
+      - python-docx  # only used by tools/build_docs.py to write the Word reports

@@ -1,0 +1,1427 @@
+record_id,year,season,province,district,altitude_m,rainfall_mm,avg_temp_c,soil_ph,soil_type,seed_variety,farming_practice,npk_kg_ha,urea_kg_ha,manure_t_ha,plant_density_per_ha,farm_area_ha,irrigation,pest_incidence_index,yield_t_ha
+RW-MZ-00001,2015,A,Eastern,Bugesera,1349,,22.9,,Clay,RHM104,Improved,117.8,57.4,1.41,61803,0.63,No,,2.71
+RW-MZ-00002,2015,A,Eastern,Bugesera,1427,489.8,22.1,6.02,Volcanic,RHM104,Improved,38.1,62.7,3.69,52919,0.17,No,0.339,4.09
+RW-MZ-00003,2015,A,Northern,Burera,2033,722.6,16.3,5.73,Clay loam,Local,Improved,121.1,50.7,5.18,54406,0.22,No,0.049,2.58
+RW-MZ-00004,2015,A,Northern,Burera,2026,794.4,16.4,5.2,Clay loam,ZM621,Improved,93.7,60.4,1.68,48119,0.48,No,0.171,2.45
+RW-MZ-00005,2015,A,Northern,Gakenke,1974,644.2,18.3,5.92,Loam,Local,Improved,84.1,70.4,0.36,56787,1.16,No,0.001,2.09
+RW-MZ-00006,2015,A,Northern,Gakenke,1908,614.4,17.1,5.3,Loam,Local,Traditional,22.9,20.1,0,44202,0.33,No,0.221,1.58
+RW-MZ-00007,2015,A,Kigali,Gasabo,1527,507.6,21.1,6.06,Sandy loam,PAN691,Traditional,40.6,5.4,2.69,34028,0.54,No,0.106,3.02
+RW-MZ-00008,2015,A,Kigali,Gasabo,1480,618.6,20.7,5.83,Sandy loam,ZM621,Improved,53.7,35.1,2.6,47567,0.53,No,0.251,2.63
+RW-MZ-00009,2015,A,Eastern,Gatsibo,1442,488.8,21.4,6,Clay loam,ZM621,Improved,81,60.4,3.04,55838,0.53,No,0.29,2.91
+RW-MZ-00010,2015,A,Eastern,Gatsibo,1404,417,21.8,6,Clay loam,Local,Improved,90.5,104.3,1.85,51536,0.19,No,0.123,2.16
+RW-MZ-00011,2015,A,Northern,Gicumbi,1955,785.6,17.8,5.77,Clay loam,ZM621,Improved,16.6,72.9,0,61819,0.74,No,0.107,3.08
+RW-MZ-00012,2015,A,Northern,Gicumbi,1962,822.9,18.5,6.02,Loam,PAN691,Traditional,0,7.2,3.22,32181,0.6,No,0.377,2.95
+RW-MZ-00013,2015,A,Southern,Gisagara,1697,414.6,19.9,6.45,Loam,RHM104,Traditional,61.5,14.2,3.15,31159,0.34,No,0.25,2.88
+RW-MZ-00014,2015,A,Southern,Gisagara,1757,542.7,19,5.1,Loam,PAN691,Traditional,0,11.5,3.4,48785,0.91,No,0.132,3.85
+RW-MZ-00015,2015,A,Southern,Huye,1605,529.5,19.3,5.68,Volcanic,Local,Improved,78.5,96.3,1.34,53192,0.79,No,0.332,2.11
+RW-MZ-00016,2015,A,Southern,Huye,1646,742,20.5,5.84,Sandy loam,ZM621,Improved,93.4,32.2,2.87,56147,0.27,No,0.549,2.85
+RW-MZ-00017,2015,A,Southern,Kamonyi,1598,593.3,19.8,6.17,Clay loam,PAN691,Traditional,39.8,0,4.21,40210,1.11,No,0.321,3.6
+RW-MZ-00018,2015,A,Southern,Kamonyi,1513,624.6,20.9,6.29,Clay,ZM607,Traditional,12,32.7,2.96,33806,0.36,No,0.077,2.73
+RW-MZ-00019,2015,A,Western,Karongi,1666,562,19.1,5.27,Loam,ZM607,Improved,117.7,27.2,3.01,48352,0.47,No,0.216,2.73
+RW-MZ-00020,2015,A,Western,Karongi,1704,734.7,19.6,6.28,Sandy loam,PAN691,Improved,58.8,40.6,1.05,46657,0.36,No,0.125,3.43
+RW-MZ-00021,2015,A,Eastern,Kayonza,1415,548.3,21,5.93,Clay,ZM607,Improved,36.6,3.8,0.21,60949,0.65,No,0.374,2.68
+RW-MZ-00022,2015,A,Eastern,Kayonza,1468,468.2,21.8,6.77,Sandy loam,ZM607,Traditional,62.1,0,0.02,35082,0.86,No,0.188,2.38
+RW-MZ-00023,2015,A,Kigali,Kicukiro,1598,514.5,21.1,5.64,Clay,ZM621,Improved,98.6,43.6,2.67,50270,0.32,No,0.239,2.67
+RW-MZ-00024,2015,A,Kigali,Kicukiro,1648,542.9,20.2,5.94,Clay,WH505,Improved,63.8,18.1,1.27,52677,1.94,No,0.5,2.51
+RW-MZ-00025,2015,A,Eastern,Kirehe,1522,483.5,21.2,5.95,Clay,WH505,Traditional,39.8,33.1,4.17,35750,0.84,No,0.14,2.57
+RW-MZ-00026,2015,A,Eastern,Kirehe,1381,362.9,20,6.32,Loam,Local,Improved,99.2,110.1,3.24,54018,0.52,No,0.019,2.2
+RW-MZ-00027,2015,A,Southern,Muhanga,1678,685,19.1,5.74,Loam,RHM104,Traditional,11.8,0,1.86,27453,0.28,No,0.042,2.81
+RW-MZ-00028,2015,A,Southern,Muhanga,1719,670.8,19.8,6.53,Loam,WH505,Improved,108.5,64.4,0.37,53542,0.77,No,0.521,3.07
+RW-MZ-00029,2015,A,Northern,Musanze,1854,851.6,17.7,4.91,Volcanic,ZM607,Traditional,12.2,31,0.43,33211,0.76,No,0.28,2.15
+RW-MZ-00030,2015,A,Northern,Musanze,1802,751.1,17.6,5.91,Clay loam,RHM104,Improved,102.4,59.3,2.29,66239,0.49,No,0.207,3.94
+RW-MZ-00031,2015,A,Eastern,Ngoma,1445,543.1,20,5.99,Volcanic,RHM104,Improved,110.2,96.8,3.84,35797,0.55,No,0.029,4.19
+RW-MZ-00032,2015,A,Eastern,Ngoma,1539,467.8,21.9,5.78,Loam,ZM621,Traditional,40.1,7.3,2.86,29541,1.36,Yes,0.244,2.39
+RW-MZ-00033,2015,A,Western,Ngororero,1943,758.1,18.2,5.66,Loam,WH505,Improved,108.2,81.8,1.16,49302,0.33,No,0.022,3.02
+RW-MZ-00034,2015,A,Western,Ngororero,1985,543.8,18,5.15,Loam,ZM621,Improved,108.1,52.5,3.01,55850,0.44,Yes,0.536,2.39
+RW-MZ-00035,2015,A,Western,Nyabihu,2187,644.9,16.4,5.31,Clay,RHM104,Improved,108.4,99.4,0.4,52670,1.32,No,0.042,2.95
+RW-MZ-00036,2015,A,Western,Nyabihu,2059,716.7,16.7,5.5,Loam,ZM607,Traditional,38.3,53.7,0,39944,0.42,No,0.162,2.66
+RW-MZ-00037,2015,A,Eastern,Nyagatare,1402,371.2,22.7,5.8,Clay,ZM621,Traditional,26.3,5.9,1.49,41718,0.82,No,0.532,1.49
+RW-MZ-00038,2015,A,Eastern,Nyagatare,1348,457.3,22.4,6.48,Clay loam,Local,Improved,81.5,60,3.48,49653,1.09,No,0.087,1.84
+RW-MZ-00039,2015,A,Southern,Nyamagabe,1934,715.1,16.6,,Loam,RHM104,Traditional,26.6,0,0,37926,0.59,No,,2.65
+RW-MZ-00040,2015,A,Southern,Nyamagabe,1991,763.8,17.7,5.83,Loam,Local,Traditional,11.1,3.9,2.06,36129,1.26,No,0.222,1.81
+RW-MZ-00041,2015,A,Western,Nyamasheke,1903,589.9,18.4,5.86,Loam,WH505,Improved,126.8,29.4,3.74,70144,0.84,No,0.203,3.64
+RW-MZ-00042,2015,A,Western,Nyamasheke,1754,726,17.4,5.68,Sandy loam,WH505,Improved,123.1,50.1,2.17,57421,0.51,No,0.077,3.75
+RW-MZ-00043,2015,A,Southern,Nyanza,1642,466.8,17.7,5.78,Clay,Local,Improved,116.3,21,1.55,53596,0.64,No,0.34,1.88
+RW-MZ-00044,2015,A,Southern,Nyanza,1556,509.9,20.3,5.92,Clay loam,ZM621,Improved,104.6,66.5,4.35,50829,0.38,No,0.241,3.54
+RW-MZ-00045,2015,A,Kigali,Nyarugenge,1603,499.2,21,6.38,Loam,WH505,Traditional,17.1,9.7,0.72,43276,1.07,No,0.482,2.43
+RW-MZ-00046,2015,A,Kigali,Nyarugenge,1543,568.5,20.4,5.73,Clay,WH505,Traditional,16.2,18,2.55,40476,0.87,No,0.233,2.88
+RW-MZ-00047,2015,A,Southern,Nyaruguru,1893,700.9,17.2,6.1,Clay loam,ZM607,Traditional,15,13.7,2.41,31163,0.5,No,0.2,2.53
+RW-MZ-00048,2015,A,Southern,Nyaruguru,1913,750.8,17.7,5.29,Loam,PAN691,Improved,135.9,61,0.73,46497,0.82,No,0.424,2.85
+RW-MZ-00049,2015,A,Western,Rubavu,1642,664.3,18.3,5.09,Sandy loam,WH505,Traditional,14.4,26.2,3.8,36977,0.19,No,0.23,2.88
+RW-MZ-00050,2015,A,Western,Rubavu,1678,738.8,18.5,5.23,Clay,WH505,Improved,108.3,57.4,4.05,51580,0.23,No,0.48,2.47
+RW-MZ-00051,2015,A,Southern,Ruhango,1773,591.4,18.1,6.37,Loam,ZM607,Traditional,8.6,16.4,1.72,39971,0.83,No,0.128,3.14
+RW-MZ-00052,2015,A,Southern,Ruhango,1866,591.4,19.4,6.78,Loam,ZM607,Improved,137.7,38.9,2.5,52844,0.81,No,0.091,3.33
+RW-MZ-00053,2015,A,Northern,Rulindo,1842,708.6,19.5,5.37,Volcanic,ZM621,Improved,136,34.5,2.15,51544,0.38,No,0.276,3.73
+RW-MZ-00054,2015,A,Northern,Rulindo,1824,681,18.7,6.64,Loam,Local,Traditional,45.5,2,1.4,41246,0.41,No,0.291,1.63
+RW-MZ-00055,2015,A,Western,Rusizi,1596,607,20.1,5.16,Volcanic,Local,Improved,98.1,30.2,1.13,46896,1.13,No,0.069,2.01
+RW-MZ-00056,2015,A,Western,Rusizi,1461,626.9,20.3,5.33,Sandy loam,WH505,Improved,57,5.5,1.43,42182,0.43,No,0.118,2.35
+RW-MZ-00057,2015,A,Western,Rutsiro,1796,643.2,17.7,6.09,Loam,ZM621,Traditional,31.2,7.9,3.31,34791,0.26,No,0.138,3.63
+RW-MZ-00058,2015,A,Western,Rutsiro,1810,840.9,18.7,5.32,Clay loam,WH505,Improved,75.5,57.8,0,53810,0.88,No,0.048,3.04
+RW-MZ-00059,2015,A,Eastern,Rwamagana,1390,700.4,21,6.16,Loam,WH505,Improved,96.2,59.1,0,51465,0.43,No,0.24,3.63
+RW-MZ-00060,2015,A,Eastern,Rwamagana,1421,604,21.1,6.35,Sandy loam,RHM104,Improved,87.6,68.4,0,55297,0.1,No,0.411,3.37
+RW-MZ-00061,2015,B,Eastern,Bugesera,1357,312.5,21.2,5.75,Clay loam,ZM607,Improved,117.5,7.3,1.94,64985,0.73,No,0.701,2.15
+RW-MZ-00062,2015,B,Eastern,Bugesera,1443,434.6,21.6,6.13,Volcanic,ZM607,Improved,51.9,68.2,2.27,49302,0.66,No,0.202,2.73
+RW-MZ-00063,2015,B,Northern,Burera,2014,685,16.7,5.92,Clay,RHM104,Improved,69.7,60.3,2.02,52411,0.45,No,0.304,2.56
+RW-MZ-00064,2015,B,Northern,Burera,2057,652.8,17.3,6.47,Volcanic,RHM104,Improved,55,99.6,0.61,46736,0.65,No,0.099,3.34
+RW-MZ-00065,2015,B,Northern,Gakenke,1883,546.7,17.7,5.24,Clay loam,RHM104,Improved,82.7,108.4,2.02,60746,0.78,No,0.34,3.02
+RW-MZ-00066,2015,B,Northern,Gakenke,1870,569,18.7,5.71,Sandy loam,Local,Traditional,81.9,24.6,0,40679,1.33,No,0.163,1.54
+RW-MZ-00067,2015,B,Kigali,Gasabo,1521,552.8,19.8,6.17,Sandy loam,ZM607,Traditional,26.8,2.1,2.35,38131,1.75,No,0.126,2.76
+RW-MZ-00068,2015,B,Kigali,Gasabo,1516,596.4,20.1,5.74,Clay,PAN691,Improved,122.2,54.4,0,46906,0.81,No,0.603,2.11
+RW-MZ-00069,2015,B,Eastern,Gatsibo,1393,427.6,21.5,6.59,Clay,ZM607,Improved,87.3,53.6,0,47089,0.4,No,0.676,1.49
+RW-MZ-00070,2015,B,Eastern,Gatsibo,1492,350.1,21.4,5.36,Sandy loam,ZM621,Improved,114.6,27,3.28,48198,0.98,Yes,0.083,2.26
+RW-MZ-00071,2015,B,Northern,Gicumbi,1936,460.4,16.7,5.66,Clay loam,ZM621,Traditional,64.2,0,1.47,40882,3.06,No,0.629,1.74
+RW-MZ-00072,2015,B,Northern,Gicumbi,1947,535.4,19,5.46,Volcanic,ZM607,Traditional,26.1,8.7,1.59,42742,0.27,No,0.66,2.53
+RW-MZ-00073,2015,B,Southern,Gisagara,1605,514.4,20,6.08,Sandy loam,ZM607,Improved,54.4,58.7,1.88,63785,1.15,No,0.362,2.75
+RW-MZ-00074,2015,B,Southern,Gisagara,1665,499.4,19.4,6.34,Volcanic,PAN691,Improved,122.2,78.5,2.96,55044,0.23,Yes,0.116,5.01
+RW-MZ-00075,2015,B,Southern,Huye,1648,554.9,18.8,6.74,Loam,ZM621,Improved,120.6,68,0.7,54064,1.39,No,0.095,3.17
+RW-MZ-00076,2015,B,Southern,Huye,1719,430.3,19.3,5.79,Volcanic,PAN691,Traditional,7.2,0,3.25,40096,2.8,No,0.287,3.61
+RW-MZ-00077,2015,B,Southern,Kamonyi,1638,483.7,19.7,6.15,Clay,RHM104,Improved,151.9,41.4,0.77,54213,1.11,No,0.439,3.4
+RW-MZ-00078,2015,B,Southern,Kamonyi,1696,353.8,20.8,5.82,Loam,RHM104,Traditional,0,0,0.81,40637,0.92,No,0.264,2.51
+RW-MZ-00079,2015,B,Western,Karongi,1700,452,19.2,5.71,Volcanic,Local,Improved,88.5,56.3,1.15,50341,0.65,No,0.236,2.19
+RW-MZ-00080,2015,B,Western,Karongi,1761,477.4,20.2,6.05,Clay,RHM104,Improved,60.7,96.6,3.21,53572,0.16,No,0.309,3.04
+RW-MZ-00081,2015,B,Eastern,Kayonza,1418,459.1,21.6,5.78,Clay,RHM104,Improved,20,62.2,2.49,48244,0.68,No,0.284,2.82
+RW-MZ-00082,2015,B,Eastern,Kayonza,1456,493,21.3,5.84,Clay,ZM621,Improved,133.9,97.9,0.8,54811,0.43,No,0.272,2.74
+RW-MZ-00083,2015,B,Kigali,Kicukiro,1496,509.4,20.4,6.44,Loam,Local,Improved,57.1,25.8,4.48,63341,0.6,No,0.402,2.24
+RW-MZ-00084,2015,B,Kigali,Kicukiro,1491,493.6,20.5,6.14,Loam,ZM607,Traditional,0,9.3,0.74,30687,0.4,No,0.461,2.2
+RW-MZ-00085,2015,B,Eastern,Kirehe,1438,377,21.2,5.17,Clay,RHM104,Traditional,0,0,3.85,21332,0.54,No,0.397,1.89
+RW-MZ-00086,2015,B,Eastern,Kirehe,1475,470.9,20.3,6.48,Loam,Local,Improved,45.3,65.7,3.45,54757,0.26,No,0.582,1.83
+RW-MZ-00087,2015,B,Southern,Muhanga,1672,518.7,19.1,6.13,Loam,ZM621,Improved,155.1,69.6,0.86,46325,1.37,Yes,0.292,2.75
+RW-MZ-00088,2015,B,Southern,Muhanga,1703,542.6,20.5,5.61,Loam,WH505,Improved,86.8,56.7,0,51570,0.57,No,0.144,3.13
+RW-MZ-00089,2015,B,Northern,Musanze,1799,617.6,17.6,5.94,Volcanic,PAN691,Improved,88.4,127.6,2.59,48683,0.44,No,0.453,3.87
+RW-MZ-00090,2015,B,Northern,Musanze,1799,566.9,17.6,5.84,Clay loam,PAN691,Traditional,6.4,2.2,0.58,45806,0.98,No,0.789,2.2
+RW-MZ-00091,2015,B,Eastern,Ngoma,1586,502.3,21.6,6.26,Loam,WH505,Improved,69.6,19.1,2.36,52499,0.51,No,0.142,2.86
+RW-MZ-00092,2015,B,Eastern,Ngoma,1445,444,21.3,5.83,Sandy loam,WH505,Traditional,59.2,0,5.34,43972,1.2,No,0.226,2.6
+RW-MZ-00093,2015,B,Western,Ngororero,1863,517.5,17.7,6.03,Clay,ZM607,Traditional,0,10.5,2.22,35180,0.87,No,0.875,1.2
+RW-MZ-00094,2015,B,Western,Ngororero,1873,692.3,17.7,5.64,Clay loam,PAN691,Traditional,30,0,2.81,44147,0.42,No,0.042,3.4
+RW-MZ-00095,2015,B,Western,Nyabihu,2239,753.5,16.7,6.03,Clay loam,PAN691,Traditional,24.6,14.2,3.63,27408,1.2,No,0.22,2.59
+RW-MZ-00096,2015,B,Western,Nyabihu,2134,537.8,16.5,5.55,Sandy loam,ZM621,Traditional,12.3,29.1,2.8,35686,0.58,No,0.292,2.4
+RW-MZ-00097,2015,B,Eastern,Nyagatare,1468,357.6,22.1,5.62,Clay,Local,Traditional,27.7,46.7,0,46832,0.73,No,0.332,1.21
+RW-MZ-00098,2015,B,Eastern,Nyagatare,1391,350.1,21.8,5.57,Volcanic,Local,Improved,93.1,32.1,1.66,43443,0.39,No,0.622,1.48
+RW-MZ-00099,2015,B,Southern,Nyamagabe,1995,619.9,16.5,6.05,Volcanic,RHM104,Improved,94.1,70.3,1.65,53454,0.67,No,0.472,3.07
+RW-MZ-00100,2015,B,Southern,Nyamagabe,1887,753.4,16.6,6.82,Clay,ZM607,Improved,62.3,41.2,2.6,56333,0.46,No,0.648,2.22
+RW-MZ-00101,2015,B,Western,Nyamasheke,1752,621.3,19.2,5.14,Volcanic,WH505,Traditional,22.6,3,1.06,40806,0.75,No,0.31,3.09
+RW-MZ-00102,2015,B,Western,Nyamasheke,1745,611.9,19.2,5.48,Loam,PAN691,Improved,118.6,55.1,1.49,44558,0.2,No,0.309,2.66
+RW-MZ-00103,2015,B,Southern,Nyanza,1655,438.9,18.5,5.67,Sandy loam,PAN691,Traditional,21,13.1,0.49,42241,1,No,0.223,2.45
+RW-MZ-00104,2015,B,Southern,Nyanza,1711,421.7,18.8,5.64,Clay loam,WH505,Traditional,5.9,23.5,3.11,37042,0.45,No,0.336,2.2
+RW-MZ-00105,2015,B,Kigali,Nyarugenge,1473,471.6,20.2,5.74,Loam,ZM607,Traditional,49.2,0,1.5,38976,0.95,No,0.502,2.13
+RW-MZ-00106,2015,B,Kigali,Nyarugenge,1463,435.2,20,6.26,Clay loam,Local,Traditional,38.6,0,2.35,38700,0.76,No,0.329,1.76
+RW-MZ-00107,2015,B,Southern,Nyaruguru,1922,702.5,15.9,6.16,Sandy loam,ZM607,Traditional,6.2,0,1.51,46564,2.02,Yes,0.436,2.17
+RW-MZ-00108,2015,B,Southern,Nyaruguru,1950,840,18,5.72,Sandy loam,WH505,Improved,131.8,60.8,2.42,53083,0.82,No,0.145,2.75
+RW-MZ-00109,2015,B,Western,Rubavu,1687,496.5,19.1,5.31,Loam,Local,Improved,86.3,63.5,0.78,46119,0.38,No,0.091,1.83
+RW-MZ-00110,2015,B,Western,Rubavu,1673,616.7,19.5,5.02,Loam,ZM607,Traditional,0,15.2,3.78,37081,0.93,No,0.61,1.91
+RW-MZ-00111,2015,B,Southern,Ruhango,1804,464.1,19.5,5.66,Clay loam,ZM607,Improved,138,69.2,1.57,55723,0.56,No,0.134,3.25
+RW-MZ-00112,2015,B,Southern,Ruhango,1740,596.1,18.6,6.14,Volcanic,PAN691,Traditional,40.5,4.9,3.6,31148,0.67,No,0.326,3.43
+RW-MZ-00113,2015,B,Northern,Rulindo,1893,523.8,19.3,5.25,Volcanic,ZM621,Improved,96,62.7,3.27,61266,0.67,No,0.24,4.08
+RW-MZ-00114,2015,B,Northern,Rulindo,1946,451.5,18.1,5.12,Volcanic,ZM621,Improved,146.3,76.5,2.02,50233,0.52,No,0.398,2.72
+RW-MZ-00115,2015,B,Western,Rusizi,1482,558.5,20.4,5.96,Clay,Local,Improved,105.8,44,1.59,51583,0.43,Yes,0.387,1.69
+RW-MZ-00116,2015,B,Western,Rusizi,1418,550.7,22,5.06,Sandy loam,ZM607,Improved,155.1,72.2,2.26,49637,0.68,No,0.157,2.1
+RW-MZ-00117,2015,B,Western,Rutsiro,1869,580.5,18.4,5.06,Loam,ZM607,Improved,167.3,88.2,2.15,47356,0.49,No,0.305,2.22
+RW-MZ-00118,2015,B,Western,Rutsiro,1865,631.8,17.3,5.4,Sandy loam,Local,Improved,166.6,48.7,2.39,59149,0.61,No,0.028,2.01
+RW-MZ-00119,2015,B,Eastern,Rwamagana,1502,396.4,21.7,5.84,Sandy loam,RHM104,Traditional,0,13.4,3.1,40246,0.98,No,0.296,2.2
+RW-MZ-00120,2015,B,Eastern,Rwamagana,1495,572.8,22.1,6.53,Clay loam,PAN691,Traditional,28,12,3.24,37644,0.43,No,0.373,2.62
+RW-MZ-00121,2015,C,Northern,Gicumbi,1967,306.8,17,5.72,Volcanic,PAN691,Improved,93.6,43.9,2.88,50323,1.21,No,0.114,2.38
+RW-MZ-00122,2015,C,Northern,Gicumbi,1956,232.6,16.6,5.39,Loam,PAN691,Improved,49.6,87.7,4.04,48530,0.46,No,0.021,2.16
+RW-MZ-00123,2015,C,Southern,Huye,1817,222.3,18.7,5.81,Sandy loam,ZM607,Traditional,14.4,14.7,1.63,43712,0.17,Yes,0.188,2.03
+RW-MZ-00124,2015,C,Southern,Huye,1729,240.2,18.4,5.98,Loam,Local,Improved,119.5,54.5,2.97,52918,1.02,No,0.338,1.51
+RW-MZ-00125,2015,C,Southern,Kamonyi,1678,310.2,20.6,5.97,Loam,RHM104,Traditional,27.3,0,1.11,29116,0.39,No,0.497,1.61
+RW-MZ-00126,2015,C,Southern,Kamonyi,1662,271.1,19.4,5.93,Volcanic,ZM607,Traditional,38,6,1.82,42977,0.2,No,0.085,2.27
+RW-MZ-00127,2015,C,Western,Karongi,1621,378.2,18.7,5.51,Volcanic,ZM621,Improved,114.5,74.5,2.13,54317,0.57,No,0.117,2.36
+RW-MZ-00128,2015,C,Western,Karongi,1752,336.4,18,4.81,Loam,ZM621,Improved,83.8,76.6,3.4,55903,0.57,No,0.281,2.04
+RW-MZ-00129,2015,C,Eastern,Kirehe,1500,344.5,21.5,5.85,Clay,PAN691,Improved,86.8,82.9,0,58172,0.53,No,0.061,2.09
+RW-MZ-00130,2015,C,Eastern,Kirehe,1471,243.4,21.6,7.08,Sandy loam,RHM104,Improved,115.4,46.8,0.45,66859,0.82,No,0.383,1.69
+RW-MZ-00131,2015,C,Southern,Muhanga,1770,172,19.3,6.52,Clay,RHM104,Improved,115.4,103.6,2.66,57967,0.56,No,0.218,2.17
+RW-MZ-00132,2015,C,Southern,Muhanga,1696,249.4,19.3,5.96,Sandy loam,RHM104,Traditional,0,6.4,2.26,39775,0.54,No,0.437,1.75
+RW-MZ-00133,2015,C,Eastern,Nyagatare,1468,191.5,21.9,5.84,Loam,Local,Improved,90.3,45.1,2.01,57769,0.75,No,0.354,1.41
+RW-MZ-00134,2015,C,Eastern,Nyagatare,1421,230.2,22.2,6.21,Clay loam,Local,Traditional,5.1,29.6,3.26,46924,0.57,No,0.19,1.26
+RW-MZ-00135,2015,C,Southern,Nyanza,1601,327.5,20.2,5.9,Clay,Local,Traditional,17.7,0,3.07,49983,0.33,No,0.381,1.41
+RW-MZ-00136,2015,C,Southern,Nyanza,1714,150,19.2,5.79,Clay,RHM104,Traditional,37.9,1.3,3.91,34234,0.46,No,0.531,1.39
+RW-MZ-00137,2015,C,Northern,Rulindo,1865,219,18.9,5.82,Clay loam,RHM104,Improved,142.6,83,4.28,55152,1.15,No,0.139,2.58
+RW-MZ-00138,2015,C,Northern,Rulindo,1909,258.2,19.1,5.82,Volcanic,Local,Traditional,19.7,0,4.84,42094,0.64,No,0.283,1.54
+RW-MZ-00139,2015,C,Western,Rusizi,1412,301.2,20.2,6.31,Clay loam,ZM607,Improved,155.7,64,1.96,49038,0.95,No,0.22,1.93
+RW-MZ-00140,2015,C,Western,Rusizi,1571,295.6,21.1,5.99,Volcanic,ZM621,Traditional,22.7,2,5.32,35288,0.45,No,0.187,2.05
+RW-MZ-00141,2016,A,Eastern,Bugesera,1534,378.9,21.8,6.48,Clay loam,RHM104,Traditional,17.4,0,2.9,33927,1.23,No,0.132,2.66
+RW-MZ-00142,2016,A,Eastern,Bugesera,1422,557.7,21.3,5.87,Sandy loam,PAN691,Improved,112.7,66.4,3.03,63336,0.74,No,0.475,3.32
+RW-MZ-00143,2016,A,Northern,Burera,1989,669.6,17.2,5.47,Loam,Local,Improved,21.6,50.3,1.99,48313,1.15,No,0.229,1.89
+RW-MZ-00144,2016,A,Northern,Burera,1981,782.2,17.3,5.38,Volcanic,ZM621,Traditional,65.9,23,1.46,39724,0.74,No,0.134,3.18
+RW-MZ-00145,2016,A,Northern,Gakenke,1873,598.3,18.2,5.63,Volcanic,PAN691,Traditional,74.5,18.7,0,19337,1.04,No,0.356,2.84
+RW-MZ-00146,2016,A,Northern,Gakenke,2013,628,18,5.82,Volcanic,RHM104,Improved,53.5,109.4,1.09,49589,0.64,No,0.179,3.21
+RW-MZ-00147,2016,A,Kigali,Gasabo,1458,673.3,20.7,6.66,Loam,PAN691,Traditional,0,0,3.93,33039,0.66,No,0.28,2.89
+RW-MZ-00148,2016,A,Kigali,Gasabo,1527,547.7,19.9,5.83,Loam,ZM621,Traditional,24.5,0.2,3.04,46615,0.51,No,0.118,2.78
+RW-MZ-00149,2016,A,Eastern,Gatsibo,1353,474.6,20.9,5.51,Loam,ZM621,Traditional,5.5,17.8,1.65,36928,0.96,No,0.152,2.53
+RW-MZ-00150,2016,A,Eastern,Gatsibo,1571,426,22,6.18,Loam,Local,Traditional,42.4,24,3.37,37395,1.54,No,0.295,1.81
+RW-MZ-00151,2016,A,Northern,Gicumbi,1878,526.6,17.6,5.39,Clay,ZM621,Improved,123.3,72.7,0.69,53519,0.39,No,0.657,1.87
+RW-MZ-00152,2016,A,Northern,Gicumbi,1862,556.3,17.7,5.97,Sandy loam,PAN691,Improved,81.1,66.8,1.06,51329,0.87,No,0.273,3.3
+RW-MZ-00153,2016,A,Southern,Gisagara,1626,509.3,21,5.8,Loam,ZM607,Improved,89,39.5,3.62,51042,0.6,Yes,0.025,3.01
+RW-MZ-00154,2016,A,Southern,Gisagara,1646,608.3,20.5,5.78,Clay loam,ZM621,Traditional,0,26.1,1.39,31828,0.59,No,0.201,2.7
+RW-MZ-00155,2016,A,Southern,Huye,1814,619.8,18.6,5.69,Loam,RHM104,Improved,75.6,58.7,2.82,56328,1.01,No,0.332,3.27
+RW-MZ-00156,2016,A,Southern,Huye,1729,677.4,19.6,6.02,Clay loam,WH505,Traditional,29.4,19.4,2.57,32077,0.27,No,0.456,2.62
+RW-MZ-00157,2016,A,Southern,Kamonyi,1767,511.6,20.3,5.78,Sandy loam,ZM607,Improved,85.7,61,3.71,53120,0.33,No,0.165,2.95
+RW-MZ-00158,2016,A,Southern,Kamonyi,1713,682.3,20.9,5.59,Loam,RHM104,Improved,55.4,43.9,0.99,58391,1.08,No,0.102,4.05
+RW-MZ-00159,2016,A,Western,Karongi,1671,731,19.5,5.83,Clay loam,PAN691,Traditional,63.2,25.3,2.87,32870,0.73,No,0.452,2.96
+RW-MZ-00160,2016,A,Western,Karongi,1673,491.3,19.4,5.62,Volcanic,RHM104,Improved,99,58.7,2.92,49747,0.38,No,0.244,3.52
+RW-MZ-00161,2016,A,Eastern,Kayonza,1509,489.2,22.4,5.8,Clay loam,Local,Traditional,43.1,0,1.74,28042,0.36,No,0.283,1.46
+RW-MZ-00162,2016,A,Eastern,Kayonza,1430,538.7,21,5.46,Loam,Local,Improved,67.2,37.3,2.69,52572,0.22,No,0.024,1.92
+RW-MZ-00163,2016,A,Kigali,Kicukiro,1423,543.8,20,5.91,Clay,RHM104,Improved,122.7,39.2,0,59117,1.34,No,0.129,3.27
+RW-MZ-00164,2016,A,Kigali,Kicukiro,1518,583.3,21.2,5.57,Sandy loam,ZM621,Improved,106.3,45.4,1.44,47571,0.61,No,0.141,2.61
+RW-MZ-00165,2016,A,Eastern,Kirehe,1383,429.8,21.6,5.53,Loam,PAN691,Traditional,35.4,35,2.47,41377,0.68,No,0.262,2.69
+RW-MZ-00166,2016,A,Eastern,Kirehe,1474,535.5,22.3,6.03,Clay loam,PAN691,Improved,130.3,39.7,2.89,48547,0.3,No,0.348,3.11
+RW-MZ-00167,2016,A,Southern,Muhanga,1612,651.8,19.1,5.58,Loam,RHM104,Traditional,49.4,7.7,4.15,46210,0.78,No,0.437,3.04
+RW-MZ-00168,2016,A,Southern,Muhanga,1735,592.5,20.6,6.77,Sandy loam,WH505,Improved,134.3,84.3,0.51,55959,0.63,No,0.253,3.3
+RW-MZ-00169,2016,A,Northern,Musanze,1910,765.5,16.8,4.5,Clay,RHM104,Improved,153.2,44.7,3.32,52886,0.65,No,0.207,2.25
+RW-MZ-00170,2016,A,Northern,Musanze,1823,773.5,17.2,5.66,Loam,RHM104,Improved,78.3,36.4,0,50848,0.94,No,0.26,2.44
+RW-MZ-00171,2016,A,Eastern,Ngoma,1545,358.2,20.9,5.87,Sandy loam,ZM621,Improved,111.3,52.1,0.35,56994,0.68,No,0.501,2.13
+RW-MZ-00172,2016,A,Eastern,Ngoma,1498,539.4,21.7,6.16,Sandy loam,RHM104,Traditional,26.7,32.2,2.17,36173,0.41,No,0.29,2.64
+RW-MZ-00173,2016,A,Western,Ngororero,2014,708.2,18.2,6.14,Volcanic,PAN691,Traditional,7.6,0,3.09,39023,0.29,No,0.131,4.17
+RW-MZ-00174,2016,A,Western,Ngororero,1819,745.8,17.7,5.93,Clay loam,ZM621,Improved,24.5,59.1,0.47,53607,0.35,No,0.229,2.95
+RW-MZ-00175,2016,A,Western,Nyabihu,2096,768.1,16.5,5.18,Loam,Local,Traditional,0,14.6,1.78,58724,0.8,No,0.419,1.64
+RW-MZ-00176,2016,A,Western,Nyabihu,2139,715.9,17.4,5.75,Clay loam,ZM607,Improved,112.6,93.5,3.58,55736,0.3,No,0.323,2.71
+RW-MZ-00177,2016,A,Eastern,Nyagatare,1463,342.3,22.7,6.31,Volcanic,RHM104,Improved,79.7,48.4,0,58170,1.37,No,0.25,3.04
+RW-MZ-00178,2016,A,Eastern,Nyagatare,1448,401.6,21.5,5.98,Clay loam,PAN691,Improved,86.8,122.3,1.36,49573,0.23,No,0.524,2.82
+RW-MZ-00179,2016,A,Southern,Nyamagabe,2068,644.7,16.2,5.45,Clay loam,WH505,Improved,33.6,95.5,3.4,43728,0.56,No,0.255,2.71
+RW-MZ-00180,2016,A,Southern,Nyamagabe,2006,717.5,17.7,5.87,Clay,RHM104,Improved,98.7,20.5,3.06,64645,1.03,No,0.177,3.73
+RW-MZ-00181,2016,A,Western,Nyamasheke,1779,670.5,19.3,5.65,Loam,ZM607,Improved,115.6,57.4,4.46,54868,0.87,No,0.574,3.2
+RW-MZ-00182,2016,A,Western,Nyamasheke,1778,742.5,19.1,6.12,Sandy loam,Local,Traditional,62.5,0,1.31,43091,1.69,No,0.167,2.08
+RW-MZ-00183,2016,A,Southern,Nyanza,1661,539.4,18.8,6.09,Loam,WH505,Improved,59.3,37.4,2.23,58816,1.41,No,0.222,4.08
+RW-MZ-00184,2016,A,Southern,Nyanza,1745,712.9,19.9,5.59,Loam,WH505,Improved,97.5,61.1,3.14,53790,0.31,No,0.16,3.75
+RW-MZ-00185,2016,A,Kigali,Nyarugenge,1686,426,20.7,5.85,Clay loam,ZM607,Traditional,62.3,15.4,2.07,45968,1.84,No,0.096,2.8
+RW-MZ-00186,2016,A,Kigali,Nyarugenge,1524,645.2,20,5.35,Clay loam,WH505,Traditional,35.2,5.2,3.18,37726,0.5,No,0.458,2.6
+RW-MZ-00187,2016,A,Southern,Nyaruguru,1907,658.6,17.3,4.92,Loam,ZM607,Traditional,0,12.5,1.92,24444,0.76,No,0.293,1.99
+RW-MZ-00188,2016,A,Southern,Nyaruguru,1950,695.3,17.4,6.2,Loam,PAN691,Traditional,44.1,35.3,3.17,29190,0.58,No,0.337,3.16
+RW-MZ-00189,2016,A,Western,Rubavu,1543,679.5,19.6,6.03,Clay loam,ZM621,Improved,114.5,39.4,1.89,52436,0.18,Yes,0.131,3.39
+RW-MZ-00190,2016,A,Western,Rubavu,1733,652.7,19.3,5.4,Sandy loam,WH505,Traditional,15.7,25.4,1.97,33090,0.24,No,0.328,2.22
+RW-MZ-00191,2016,A,Southern,Ruhango,1763,596.9,19.2,5.77,Volcanic,RHM104,Traditional,0,0,1.81,34339,2.66,No,0.42,3.05
+RW-MZ-00192,2016,A,Southern,Ruhango,1734,711.6,19.3,6.55,Clay loam,ZM621,Traditional,84.8,2.7,0.85,30739,2.71,No,0.146,2.45
+RW-MZ-00193,2016,A,Northern,Rulindo,1885,762.2,17.3,5.77,Clay loam,RHM104,Traditional,45.7,0,1.9,34616,0.45,No,0.31,2.48
+RW-MZ-00194,2016,A,Northern,Rulindo,1797,638,18,5.16,Clay loam,RHM104,Traditional,0,24.8,0,35321,0.46,No,0.377,2.43
+RW-MZ-00195,2016,A,Western,Rusizi,1429,565,21.4,5.5,Loam,RHM104,Improved,103.2,83.9,3.21,52042,0.56,No,0.107,3.79
+RW-MZ-00196,2016,A,Western,Rusizi,1440,752.4,20.5,5.31,Clay loam,ZM621,Traditional,13,0,2.36,34998,0.27,No,0.104,2.73
+RW-MZ-00197,2016,A,Western,Rutsiro,1835,659.7,18.6,4.91,Volcanic,ZM621,Improved,110.2,88,1.3,58206,0.45,No,0.086,3.22
+RW-MZ-00198,2016,A,Western,Rutsiro,1790,709.5,18.4,5.61,Loam,PAN691,Improved,63.3,41.2,2.33,52838,0.76,No,0.163,3.89
+RW-MZ-00199,2016,A,Eastern,Rwamagana,1471,574.7,21,6.01,Loam,WH505,Improved,89.1,20.4,0.62,62409,0.84,No,0.034,4.25
+RW-MZ-00200,2016,A,Eastern,Rwamagana,1379,576.4,20.2,6.38,Loam,RHM104,Traditional,29.4,15.3,1.77,40427,0.57,No,0.539,2.73
+RW-MZ-00201,2016,B,Eastern,Bugesera,1390,300.2,20.6,5.65,Clay loam,WH505,Traditional,20.8,12.9,0.16,35230,0.95,No,0.086,2.09
+RW-MZ-00202,2016,B,Eastern,Bugesera,1443,401.7,21.4,5.99,Clay,Local,Traditional,20.9,1.5,1.73,38366,1.14,No,0.31,1.44
+RW-MZ-00203,2016,B,Northern,Burera,2018,659.9,17.5,5.11,Clay loam,ZM621,Improved,108.8,72.6,0,63709,0.47,No,0.526,3.05
+RW-MZ-00204,2016,B,Northern,Burera,1979,754.6,17.7,5.75,Volcanic,Local,Improved,156,65,0,50956,0.99,No,0.614,1.85
+RW-MZ-00205,2016,B,Northern,Gakenke,1779,557.8,18.3,5.05,Loam,PAN691,Traditional,10.4,21.4,1.02,35284,0.58,No,0.07,2.52
+RW-MZ-00206,2016,B,Northern,Gakenke,1886,496.8,18.7,5.76,Loam,RHM104,Improved,60.1,58.9,3.3,58414,0.98,No,0.32,2.86
+RW-MZ-00207,2016,B,Kigali,Gasabo,1509,580.3,20.7,6.4,Volcanic,ZM621,Improved,38.5,54,3.93,41541,0.31,No,0.183,3.52
+RW-MZ-00208,2016,B,Kigali,Gasabo,1504,521.5,20.3,6.34,Clay loam,ZM607,Traditional,30.3,7.4,2.6,20830,0.8,No,0.294,2.1
+RW-MZ-00209,2016,B,Eastern,Gatsibo,1427,375.7,21.4,6.3,Sandy loam,Local,Traditional,21.4,0,2.6,27279,0.51,No,0.357,1.34
+RW-MZ-00210,2016,B,Eastern,Gatsibo,1383,393.7,21.5,5.82,Loam,Local,Improved,83.4,20.3,0.86,42749,0.98,No,0.172,1.8
+RW-MZ-00211,2016,B,Northern,Gicumbi,1944,466.3,17.5,5.26,Volcanic,RHM104,Traditional,32.7,3.3,0,38423,0.68,No,0.574,2.17
+RW-MZ-00212,2016,B,Northern,Gicumbi,1969,489.1,18.3,5.74,Volcanic,ZM607,Traditional,0,9.2,2.42,43836,0.55,No,0.516,2.73
+RW-MZ-00213,2016,B,Southern,Gisagara,1702,389,20.1,6.22,Clay loam,WH505,Improved,208.1,72.9,2.73,57224,0.37,No,0.224,3.62
+RW-MZ-00214,2016,B,Southern,Gisagara,1626,408.6,19.6,6.45,Loam,ZM607,Traditional,29.1,21.7,3.37,39703,0.95,No,0.184,2.21
+RW-MZ-00215,2016,B,Southern,Huye,1765,565.8,19.6,5.78,Sandy loam,PAN691,Improved,64.1,85.4,2.7,45098,1.38,No,0.47,2.42
+RW-MZ-00216,2016,B,Southern,Huye,1779,448.1,18.1,5.67,Volcanic,WH505,Improved,137,27.5,1.69,59148,0.52,No,0.385,3.14
+RW-MZ-00217,2016,B,Southern,Kamonyi,1648,473.4,18.3,5.15,Sandy loam,ZM621,Improved,106.5,108.8,0.1,52835,0.8,No,0.194,2.71
+RW-MZ-00218,2016,B,Southern,Kamonyi,1695,441.1,18.2,5.29,Loam,Local,Traditional,66.1,29,2.04,36239,0.62,No,0.498,1.22
+RW-MZ-00219,2016,B,Western,Karongi,1621,542.2,18.8,4.73,Loam,WH505,Improved,95.2,78.4,0,49460,0.34,No,0.683,2.02
+RW-MZ-00220,2016,B,Western,Karongi,1720,528.9,19.4,5.24,Clay,Local,Traditional,20,0,2.13,29212,0.36,No,0.51,1.22
+RW-MZ-00221,2016,B,Eastern,Kayonza,1446,236.1,20.8,6.06,Loam,ZM607,Improved,89.3,46.8,1.63,59892,0.43,No,0.361,2.68
+RW-MZ-00222,2016,B,Eastern,Kayonza,1367,405.1,21.1,5.9,Sandy loam,Local,Improved,60.6,35.8,5.22,51933,0.42,No,0.361,1.62
+RW-MZ-00223,2016,B,Kigali,Kicukiro,1578,502,21.2,5.52,Clay,ZM621,Traditional,46.8,0,0,34798,1.14,No,0.101,2.18
+RW-MZ-00224,2016,B,Kigali,Kicukiro,1485,534.4,20.5,5.93,Loam,ZM621,Improved,83.8,71.6,0.48,62027,0.45,No,0.481,2.91
+RW-MZ-00225,2016,B,Eastern,Kirehe,1421,332.7,20.4,6.72,Clay,RHM104,Improved,123.2,21.9,1.65,43290,2.91,No,0.244,2.8
+RW-MZ-00226,2016,B,Eastern,Kirehe,1488,467,20.4,6.12,Sandy loam,ZM607,Improved,143.3,41.1,2.08,47113,0.52,No,0.304,2.28
+RW-MZ-00227,2016,B,Southern,Muhanga,1650,563,19,7.2,Sandy loam,PAN691,Improved,153.5,61.6,2.86,41938,0.45,No,0.141,2.76
+RW-MZ-00228,2016,B,Southern,Muhanga,1759,546.4,19.7,6.36,Volcanic,WH505,Traditional,32.6,17.7,2.21,35616,0.55,No,0.454,2.7
+RW-MZ-00229,2016,B,Northern,Musanze,1829,719.7,17.7,5.71,Volcanic,RHM104,Traditional,42.9,8.6,3.62,38047,1.08,No,0.042,3.63
+RW-MZ-00230,2016,B,Northern,Musanze,1814,681.3,17.6,5.71,Clay,ZM621,Improved,67.1,32.6,4.42,53605,0.46,No,0.306,2.64
+RW-MZ-00231,2016,B,Eastern,Ngoma,1440,393.7,22.4,5.97,Loam,ZM621,Improved,29.9,41,3.47,49226,0.41,No,0.606,2.06
+RW-MZ-00232,2016,B,Eastern,Ngoma,1452,371.5,20.6,5.59,Loam,Local,Improved,159.5,43.3,2.44,54876,0.58,No,0.47,1.49
+RW-MZ-00233,2016,B,Western,Ngororero,1918,621.2,18.4,6.59,Loam,ZM621,Traditional,30.3,15.7,1.92,44517,0.46,No,0.432,2.48
+RW-MZ-00234,2016,B,Western,Ngororero,1926,540.3,19.1,5.95,Loam,Local,Traditional,12.1,21.4,2.58,39294,0.65,No,0.412,1.59
+RW-MZ-00235,2016,B,Western,Nyabihu,2081,640.2,16.7,5.76,Clay,ZM621,Traditional,50.1,22.3,2.86,31980,1.44,No,0.649,1.72
+RW-MZ-00236,2016,B,Western,Nyabihu,2341,635.6,16.8,6.02,Volcanic,Local,Traditional,2.9,0,0.39,34934,0.86,No,0.023,1.77
+RW-MZ-00237,2016,B,Eastern,Nyagatare,1500,390.7,23,6.02,Clay,Local,Traditional,43.2,27.9,1.02,37236,0.6,No,0.231,1.12
+RW-MZ-00238,2016,B,Eastern,Nyagatare,1400,388.9,21.4,5.89,Sandy loam,PAN691,Improved,147.9,61.3,4.14,54540,1.12,No,0.438,2.55
+RW-MZ-00239,2016,B,Southern,Nyamagabe,2060,643.5,16.7,6.36,Clay,Local,Traditional,52,21,2.4,38537,0.58,No,0.133,1.65
+RW-MZ-00240,2016,B,Southern,Nyamagabe,2021,717.8,16.9,6.24,Clay loam,Local,Traditional,0,12.4,4.47,36912,0.88,No,0.236,1.93
+RW-MZ-00241,2016,B,Western,Nyamasheke,1767,615.9,19.7,6.36,Sandy loam,RHM104,Improved,119.5,57.1,2.28,46652,1.46,No,0.117,3.21
+RW-MZ-00242,2016,B,Western,Nyamasheke,1746,708.9,17.3,5.2,Volcanic,Local,Improved,98.5,61.7,3.27,64037,0.85,No,0.585,1.71
+RW-MZ-00243,2016,B,Southern,Nyanza,1663,447.3,19.4,5.67,Sandy loam,PAN691,Improved,124.1,73.7,2.36,56339,0.65,No,0.14,3.28
+RW-MZ-00244,2016,B,Southern,Nyanza,1645,457.1,18.8,6.51,Volcanic,Local,Traditional,20.3,55.5,1.66,39531,0.53,No,0.277,1.95
+RW-MZ-00245,2016,B,Kigali,Nyarugenge,1569,538.8,21.4,6.07,Sandy loam,RHM104,Improved,66.3,91.7,4.06,47053,1.2,No,0.265,3.28
+RW-MZ-00246,2016,B,Kigali,Nyarugenge,1490,537.7,20,6.86,Clay loam,Local,Traditional,4.4,28.6,2.43,26517,1.25,No,0.529,1.23
+RW-MZ-00247,2016,B,Southern,Nyaruguru,1870,599.6,16.6,5.41,Sandy loam,ZM607,Improved,121.9,53,0.55,51331,0.77,No,0.648,1.9
+RW-MZ-00248,2016,B,Southern,Nyaruguru,1825,509.1,17.2,5.57,Clay,RHM104,Improved,120.4,75,0.64,51438,0.22,No,0.456,2.06
+RW-MZ-00249,2016,B,Western,Rubavu,1661,469.3,19.8,5.93,Loam,RHM104,Improved,106,40.5,4.78,50889,1.07,No,0.527,3.22
+RW-MZ-00250,2016,B,Western,Rubavu,1761,631.1,19,5.36,Clay loam,ZM607,Traditional,6.7,0.3,3.1,32000,0.83,No,0.31,2.07
+RW-MZ-00251,2016,B,Southern,Ruhango,1697,519.6,19.6,5.46,Clay,Local,Traditional,39.3,0,2.54,44549,0.9,No,0.285,1.54
+RW-MZ-00252,2016,B,Southern,Ruhango,1740,486.3,18,6.42,Loam,ZM621,Improved,87.6,49.5,2.18,58923,0.48,No,0.331,2.81
+RW-MZ-00253,2016,B,Northern,Rulindo,1943,605.2,17.7,6.04,Clay loam,Local,Traditional,0,8.2,1.74,42948,0.22,No,0.453,1.46
+RW-MZ-00254,2016,B,Northern,Rulindo,1829,522.4,17.8,5.77,Loam,RHM104,Improved,114.9,39.6,2.45,57685,0.31,No,0.662,2.68
+RW-MZ-00255,2016,B,Western,Rusizi,1456,582.9,21,4.52,Clay,WH505,Improved,134.8,43.1,0.97,55150,1.95,No,0.284,2.33
+RW-MZ-00256,2016,B,Western,Rusizi,1442,526.9,21.1,5.32,Clay loam,Local,Improved,162.8,22.5,1.99,55198,0.39,No,0.086,1.63
+RW-MZ-00257,2016,B,Western,Rutsiro,2026,586.6,17.1,5.25,Loam,Local,Improved,90.9,43.5,4.52,51870,0.51,No,0.177,1.93
+RW-MZ-00258,2016,B,Western,Rutsiro,1925,,19.1,,Clay,ZM607,Improved,86.8,36,4.11,37764,1.08,No,,2.43
+RW-MZ-00259,2016,B,Eastern,Rwamagana,1501,541.7,20,6.37,Sandy loam,ZM621,Improved,120.3,39.3,3.08,53680,0.32,No,0.462,2.84
+RW-MZ-00260,2016,B,Eastern,Rwamagana,1389,520.1,21.5,6.15,Clay loam,WH505,Improved,33.6,68.5,2.28,56345,0.3,No,0.676,3.03
+RW-MZ-00261,2016,C,Northern,Gicumbi,2033,331.4,18.4,5.24,Loam,Local,Improved,76.6,66.4,0,57198,0.38,Yes,0.211,1.96
+RW-MZ-00262,2016,C,Northern,Gicumbi,1911,282.2,18,5.94,Clay loam,RHM104,Improved,36.2,88.1,5.1,53480,0.19,No,0.093,2.47
+RW-MZ-00263,2016,C,Southern,Huye,1684,291.4,19.2,5.66,Sandy loam,Local,Improved,140.2,58.9,0,58796,0.54,Yes,0.201,1.73
+RW-MZ-00264,2016,C,Southern,Huye,1765,193.4,19,6.25,Loam,ZM607,Traditional,0,23,1.27,41274,1.29,No,0.264,1.84
+RW-MZ-00265,2016,C,Western,Karongi,1639,291,19.5,5.32,Loam,RHM104,Improved,121.4,19.3,4.4,54094,1.45,No,0.105,2.46
+RW-MZ-00266,2016,C,Western,Karongi,1774,180.4,19.2,5.41,Clay loam,ZM607,Traditional,56.8,2,2.37,37667,0.24,Yes,0.27,1.81
+RW-MZ-00267,2016,C,Kigali,Kicukiro,1521,150,20.8,5.45,Loam,ZM621,Improved,81.3,60.2,1.2,44225,1.07,No,0.32,1.52
+RW-MZ-00268,2016,C,Kigali,Kicukiro,1624,337.6,20.5,5.69,Sandy loam,RHM104,Traditional,10.7,18.4,1.61,41440,0.46,No,0.473,1.76
+RW-MZ-00269,2016,C,Western,Nyabihu,2177,452.6,17.3,5.5,Loam,PAN691,Improved,88,60.9,2.45,56323,0.62,No,0.161,3.04
+RW-MZ-00270,2016,C,Western,Nyabihu,2214,417.8,16.8,6.91,Loam,ZM621,Traditional,34.9,39.3,1,43429,1.35,No,0.072,2.02
+RW-MZ-00271,2016,C,Eastern,Nyagatare,1359,215.4,21.5,6.13,Sandy loam,RHM104,Traditional,0,0,2.21,40927,0.92,Yes,0.017,2.57
+RW-MZ-00272,2016,C,Eastern,Nyagatare,1358,192.8,21.4,6.22,Sandy loam,WH505,Traditional,31.7,0,2.64,53758,1.51,Yes,0.337,2.19
+RW-MZ-00273,2016,C,Kigali,Nyarugenge,1493,328.7,21.4,5.67,Loam,RHM104,Traditional,23.6,10.1,3.71,45244,0.55,No,0.272,1.99
+RW-MZ-00274,2016,C,Kigali,Nyarugenge,1541,291.9,19.7,5.33,Sandy loam,RHM104,Improved,35,43,1.99,58582,0.42,No,0.084,2.14
+RW-MZ-00275,2016,C,Southern,Nyaruguru,1904,318.8,17.7,6.21,Clay,Local,Traditional,60.1,4.9,2.16,30324,0.92,No,0.134,1.14
+RW-MZ-00276,2016,C,Southern,Nyaruguru,2069,409.5,17.8,5.98,Clay,PAN691,Improved,87.5,32.4,2.1,53690,1.18,No,0.414,2.04
+RW-MZ-00277,2016,C,Southern,Ruhango,1762,259.8,19,6.19,Clay loam,ZM621,Improved,134.9,36.6,0.64,52545,0.51,No,0.216,2.45
+RW-MZ-00278,2016,C,Southern,Ruhango,1813,418.7,19.3,5.88,Clay loam,ZM621,Improved,172.7,38.9,3.29,54246,0.26,No,0.408,2.15
+RW-MZ-00279,2017,A,Eastern,Bugesera,1534,433.7,22.5,6.26,Sandy loam,RHM104,Improved,73.1,40.8,3.52,50481,0.35,No,0.247,2.85
+RW-MZ-00280,2017,A,Eastern,Bugesera,1347,545.2,22.4,7.12,Clay loam,RHM104,Improved,80.4,62.7,1.03,55387,0.45,No,0.506,2.27
+RW-MZ-00281,2017,A,Northern,Burera,1990,838.1,17.4,5.87,Clay loam,ZM621,Traditional,19.9,0,0.4,26766,0.3,No,0.212,2.36
+RW-MZ-00282,2017,A,Northern,Burera,2028,839.6,16.9,4.75,Loam,ZM621,Traditional,28.7,4.6,0,42028,0.48,No,0.17,2.02
+RW-MZ-00283,2017,A,Northern,Gakenke,1848,671.8,18.1,5.02,Volcanic,RHM104,Improved,136.7,42,4.03,61666,1.05,No,0.023,4.56
+RW-MZ-00284,2017,A,Northern,Gakenke,1861,628.1,18.3,5.15,Volcanic,Local,Traditional,56.2,27,2.01,23979,0.35,No,0.052,1.69
+RW-MZ-00285,2017,A,Kigali,Gasabo,1680,439.7,20.1,6.41,Clay,Local,Traditional,14.2,0,5.09,36867,2.39,No,0.062,1.7
+RW-MZ-00286,2017,A,Kigali,Gasabo,1458,572.2,20,6.65,Clay loam,Local,Traditional,41.5,0,1.03,40969,0.46,No,0.133,1.72
+RW-MZ-00287,2017,A,Eastern,Gatsibo,1379,603.4,21.7,6.78,Loam,Local,Traditional,12.1,0,0,45722,0.46,No,0.049,1.6
+RW-MZ-00288,2017,A,Eastern,Gatsibo,1487,552.3,21.3,5.89,Volcanic,ZM621,Traditional,57.1,6.8,1.79,39020,1.14,No,0.445,2.71
+RW-MZ-00289,2017,A,Northern,Gicumbi,1995,583.5,17.1,6.22,Loam,ZM621,Traditional,33.1,0,1.71,32151,0.53,No,0.089,2.67
+RW-MZ-00290,2017,A,Northern,Gicumbi,1911,662.2,18.2,5.87,Volcanic,RHM104,Traditional,29.1,6.7,4.3,35132,0.85,No,0.17,3.18
+RW-MZ-00291,2017,A,Southern,Gisagara,1669,508.7,18,6.96,Sandy loam,ZM607,Traditional,16.3,12,1.27,47911,0.63,No,0.404,2.47
+RW-MZ-00292,2017,A,Southern,Gisagara,1717,494.4,20.1,6.52,Volcanic,Local,Traditional,0,2.2,1.92,48614,0.92,No,0.092,2.18
+RW-MZ-00293,2017,A,Southern,Huye,1759,630.6,18.4,6.09,Sandy loam,RHM104,Traditional,5.1,23,0,40297,3.13,No,0.229,2.92
+RW-MZ-00294,2017,A,Southern,Huye,1786,507.8,19.9,6.55,Loam,Local,Improved,87.7,53.3,4.16,56953,2.51,No,0.343,2.34
+RW-MZ-00295,2017,A,Southern,Kamonyi,1721,525.2,20,6.61,Loam,WH505,Improved,67.4,53.3,4.41,44464,0.25,No,0.234,3.32
+RW-MZ-00296,2017,A,Southern,Kamonyi,1610,533.5,20.9,6,Clay,ZM621,Improved,97.7,44.4,2.11,58384,0.67,No,0.451,2.89
+RW-MZ-00297,2017,A,Western,Karongi,1793,702.1,19,4.54,Clay,ZM621,Improved,166.1,59.6,0.06,50482,0.67,No,0.412,1.88
+RW-MZ-00298,2017,A,Western,Karongi,1707,663.1,19,5.79,Loam,ZM607,Improved,49.5,87.2,1.84,59952,0.59,No,0.124,3.46
+RW-MZ-00299,2017,A,Eastern,Kayonza,1399,477.4,21.3,6.35,Loam,PAN691,Traditional,19.1,7.4,0.03,31779,0.49,No,0.151,3.04
+RW-MZ-00300,2017,A,Eastern,Kayonza,1453,451.5,22.4,6.1,Volcanic,RHM104,Traditional,10.7,13.3,3.39,31038,0.68,No,0.091,2.88
+RW-MZ-00301,2017,A,Kigali,Kicukiro,1445,520.5,20.5,6.34,Clay loam,Local,Traditional,51.4,12.1,6.86,44327,0.81,No,0.125,2.28
+RW-MZ-00302,2017,A,Kigali,Kicukiro,1540,636.8,19.4,6.54,Sandy loam,ZM621,Traditional,26.2,5.9,2.55,36129,1.13,No,0.198,2.48
+RW-MZ-00303,2017,A,Eastern,Kirehe,1415,541.4,20.4,6.5,Clay,Local,Improved,121.8,39.9,0.52,60130,0.83,No,0.285,2.19
+RW-MZ-00304,2017,A,Eastern,Kirehe,1577,623.7,21.1,6.32,Clay loam,ZM607,Improved,137.6,106.2,1.61,53208,0.49,No,0.574,2.85
+RW-MZ-00305,2017,A,Southern,Muhanga,1732,528.2,19.8,5.93,Loam,Local,Traditional,58.2,0,2.38,42168,0.27,No,0.071,1.93
+RW-MZ-00306,2017,A,Southern,Muhanga,1641,770.5,19.6,6.58,Volcanic,ZM607,Traditional,34.9,0,0.79,43929,1.37,No,0.514,2.91
+RW-MZ-00307,2017,A,Northern,Musanze,1835,822.8,17.2,5.82,Volcanic,PAN691,Improved,78.9,75.4,4.79,55830,0.94,No,0.101,4.98
+RW-MZ-00308,2017,A,Northern,Musanze,1921,665.1,17.8,5.08,Loam,PAN691,Traditional,0.8,2.9,0.55,37392,0.71,No,0.336,2.55
+RW-MZ-00309,2017,A,Eastern,Ngoma,1558,469.4,22.1,6.03,Clay,WH505,Traditional,0,30.4,1.79,49344,0.63,Yes,0.3,2.71
+RW-MZ-00310,2017,A,Eastern,Ngoma,1502,435.4,21.7,5.9,Loam,ZM621,Improved,153.8,68.5,2.31,58403,1.29,No,0.412,2.78
+RW-MZ-00311,2017,A,Western,Ngororero,1860,786.2,17.3,5.48,Volcanic,WH505,Traditional,38.3,39.5,0,47657,0.48,No,0.074,3.37
+RW-MZ-00312,2017,A,Western,Ngororero,1913,735.8,17.9,5.58,Clay loam,ZM621,Traditional,20.2,0,4.58,36677,0.88,No,0.395,2.64
+RW-MZ-00313,2017,A,Western,Nyabihu,2157,750.3,15.9,4.94,Clay,Local,Traditional,0,16.3,4.06,35581,0.59,No,0.018,1.34
+RW-MZ-00314,2017,A,Western,Nyabihu,2153,697.8,16.7,5.46,Sandy loam,RHM104,Improved,93.7,52,2.3,57488,1.02,No,0.28,2.85
+RW-MZ-00315,2017,A,Eastern,Nyagatare,1439,446.5,21.4,5.84,Clay loam,WH505,Improved,122.6,46.6,0.42,51596,1.3,Yes,0.101,3.03
+RW-MZ-00316,2017,A,Eastern,Nyagatare,1336,507.9,21.1,5.61,Clay loam,ZM621,Traditional,32.3,11.2,0,50332,0.39,No,0.179,2.38
+RW-MZ-00317,2017,A,Southern,Nyamagabe,2102,863.9,16.9,6.02,Clay loam,RHM104,Traditional,65.6,13.1,2.86,37078,0.92,No,0.204,2.71
+RW-MZ-00318,2017,A,Southern,Nyamagabe,2037,933.3,16.3,5.5,Loam,ZM607,Traditional,39.8,12.6,2.79,33847,0.58,No,0.092,2.21
+RW-MZ-00319,2017,A,Western,Nyamasheke,1873,861.9,18.5,5.38,Clay,WH505,Improved,129.5,37.2,3.36,51734,0.51,No,0.271,2.77
+RW-MZ-00320,2017,A,Western,Nyamasheke,1791,695.8,20.1,5.94,Clay loam,WH505,Traditional,0,8.6,2.33,35503,0.82,No,0.322,3.17
+RW-MZ-00321,2017,A,Southern,Nyanza,1719,512.8,20.1,6.15,Clay,WH505,Improved,80.7,63.9,1.15,57698,0.6,No,0.176,3.25
+RW-MZ-00322,2017,A,Southern,Nyanza,1787,558.8,19.1,6.12,Loam,WH505,Traditional,40.8,15.7,1.87,30433,0.59,No,0.195,2.73
+RW-MZ-00323,2017,A,Kigali,Nyarugenge,1534,493.3,20.5,5.67,Sandy loam,Local,Improved,148,82.6,0.43,52982,1.24,Yes,0.313,1.71
+RW-MZ-00324,2017,A,Kigali,Nyarugenge,1624,544.7,20.5,6.01,Sandy loam,ZM607,Traditional,19.5,5.6,2.54,25285,1.14,No,0.406,1.94
+RW-MZ-00325,2017,A,Southern,Nyaruguru,1883,712.4,18.1,6.43,Loam,Local,Traditional,18.1,21.7,1.97,44821,1.48,No,0.353,1.63
+RW-MZ-00326,2017,A,Southern,Nyaruguru,1934,729.6,17.6,5.68,Sandy loam,WH505,Traditional,5.7,9.5,0,34505,0.57,No,0.237,2.53
+RW-MZ-00327,2017,A,Western,Rubavu,1747,681.1,19.9,4.9,Sandy loam,RHM104,Improved,84.4,64.1,2.62,52149,0.54,No,0.264,3.19
+RW-MZ-00328,2017,A,Western,Rubavu,1673,669.9,19.2,5.53,Volcanic,PAN691,Traditional,13.7,28.9,2.89,45020,0.37,Yes,0.054,3.71
+RW-MZ-00329,2017,A,Southern,Ruhango,1691,567.1,19.5,5.85,Loam,PAN691,Improved,122.2,82.2,0.52,57023,0.49,No,0.353,3.46
+RW-MZ-00330,2017,A,Southern,Ruhango,1719,550.1,19,5.06,Loam,PAN691,Traditional,33.8,1,2.88,42339,0.42,No,0.031,2.9
+RW-MZ-00331,2017,A,Northern,Rulindo,1884,591.2,18.6,5.53,Volcanic,ZM621,Traditional,23,3.9,3.77,34850,0.27,No,0.443,2.89
+RW-MZ-00332,2017,A,Northern,Rulindo,1914,617.6,18.4,5.27,Clay loam,PAN691,Improved,93.4,52.4,3.54,41933,0.53,No,0.226,2.99
+RW-MZ-00333,2017,A,Western,Rusizi,1520,673,20.8,6.23,Clay,RHM104,Traditional,22.9,16.2,2.34,43766,0.54,No,0.34,2.65
+RW-MZ-00334,2017,A,Western,Rusizi,1497,715.1,21.6,5.55,Clay,RHM104,Improved,75.7,44.1,3.26,52747,0.36,No,0.315,2.49
+RW-MZ-00335,2017,A,Western,Rutsiro,1896,785.6,17.6,5.2,Volcanic,PAN691,Traditional,62,17.9,2.49,36158,1,No,0.188,3.22
+RW-MZ-00336,2017,A,Western,Rutsiro,1902,749.2,17.7,5.12,Loam,Local,Traditional,15.3,5.5,4.07,35877,0.46,No,0.353,1.77
+RW-MZ-00337,2017,A,Eastern,Rwamagana,1431,503.9,20.7,5.44,Loam,ZM621,Improved,97.3,77.6,0,56409,0.61,No,0.493,2.6
+RW-MZ-00338,2017,A,Eastern,Rwamagana,1492,475.8,20.1,6.09,Loam,PAN691,Traditional,30.6,9.2,3.3,41640,0.11,No,0.115,2.99
+RW-MZ-00339,2017,B,Eastern,Bugesera,1404,313.2,20.8,5.91,Sandy loam,PAN691,Improved,123.8,86.4,1.35,52762,0.66,No,0.322,2.43
+RW-MZ-00340,2017,B,Eastern,Bugesera,1485,424.2,21.6,6.43,Clay loam,RHM104,Improved,107.3,87.5,3.38,55256,1.44,No,0.168,2.73
+RW-MZ-00341,2017,B,Northern,Burera,1991,838.5,16.8,4.84,Volcanic,PAN691,Traditional,45.2,0,1.29,43541,0.23,No,0.283,2.62
+RW-MZ-00342,2017,B,Northern,Burera,1945,690.9,17.1,5.04,Loam,WH505,Traditional,6.4,15.7,0,38088,0.95,No,0.161,1.99
+RW-MZ-00343,2017,B,Northern,Gakenke,1938,564.4,18.2,5.54,Clay loam,Local,Traditional,0,16.7,1.4,43038,0.73,No,0.403,1.65
+RW-MZ-00344,2017,B,Northern,Gakenke,1789,496.5,18.1,4.65,Volcanic,ZM621,Traditional,27.9,0,1.41,40029,0.89,No,0.411,1.87
+RW-MZ-00345,2017,B,Kigali,Gasabo,1515,418.6,20.9,6.25,Loam,ZM621,Traditional,0,11.6,2.77,39965,0.94,No,0.638,2.07
+RW-MZ-00346,2017,B,Kigali,Gasabo,1553,460.5,20.2,5.52,Clay loam,Local,Traditional,0,4.1,0,40278,1.05,No,0.286,1.57
+RW-MZ-00347,2017,B,Eastern,Gatsibo,1387,366.2,21.5,4.96,Volcanic,ZM621,Improved,32.1,50.5,3.51,44291,0.77,No,0.633,1.76
+RW-MZ-00348,2017,B,Eastern,Gatsibo,1415,347.5,22.1,6.11,Sandy loam,RHM104,Improved,156.5,73.7,3,36998,0.64,No,0.583,2.29
+RW-MZ-00349,2017,B,Northern,Gicumbi,2017,562,18.8,5.82,Clay loam,PAN691,Improved,115.9,59.6,1.71,52386,0.66,No,0.217,2.89
+RW-MZ-00350,2017,B,Northern,Gicumbi,2001,511.3,18.4,5.21,Clay loam,WH505,Improved,140.1,63,1.37,52731,0.31,No,0.092,2.48
+RW-MZ-00351,2017,B,Southern,Gisagara,1618,460,20.5,6.31,Loam,RHM104,Traditional,36,15.1,1.43,30024,0.73,No,0.034,2.67
+RW-MZ-00352,2017,B,Southern,Gisagara,1678,350.4,20.2,6.91,Sandy loam,ZM621,Improved,83.5,25.1,3.05,59707,0.56,No,0.179,2.83
+RW-MZ-00353,2017,B,Southern,Huye,1643,599.2,19,7.2,Loam,PAN691,Traditional,11.4,27.2,0,25054,0.68,No,0.557,2.18
+RW-MZ-00354,2017,B,Southern,Huye,1699,622.8,19.5,6.45,Loam,ZM621,Improved,130.4,14.5,0,48583,0.62,No,0.251,3.1
+RW-MZ-00355,2017,B,Southern,Kamonyi,1551,370.6,20.5,,Clay loam,Local,Traditional,30.9,27.3,0,38184,0.35,No,,1.44
+RW-MZ-00356,2017,B,Southern,Kamonyi,1711,536.9,20.4,5.9,Loam,ZM621,Improved,93.8,59,3.07,49240,0.44,No,0.709,2.22
+RW-MZ-00357,2017,B,Western,Karongi,1649,495.8,18.3,5.17,Loam,WH505,Traditional,4.1,21.4,0.46,38235,0.69,No,0.338,1.86
+RW-MZ-00358,2017,B,Western,Karongi,1628,448.7,19.1,5.92,Clay loam,ZM607,Improved,95.6,34.2,1.95,58964,0.36,No,0.098,2.96
+RW-MZ-00359,2017,B,Eastern,Kayonza,1487,339.6,21.6,6.45,Loam,RHM104,Improved,29,73.4,6.65,52263,0.62,No,0.929,2.63
+RW-MZ-00360,2017,B,Eastern,Kayonza,1544,339.1,21.5,5.49,Clay loam,Local,Traditional,3.6,1.8,4.23,38620,0.48,No,0.048,1.4
+RW-MZ-00361,2017,B,Kigali,Kicukiro,1466,447.7,19.5,6.05,Loam,PAN691,Traditional,0,15.7,0.51,43449,0.8,No,0.105,3.26
+RW-MZ-00362,2017,B,Kigali,Kicukiro,1555,528.1,19.9,5.41,Volcanic,ZM607,Improved,117.4,73.3,0.52,52370,0.27,No,0.338,2.68
+RW-MZ-00363,2017,B,Eastern,Kirehe,1435,439.7,20.4,6.15,Clay,ZM621,Improved,140.9,28.3,0.46,57329,1.28,No,0.318,2.46
+RW-MZ-00364,2017,B,Eastern,Kirehe,1475,413.1,21.3,5.74,Clay,ZM621,Traditional,33.1,9.1,1.41,32631,1.04,No,0.253,1.78
+RW-MZ-00365,2017,B,Southern,Muhanga,1629,557.8,19.7,6.16,Loam,ZM607,Traditional,0,21.9,3.34,39889,1.32,No,0.625,2.21
+RW-MZ-00366,2017,B,Southern,Muhanga,1718,619.1,19.8,5.99,Loam,RHM104,Traditional,4.3,9.9,3.3,26383,0.65,No,0.26,2.71
+RW-MZ-00367,2017,B,Northern,Musanze,1851,626.5,17.4,5.62,Clay,PAN691,Traditional,10,1.7,1.82,37731,0.52,Yes,0.351,2.63
+RW-MZ-00368,2017,B,Northern,Musanze,1866,590.4,18.2,5.22,Clay,WH505,Improved,45.3,73.6,1.41,62239,0.47,No,0.647,2.05
+RW-MZ-00369,2017,B,Eastern,Ngoma,1487,497.5,21,5.51,Volcanic,ZM621,Improved,151,77.8,2.37,53982,0.37,No,0.365,2.9
+RW-MZ-00370,2017,B,Eastern,Ngoma,1483,565.1,22,6,Clay loam,WH505,Improved,111,52,2.5,52869,0.45,Yes,0.261,3.17
+RW-MZ-00371,2017,B,Western,Ngororero,1903,482.2,17.8,5.53,Clay loam,ZM607,Traditional,15.2,12.3,1.01,46867,0.9,No,0.214,2.36
+RW-MZ-00372,2017,B,Western,Ngororero,1804,507.9,17.7,5.73,Loam,RHM104,Improved,137.9,52.2,0.43,53456,0.89,No,0.166,3.24
+RW-MZ-00373,2017,B,Western,Nyabihu,2257,545.3,16.3,5.49,Clay loam,ZM621,Improved,152.3,105.5,1.63,55633,0.32,No,0.235,2.51
+RW-MZ-00374,2017,B,Western,Nyabihu,2109,623.7,16.2,5.92,Sandy loam,WH505,Traditional,37.9,0,0,49956,0.46,No,0.656,2.15
+RW-MZ-00375,2017,B,Eastern,Nyagatare,1366,299.1,22.3,6.28,Clay,PAN691,Traditional,0,5,1.22,40786,1.23,No,0.163,2.06
+RW-MZ-00376,2017,B,Eastern,Nyagatare,1520,517.2,22,6.07,Sandy loam,ZM607,Improved,74.8,53.2,1.68,53875,0.44,No,0.73,1.9
+RW-MZ-00377,2017,B,Southern,Nyamagabe,2047,513.4,16.1,6.27,Clay loam,ZM621,Improved,129.5,37.8,3.57,72248,0.17,No,0.06,3.13
+RW-MZ-00378,2017,B,Southern,Nyamagabe,2000,540.8,17.7,5.84,Clay,WH505,Improved,166.8,90.5,0.8,52490,0.72,No,0.398,2.75
+RW-MZ-00379,2017,B,Western,Nyamasheke,1746,587.1,18.8,5.4,Clay,PAN691,Improved,96.2,75.5,2.11,51858,0.82,No,0.283,2.99
+RW-MZ-00380,2017,B,Western,Nyamasheke,1877,552.7,18.7,5.17,Loam,Local,Improved,143.9,45.7,1.72,46927,1.1,No,0.423,1.5
+RW-MZ-00381,2017,B,Southern,Nyanza,1649,354.3,20.4,4.89,Clay,WH505,Improved,115.6,88.8,2.55,56508,0.52,No,0.308,1.87
+RW-MZ-00382,2017,B,Southern,Nyanza,1815,548,19.3,5.96,Volcanic,Local,Improved,188.7,64.7,2.99,42881,0.5,No,0.276,2.35
+RW-MZ-00383,2017,B,Kigali,Nyarugenge,1470,496.7,20.7,6.03,Loam,ZM607,Improved,77.6,62.5,1.67,57261,1.47,No,0.089,3.14
+RW-MZ-00384,2017,B,Kigali,Nyarugenge,1539,493.9,20.8,5.9,Loam,ZM607,Traditional,0,0,4.41,44254,0.62,Yes,0.189,2.73
+RW-MZ-00385,2017,B,Southern,Nyaruguru,1947,710.2,17.8,6.81,Volcanic,Local,Improved,100.8,28,3.67,49987,0.45,No,0.559,1.88
+RW-MZ-00386,2017,B,Southern,Nyaruguru,1890,726.2,17.7,6.79,Clay,ZM607,Improved,159.7,110,3.78,53154,0.59,No,0.543,2.19
+RW-MZ-00387,2017,B,Western,Rubavu,1685,517.1,19.5,5.63,Sandy loam,ZM607,Traditional,24.2,26.6,1.11,37158,0.35,No,0.822,1.71
+RW-MZ-00388,2017,B,Western,Rubavu,1550,677.8,19.1,5.39,Clay loam,PAN691,Traditional,56.6,23.3,1.54,41850,0.77,No,0.101,2.93
+RW-MZ-00389,2017,B,Southern,Ruhango,1758,578.1,19.1,5.44,Clay loam,ZM607,Improved,98.7,42,2.92,52739,0.74,No,0.307,2.39
+RW-MZ-00390,2017,B,Southern,Ruhango,1702,432.9,19.3,6.17,Volcanic,ZM621,Traditional,57.6,0,1.07,35556,0.53,No,0.703,2.44
+RW-MZ-00391,2017,B,Northern,Rulindo,1875,518.6,18.7,5.07,Volcanic,ZM607,Traditional,0,30.6,1.79,26696,0.11,No,0.238,1.94
+RW-MZ-00392,2017,B,Northern,Rulindo,1823,545.8,18.3,5.28,Volcanic,RHM104,Traditional,11.4,26.1,1.8,33832,1.17,No,0.243,2.72
+RW-MZ-00393,2017,B,Western,Rusizi,1493,531.5,21.2,6.1,Volcanic,Local,Improved,93.5,56.6,2.63,55068,0.95,No,0.094,2.12
+RW-MZ-00394,2017,B,Western,Rusizi,1475,557,20.3,5.46,Loam,WH505,Traditional,0,15.3,1.92,41098,0.53,No,0.17,2.61
+RW-MZ-00395,2017,B,Western,Rutsiro,1945,599,17.3,6.03,Volcanic,WH505,Traditional,63.9,27.3,1.95,31075,1.68,No,0.162,2.82
+RW-MZ-00396,2017,B,Western,Rutsiro,1854,591.2,18.2,5.31,Sandy loam,ZM607,Traditional,16.3,15.8,0,47120,0.5,No,0.22,2.3
+RW-MZ-00397,2017,B,Eastern,Rwamagana,1318,522.7,21,5.65,Sandy loam,PAN691,Improved,137.3,55.9,1.86,42751,0.61,No,0.096,3.01
+RW-MZ-00398,2017,B,Eastern,Rwamagana,1418,493.6,22,6.58,Clay loam,ZM607,Improved,89.4,73.6,0.79,57544,2.41,No,0.074,2.87
+RW-MZ-00399,2017,C,Northern,Gakenke,1881,280.2,18.6,5.55,Sandy loam,RHM104,Improved,47.4,0,2.57,55587,0.89,No,0.397,2.14
+RW-MZ-00400,2017,C,Northern,Gakenke,1918,374.7,17.8,5.69,Volcanic,RHM104,Traditional,0,1.7,1.92,39382,0.43,Yes,0.171,2.61
+RW-MZ-00401,2017,C,Eastern,Gatsibo,1360,283.8,22.1,6.08,Loam,ZM621,Traditional,8.5,23.6,0.96,46910,0.55,No,0.364,1.9
+RW-MZ-00402,2017,C,Eastern,Gatsibo,1362,189.2,22,6.22,Clay loam,ZM621,Traditional,28.4,32.4,0.75,38871,0.6,Yes,0.075,2.05
+RW-MZ-00403,2017,C,Southern,Kamonyi,1755,186.8,19.4,5.97,Loam,ZM607,Improved,53.5,78.2,1.92,59970,0.44,No,0.211,1.97
+RW-MZ-00404,2017,C,Southern,Kamonyi,1632,161.9,19.4,6.23,Clay loam,PAN691,Improved,131.5,74,1.76,46621,0.62,No,0.193,2.49
+RW-MZ-00405,2017,C,Western,Karongi,1757,238.5,18.8,5.38,Clay,ZM621,Traditional,0,1.6,2.54,38817,1.38,No,0.27,1.67
+RW-MZ-00406,2017,C,Western,Karongi,1786,239.9,19,5.08,Clay loam,ZM621,Improved,136.6,59.2,0.53,44907,0.58,Yes,0.199,2.15
+RW-MZ-00407,2017,C,Eastern,Kayonza,1418,182.2,20.7,6.4,Loam,Local,Traditional,0,4.8,3.9,29318,0.94,Yes,0.139,1.42
+RW-MZ-00408,2017,C,Eastern,Kayonza,1340,150,21.9,5.45,Clay,ZM621,Traditional,32,48.5,1.82,35387,1.23,Yes,0.458,1.27
+RW-MZ-00409,2017,C,Northern,Musanze,2000,270.4,17.5,5.11,Loam,RHM104,Improved,10.4,31.8,4.2,57982,1.48,No,0.432,1.91
+RW-MZ-00410,2017,C,Northern,Musanze,1887,278.6,18.7,5.54,Loam,ZM621,Improved,83,34.2,0.16,57002,0.6,No,0.211,2.11
+RW-MZ-00411,2017,C,Western,Ngororero,1859,251,18.1,5.83,Loam,ZM607,Improved,118.2,104,2.78,64787,1.15,No,0.438,2.19
+RW-MZ-00412,2017,C,Western,Ngororero,2021,371.2,18.1,5.5,Loam,ZM607,Traditional,27,3.9,1.31,30721,0.94,Yes,0.371,1.56
+RW-MZ-00413,2017,C,Western,Nyabihu,2085,425.7,15.7,6.25,Loam,RHM104,Improved,88,80,4.25,60143,0.53,No,0.202,2.69
+RW-MZ-00414,2017,C,Western,Nyabihu,2307,301,17.4,6.05,Loam,ZM621,Improved,18.9,87.8,1.68,63987,0.24,No,0.34,2.28
+RW-MZ-00415,2017,C,Western,Nyamasheke,1659,192.4,19.3,5.23,Loam,Local,Traditional,0,0,2.57,45022,1.82,No,0.38,1.11
+RW-MZ-00416,2017,C,Western,Nyamasheke,1807,232.3,19,5.48,Loam,ZM621,Improved,66.7,23,0,50771,0.64,No,0.271,1.71
+RW-MZ-00417,2017,C,Southern,Nyanza,1640,221,19.1,6.21,Clay,ZM607,Traditional,17.4,5.1,1.24,28125,0.84,No,0.208,1.34
+RW-MZ-00418,2017,C,Southern,Nyanza,1719,237.1,19.7,5.43,Clay loam,Local,Traditional,20.7,0,1.5,38044,0.74,No,0.239,1.08
+RW-MZ-00419,2017,C,Kigali,Nyarugenge,1504,,20.5,,Sandy loam,RHM104,Improved,114.5,71.5,1.13,55813,0.6,No,,2.21
+RW-MZ-00420,2017,C,Kigali,Nyarugenge,1555,234.7,21,6.66,Clay loam,PAN691,Improved,75.2,76.3,2.26,44464,0.55,No,0.137,2.19
+RW-MZ-00421,2017,C,Southern,Ruhango,1669,287.9,18.5,5.97,Clay loam,WH505,Improved,111.8,34.9,3.08,52051,0.94,Yes,0.188,2.72
+RW-MZ-00422,2017,C,Southern,Ruhango,1722,359.4,20.7,6.18,Clay,ZM607,Traditional,58.5,0,1.81,39175,1.13,No,0.039,1.9
+RW-MZ-00423,2017,C,Western,Rutsiro,1880,150,17.8,5.05,Sandy loam,WH505,Improved,60.2,70,2.02,55085,0.49,No,0.278,1.53
+RW-MZ-00424,2017,C,Western,Rutsiro,1781,265.2,18.2,5.42,Sandy loam,PAN691,Improved,101.5,46.5,1.92,53804,0.46,No,0.073,2.33
+RW-MZ-00425,2018,A,Eastern,Bugesera,1498,340.9,21.2,6.42,Clay,Local,Traditional,39.2,0.7,1.6,43258,0.48,No,0.176,1.36
+RW-MZ-00426,2018,A,Eastern,Bugesera,1460,543.9,21.3,6.66,Loam,RHM104,Improved,139.6,83.1,0.41,52164,0.76,No,0.557,2.85
+RW-MZ-00427,2018,A,Northern,Burera,2067,829.2,16.4,5.6,Loam,Local,Traditional,32.6,20.9,4.06,40550,0.22,No,0.207,1.77
+RW-MZ-00428,2018,A,Northern,Burera,1923,818.8,16.9,5.5,Volcanic,Local,Improved,136.3,91.5,3.63,51990,0.19,No,0.171,2.11
+RW-MZ-00429,2018,A,Northern,Gakenke,1845,682.9,16.9,5.15,Clay,Local,Traditional,34.8,12,0,36684,1.96,No,0.097,1.24
+RW-MZ-00430,2018,A,Northern,Gakenke,1819,568.4,17.9,5.68,Volcanic,PAN691,Improved,137.2,51.1,6.57,49613,0.39,No,0.18,4.45
+RW-MZ-00431,2018,A,Kigali,Gasabo,1487,567.8,21.5,5.78,Loam,Local,Improved,61.2,123.8,0.38,52611,0.83,No,0.219,2.4
+RW-MZ-00432,2018,A,Kigali,Gasabo,1515,585,19.6,5.99,Clay,RHM104,Improved,107.8,46.5,0,53800,0.38,No,0.298,2.87
+RW-MZ-00433,2018,A,Eastern,Gatsibo,1329,370.7,21.6,5.83,Clay,ZM621,Improved,63.7,45.6,3.2,60772,1.3,No,0.009,2.97
+RW-MZ-00434,2018,A,Eastern,Gatsibo,1487,449.4,22.7,5.43,Clay loam,PAN691,Traditional,0,32.9,2.69,35709,0.34,No,0.168,2.44
+RW-MZ-00435,2018,A,Northern,Gicumbi,1938,578.9,18,4.9,Clay loam,ZM621,Traditional,0.9,2.9,1.68,38235,0.55,No,0.284,1.86
+RW-MZ-00436,2018,A,Northern,Gicumbi,1896,598.3,18.1,5.36,Volcanic,PAN691,Improved,115.8,42.4,3.53,57561,1.06,No,0.347,4.28
+RW-MZ-00437,2018,A,Southern,Gisagara,1701,557.8,20.3,6.12,Clay,RHM104,Traditional,23.6,18,2.07,38747,1.89,No,0.299,2.89
+RW-MZ-00438,2018,A,Southern,Gisagara,1639,452.7,20.7,5.84,Loam,ZM607,Traditional,27.7,0,3.51,37473,1.08,No,0.104,2.9
+RW-MZ-00439,2018,A,Southern,Huye,1737,538.6,19.1,6.37,Clay,ZM607,Traditional,37,0,5.02,41171,1.02,No,0.051,2.82
+RW-MZ-00440,2018,A,Southern,Huye,1751,599.9,19.1,6.24,Sandy loam,ZM607,Improved,82,49,3.67,49408,0.94,No,0.13,3.09
+RW-MZ-00441,2018,A,Southern,Kamonyi,1562,585.6,18.7,6.04,Sandy loam,ZM621,Improved,114.2,17.6,2.22,45640,0.4,No,0.199,3.36
+RW-MZ-00442,2018,A,Southern,Kamonyi,1749,624.2,19.5,5.63,Volcanic,ZM621,Traditional,30.4,12,2.79,39822,0.93,No,0.36,3.32
+RW-MZ-00443,2018,A,Western,Karongi,1662,641.6,19.8,5.57,Clay,WH505,Improved,108.1,21.4,0.46,40887,0.6,No,0.102,2.72
+RW-MZ-00444,2018,A,Western,Karongi,1543,657.8,18.8,5.38,Loam,ZM621,Traditional,4.5,3,2.9,44858,3.39,No,0.22,2.88
+RW-MZ-00445,2018,A,Eastern,Kayonza,1491,451.2,20.2,6.31,Clay,ZM621,Traditional,51.5,7.6,2.86,41226,0.59,No,0.237,2.34
+RW-MZ-00446,2018,A,Eastern,Kayonza,1545,486.1,21,5.88,Clay loam,WH505,Improved,65.2,51.8,4.42,59325,0.25,No,0.727,3.03
+RW-MZ-00447,2018,A,Kigali,Kicukiro,1476,515.1,21.1,5.77,Clay loam,ZM607,Improved,59.6,23.1,1.08,44692,0.29,No,0.257,2.91
+RW-MZ-00448,2018,A,Kigali,Kicukiro,1551,494.9,20,5.59,Clay loam,Local,Traditional,20.9,0,3.31,37642,1.27,No,0.225,1.71
+RW-MZ-00449,2018,A,Eastern,Kirehe,1536,528.4,19.9,6.08,Sandy loam,ZM621,Improved,21.5,35.1,0.35,57420,0.13,Yes,0.346,2.52
+RW-MZ-00450,2018,A,Eastern,Kirehe,1426,521.9,21.3,5.55,Loam,Local,Traditional,93.2,17.3,1.05,22798,0.24,No,0.082,1.56
+RW-MZ-00451,2018,A,Southern,Muhanga,1614,549.6,20.2,5.71,Sandy loam,WH505,Traditional,44.2,8.7,2.79,42473,0.76,No,0.066,3.27
+RW-MZ-00452,2018,A,Southern,Muhanga,1651,715.7,19.5,6.13,Clay,ZM607,Improved,111.7,76.9,1.7,39844,0.27,No,0.142,3.03
+RW-MZ-00453,2018,A,Northern,Musanze,1896,657.2,17.4,5.45,Clay,ZM607,Improved,115.1,35.6,0,54574,0.49,No,0.596,2.33
+RW-MZ-00454,2018,A,Northern,Musanze,1924,744.5,17.7,5.35,Loam,WH505,Improved,95.6,59,4.29,49705,0.3,No,0.39,2.97
+RW-MZ-00455,2018,A,Eastern,Ngoma,1438,419.1,21.1,5.95,Sandy loam,RHM104,Improved,89.4,83.3,0.69,45076,0.1,No,0.275,2.79
+RW-MZ-00456,2018,A,Eastern,Ngoma,1531,404.8,20.3,6.07,Clay loam,Local,Traditional,0,6,3.61,35318,0.65,No,0.278,1.77
+RW-MZ-00457,2018,A,Western,Ngororero,1939,799.7,18.4,5.88,Clay,Local,Traditional,46.2,4.9,3.86,37763,0.73,No,0.145,1.91
+RW-MZ-00458,2018,A,Western,Ngororero,1997,686.6,18.3,5.6,Loam,WH505,Improved,118.5,60.3,1.46,49599,0.91,No,0.067,3.69
+RW-MZ-00459,2018,A,Western,Nyabihu,2252,598.8,15.5,5.9,Clay,Local,Traditional,43.5,7.2,1.61,39085,1.13,No,0.073,1.45
+RW-MZ-00460,2018,A,Western,Nyabihu,2160,689.9,16.5,5.49,Sandy loam,ZM621,Traditional,15.4,12.2,0.46,35379,0.55,No,0.313,2.59
+RW-MZ-00461,2018,A,Eastern,Nyagatare,1408,534,21.4,6.56,Loam,ZM607,Traditional,12.4,10,1.34,43757,0.59,No,0.04,2.89
+RW-MZ-00462,2018,A,Eastern,Nyagatare,1469,453.1,22.1,6.06,Clay loam,RHM104,Traditional,66,35.3,0,35901,0.26,No,0.355,2.76
+RW-MZ-00463,2018,A,Southern,Nyamagabe,1926,758.8,17.4,6.1,Sandy loam,Local,Traditional,10.4,0,2.75,36012,0.62,No,0.174,1.73
+RW-MZ-00464,2018,A,Southern,Nyamagabe,2014,747.6,17,6.42,Clay,ZM607,Traditional,0,21.5,1.14,30891,0.6,No,0.32,1.94
+RW-MZ-00465,2018,A,Western,Nyamasheke,1835,558.3,18.9,5.52,Loam,WH505,Improved,105.6,65.8,2.3,59017,0.95,No,0.54,3.06
+RW-MZ-00466,2018,A,Western,Nyamasheke,1834,687.8,19.3,5.1,Volcanic,Local,Improved,34.3,68.7,0,50698,1.15,Yes,0.102,2.3
+RW-MZ-00467,2018,A,Southern,Nyanza,1722,610.2,19.4,5.51,Sandy loam,RHM104,Traditional,30,19,4.56,41369,0.48,No,0.239,3.06
+RW-MZ-00468,2018,A,Southern,Nyanza,1750,452.8,19.8,5.67,Clay,ZM607,Traditional,26.9,0,3.9,38003,0.61,No,0.092,2.22
+RW-MZ-00469,2018,A,Kigali,Nyarugenge,1508,529.4,21.2,5.8,Sandy loam,RHM104,Traditional,0,5.5,2.14,35539,1.92,No,0.19,2.92
+RW-MZ-00470,2018,A,Kigali,Nyarugenge,1607,543.8,20.1,5.89,Loam,ZM621,Improved,73.9,22,2.37,56019,0.78,No,0.373,3.43
+RW-MZ-00471,2018,A,Southern,Nyaruguru,1989,888.3,17.4,6.22,Sandy loam,ZM621,Traditional,29.8,11.5,1.14,39953,2.26,No,0.353,2.53
+RW-MZ-00472,2018,A,Southern,Nyaruguru,1897,692.7,16.8,5.85,Sandy loam,ZM607,Traditional,0,0,2,38576,0.85,No,0.137,2.34
+RW-MZ-00473,2018,A,Western,Rubavu,1675,700.4,18.5,4.95,Sandy loam,RHM104,Improved,136.7,37,2.86,52316,0.38,No,0.215,2.92
+RW-MZ-00474,2018,A,Western,Rubavu,1659,716.7,19.3,6.04,Clay,PAN691,Improved,94,28.3,0,56164,0.23,No,0.347,3.4
+RW-MZ-00475,2018,A,Southern,Ruhango,1748,552.5,18.7,5.92,Loam,PAN691,Improved,122.7,33.8,3.01,55725,1.66,No,0.292,3.87
+RW-MZ-00476,2018,A,Southern,Ruhango,1802,652,18.9,5.67,Loam,RHM104,Traditional,0,0,3.13,39515,1.17,No,0.233,3.64
+RW-MZ-00477,2018,A,Northern,Rulindo,1905,650.6,17.9,5.61,Clay,Local,Improved,169.1,60.2,0.59,52695,0.55,No,0.396,1.98
+RW-MZ-00478,2018,A,Northern,Rulindo,1879,686.1,18.8,5.71,Loam,WH505,Traditional,38.2,21.2,1.31,36785,0.62,No,0.363,2.68
+RW-MZ-00479,2018,A,Western,Rusizi,1549,654.1,20.9,5.32,Clay,ZM621,Traditional,0,6.7,2.97,43036,0.23,No,0.197,2.1
+RW-MZ-00480,2018,A,Western,Rusizi,1568,591.6,19.9,5.54,Clay loam,ZM621,Improved,70.7,62.2,0.17,53249,0.62,No,0.654,2.93
+RW-MZ-00481,2018,A,Western,Rutsiro,1841,764.7,18.3,5.27,Loam,WH505,Improved,59.1,110.5,0.86,52947,0.33,No,0.14,2.88
+RW-MZ-00482,2018,A,Western,Rutsiro,1928,763.7,17.5,5.24,Clay loam,ZM621,Traditional,22.5,0,0.29,30329,1.47,No,0.311,1.95
+RW-MZ-00483,2018,A,Eastern,Rwamagana,1437,584.8,20.4,5.88,Clay,Local,Improved,122.4,89.2,1.5,60215,0.3,No,0.056,2.16
+RW-MZ-00484,2018,A,Eastern,Rwamagana,1507,583.5,20.7,5.79,Volcanic,RHM104,Traditional,27.3,0,3.85,34488,1.57,No,0.118,3.52
+RW-MZ-00485,2018,B,Eastern,Bugesera,1267,295.6,22.3,6.06,Sandy loam,ZM621,Traditional,30.2,0,1.65,33375,0.32,No,0.103,2.29
+RW-MZ-00486,2018,B,Eastern,Bugesera,1526,546.8,20.9,6.1,Volcanic,RHM104,Traditional,13.3,5.7,0.59,44877,0.1,No,0.218,3.07
+RW-MZ-00487,2018,B,Northern,Burera,1955,705.5,16.3,5.52,Volcanic,RHM104,Improved,80.9,91.2,1.19,51247,0.26,No,0.327,3.74
+RW-MZ-00488,2018,B,Northern,Burera,2011,629.4,17.1,5.96,Sandy loam,RHM104,Improved,102.3,96.7,0,42859,1.06,Yes,0.205,2.64
+RW-MZ-00489,2018,B,Northern,Gakenke,1948,541.4,18.4,6.52,Volcanic,ZM621,Improved,69.6,42.1,3.24,50071,2.58,No,0.096,3.38
+RW-MZ-00490,2018,B,Northern,Gakenke,1950,453.4,17.2,5.36,Sandy loam,RHM104,Traditional,38.2,8.8,3.19,31132,0.22,No,0.133,2.35
+RW-MZ-00491,2018,B,Kigali,Gasabo,1509,554.2,20,6.16,Loam,ZM607,Traditional,1.7,0,3.07,34223,0.13,No,0.082,3.05
+RW-MZ-00492,2018,B,Kigali,Gasabo,1418,535.8,20.6,5.86,Clay,WH505,Traditional,14.8,27.6,0.2,34537,0.39,No,0.111,2.13
+RW-MZ-00493,2018,B,Eastern,Gatsibo,1460,379.4,21.4,6.29,Volcanic,Local,Traditional,56.7,23.4,3.95,37337,0.4,No,0.064,2.04
+RW-MZ-00494,2018,B,Eastern,Gatsibo,1506,,20.4,,Loam,ZM607,Improved,52.8,48.3,0.8,50001,0.64,No,,2.62
+RW-MZ-00495,2018,B,Northern,Gicumbi,1904,510.6,18.3,5.02,Sandy loam,ZM621,Traditional,33.3,0,1.27,43316,0.33,Yes,0.131,2.24
+RW-MZ-00496,2018,B,Northern,Gicumbi,1940,580.3,18.5,5.36,Sandy loam,WH505,Traditional,50.9,1.7,0,48592,0.41,No,0.619,1.85
+RW-MZ-00497,2018,B,Southern,Gisagara,1619,400.4,20.2,6.3,Clay,ZM607,Traditional,11.7,12.2,0,36486,1.03,No,0.167,2.16
+RW-MZ-00498,2018,B,Southern,Gisagara,1680,472.3,19.3,6.39,Clay loam,Local,Improved,151.2,66.6,3.06,57604,1.55,No,0.068,2.15
+RW-MZ-00499,2018,B,Southern,Huye,1802,609.6,18,6.11,Volcanic,Local,Traditional,16.7,22.6,0.1,33456,0.16,No,0.612,1.63
+RW-MZ-00500,2018,B,Southern,Huye,1641,560.1,18.5,6.35,Volcanic,ZM621,Improved,157.1,91.9,1.87,59999,0.63,No,0.577,3.25
+RW-MZ-00501,2018,B,Southern,Kamonyi,1662,600.5,20.6,5.84,Loam,Local,Traditional,56.9,18.2,2.49,34198,0.87,No,0.26,1.59
+RW-MZ-00502,2018,B,Southern,Kamonyi,1726,460.8,19.9,6.3,Clay loam,ZM607,Traditional,0,0,3.65,44017,0.84,No,0.369,2.42
+RW-MZ-00503,2018,B,Western,Karongi,1792,576.7,19.1,6.11,Clay loam,ZM621,Traditional,0,0,2.95,36515,1.17,No,0.185,2.99
+RW-MZ-00504,2018,B,Western,Karongi,1695,542.3,20,5.18,Clay,Local,Improved,120,62.5,3.61,52643,0.69,Yes,0.158,1.71
+RW-MZ-00505,2018,B,Eastern,Kayonza,1414,414.1,20.4,6.75,Clay loam,Local,Improved,112.6,31.8,2.48,45015,0.64,No,0.122,1.5
+RW-MZ-00506,2018,B,Eastern,Kayonza,1472,358.9,22.4,5.11,Loam,RHM104,Improved,145.4,83.9,0,58175,0.91,No,0.041,2.68
+RW-MZ-00507,2018,B,Kigali,Kicukiro,1422,417.1,20.3,5.73,Loam,WH505,Traditional,24.5,26.7,0.76,27950,0.54,No,0.568,1.92
+RW-MZ-00508,2018,B,Kigali,Kicukiro,1419,401.5,21.1,5.91,Clay,ZM607,Traditional,52.1,2.2,0.89,42448,0.95,No,0.099,2.15
+RW-MZ-00509,2018,B,Eastern,Kirehe,1521,449.6,20.8,5.77,Sandy loam,WH505,Improved,115.4,88.8,0.39,56150,0.43,No,0.418,2.82
+RW-MZ-00510,2018,B,Eastern,Kirehe,1430,498.1,22.3,5.43,Loam,ZM621,Traditional,39,28.5,0.27,34924,0.71,No,0.404,1.79
+RW-MZ-00511,2018,B,Southern,Muhanga,1773,513.9,19.4,5.85,Clay loam,WH505,Improved,111.1,24.8,1.12,49965,2.28,No,0.338,2.92
+RW-MZ-00512,2018,B,Southern,Muhanga,1696,630.2,19.5,6.18,Sandy loam,WH505,Improved,95.4,103.2,1.08,57584,0.9,No,0.437,3.23
+RW-MZ-00513,2018,B,Northern,Musanze,1789,617.4,18.3,5.6,Volcanic,ZM607,Traditional,18.5,17,2.35,39085,0.65,No,0.216,2.57
+RW-MZ-00514,2018,B,Northern,Musanze,1833,662,17.4,4.75,Volcanic,ZM621,Improved,94.2,86.1,3.19,59130,0.13,No,0.516,2.79
+RW-MZ-00515,2018,B,Eastern,Ngoma,1392,473.2,20.7,5.99,Clay,ZM621,Traditional,4.6,3.1,2.96,31872,0.6,No,0.52,2.1
+RW-MZ-00516,2018,B,Eastern,Ngoma,1456,470.4,21.6,6.24,Loam,RHM104,Traditional,31.2,11.4,1.73,31504,0.86,No,0.2,2.94
+RW-MZ-00517,2018,B,Western,Ngororero,1919,669.8,17.3,4.92,Sandy loam,PAN691,Traditional,11.1,16.4,3.09,29789,1.52,No,0.194,1.94
+RW-MZ-00518,2018,B,Western,Ngororero,1933,449.7,17.8,6.07,Sandy loam,PAN691,Improved,184.4,45.3,2.6,50371,1.19,No,0.443,2.84
+RW-MZ-00519,2018,B,Western,Nyabihu,2157,680,16.7,5.64,Loam,Local,Improved,75.7,69.6,1.9,51150,3.34,No,0.456,1.61
+RW-MZ-00520,2018,B,Western,Nyabihu,2188,641,16,5.95,Loam,Local,Traditional,0,6.6,0,47109,0.27,No,0.584,1.4
+RW-MZ-00521,2018,B,Eastern,Nyagatare,1486,389,21,5.93,Loam,ZM621,Traditional,18.1,8.5,3.14,31185,0.76,No,0.122,2.18
+RW-MZ-00522,2018,B,Eastern,Nyagatare,1373,427.2,21.6,6.31,Sandy loam,WH505,Improved,139.7,101.6,0.88,51419,0.83,No,0.18,3.13
+RW-MZ-00523,2018,B,Southern,Nyamagabe,2045,558.5,17.1,5.55,Sandy loam,ZM607,Improved,87.1,67.3,2.28,56614,0.96,No,0.236,2.49
+RW-MZ-00524,2018,B,Southern,Nyamagabe,1966,647.9,17.9,6.45,Sandy loam,ZM607,Improved,122.7,51.8,0,54327,0.73,No,0.317,2.37
+RW-MZ-00525,2018,B,Western,Nyamasheke,1821,579.4,18.7,5.04,Loam,RHM104,Traditional,39,6.5,1.62,27675,0.93,No,0.456,2.18
+RW-MZ-00526,2018,B,Western,Nyamasheke,1773,623.6,19.4,5.6,Loam,Local,Improved,53.8,38.9,2.13,52293,4.22,No,0.312,2.19
+RW-MZ-00527,2018,B,Southern,Nyanza,1674,530.8,18.7,5.75,Clay,ZM621,Traditional,14.5,18.6,0,33964,0.71,Yes,0.271,2.07
+RW-MZ-00528,2018,B,Southern,Nyanza,1688,510.2,19.7,6.08,Clay loam,ZM621,Improved,151.5,63.8,1.38,54346,0.34,No,0.347,3.4
+RW-MZ-00529,2018,B,Kigali,Nyarugenge,1542,443.4,19.8,6.52,Clay,RHM104,Improved,54.3,64.3,2.82,40603,0.55,No,0.208,2.62
+RW-MZ-00530,2018,B,Kigali,Nyarugenge,1480,427.3,19.9,6.6,Loam,ZM607,Improved,99.1,74,1.1,56407,0.2,No,0.013,2.77
+RW-MZ-00531,2018,B,Southern,Nyaruguru,1792,632.4,16.8,5.64,Sandy loam,Local,Traditional,7.1,0,2.68,26194,0.37,No,0.368,1.47
+RW-MZ-00532,2018,B,Southern,Nyaruguru,1873,563.5,17.2,6.87,Loam,ZM621,Improved,108.6,52.4,3.41,61146,0.36,No,0.53,2.97
+RW-MZ-00533,2018,B,Western,Rubavu,1742,501.5,19.5,5.28,Clay,ZM621,Improved,106.5,46.7,1.14,56814,0.16,No,0.063,3.09
+RW-MZ-00534,2018,B,Western,Rubavu,1672,617.8,18.4,5.66,Sandy loam,Local,Improved,83.5,81.7,0,53450,0.4,No,0.333,1.66
+RW-MZ-00535,2018,B,Southern,Ruhango,1653,671.8,19.8,5.99,Clay loam,ZM607,Improved,76,42,1.51,52386,0.9,No,0.197,3.2
+RW-MZ-00536,2018,B,Southern,Ruhango,1792,501.6,19.5,6.25,Clay,WH505,Traditional,52.4,15.2,0.47,36837,0.24,No,0.46,2.1
+RW-MZ-00537,2018,B,Northern,Rulindo,1930,508.5,17.9,5.39,Loam,Local,Traditional,69.6,0,0,44267,0.55,No,0.127,1.86
+RW-MZ-00538,2018,B,Northern,Rulindo,1938,672.8,18.8,5.83,Volcanic,Local,Improved,128.1,41.3,0,56401,0.65,No,0.319,2.26
+RW-MZ-00539,2018,B,Western,Rusizi,1531,459.3,21.1,4.85,Volcanic,Local,Improved,99.9,71.1,1.61,62114,1.03,No,0.153,2.31
+RW-MZ-00540,2018,B,Western,Rusizi,1537,615.6,19.2,5.52,Clay loam,RHM104,Improved,89.7,0,2.62,41700,1.32,No,0.233,2.77
+RW-MZ-00541,2018,B,Western,Rutsiro,1855,597.4,19.2,6.1,Volcanic,RHM104,Improved,120.9,51.3,4.45,55425,0.78,Yes,0.404,3.74
+RW-MZ-00542,2018,B,Western,Rutsiro,1843,501.9,18.4,5.18,Clay loam,RHM104,Improved,90.6,27.4,1.42,68444,1.07,No,0.185,3.34
+RW-MZ-00543,2018,B,Eastern,Rwamagana,1535,378.2,20.5,5.14,Sandy loam,Local,Improved,23.3,14.4,2,64822,0.44,No,0.143,1.54
+RW-MZ-00544,2018,B,Eastern,Rwamagana,1358,518.5,21.8,5.74,Loam,RHM104,Traditional,24.4,14.2,1.78,36494,0.4,Yes,0.5,2.37
+RW-MZ-00545,2018,C,Eastern,Bugesera,1438,187.6,22,6.29,Sandy loam,ZM607,Improved,121.5,13,3.17,52860,0.5,No,0.078,1.8
+RW-MZ-00546,2018,C,Eastern,Bugesera,1349,234.3,20.9,5.5,Loam,ZM607,Improved,74.8,74.3,2.06,61497,0.29,No,0.222,2
+RW-MZ-00547,2018,C,Northern,Burera,2008,374.5,17,5.27,Clay loam,ZM607,Traditional,33.6,0,0,40520,0.39,No,0.126,1.73
+RW-MZ-00548,2018,C,Northern,Burera,1999,230.7,16.6,5.21,Loam,Local,Improved,117.7,113.5,1.47,43204,1.26,No,0.138,1.04
+RW-MZ-00549,2018,C,Kigali,Gasabo,1357,159.7,20.8,6.27,Loam,WH505,Improved,172.4,113.1,2.42,56315,1.37,No,0.071,2.52
+RW-MZ-00550,2018,C,Kigali,Gasabo,1562,220.7,20.3,6.37,Clay,ZM607,Improved,47.6,74.8,2.94,60471,2.39,No,0.166,1.98
+RW-MZ-00551,2018,C,Southern,Gisagara,1667,304.1,20.1,5.35,Volcanic,WH505,Improved,101,54.3,2.14,54165,1.33,No,0.446,1.97
+RW-MZ-00552,2018,C,Southern,Gisagara,1648,342.7,20.3,6.27,Loam,RHM104,Improved,170.3,97.2,3.21,53210,0.76,Yes,0.066,3.32
+RW-MZ-00553,2018,C,Southern,Huye,1796,359.4,18.5,5.91,Sandy loam,ZM607,Traditional,36.2,29.9,1.46,33556,0.59,No,0.36,1.45
+RW-MZ-00554,2018,C,Southern,Huye,1744,274,19,5.77,Clay,RHM104,Traditional,36.3,2.9,2.19,46303,0.61,No,0.043,1.8
+RW-MZ-00555,2018,C,Southern,Kamonyi,1643,241,19,5.75,Sandy loam,ZM621,Improved,162.2,91.2,1.76,45750,1.5,No,0.032,1.91
+RW-MZ-00556,2018,C,Southern,Kamonyi,1691,173.2,19.8,6.57,Clay loam,Local,Traditional,0.3,28.4,0.21,36819,0.64,Yes,0.352,1.77
+RW-MZ-00557,2018,C,Western,Karongi,1710,405.3,19.6,5.69,Loam,PAN691,Traditional,30.3,10.8,2.71,37416,1.17,No,0.145,2.84
+RW-MZ-00558,2018,C,Western,Karongi,1777,238.1,18.9,4.92,Clay loam,ZM607,Traditional,27.7,24.3,3.1,44677,1.21,No,0.165,1.86
+RW-MZ-00559,2018,C,Eastern,Kirehe,1348,150,21.5,6.42,Sandy loam,RHM104,Improved,81.7,47.7,0.98,48573,0.57,No,0.455,1.61
+RW-MZ-00560,2018,C,Eastern,Kirehe,1499,243.3,21.5,5.81,Clay,ZM607,Traditional,41,23.4,3.92,40570,1.26,Yes,0.238,1.84
+RW-MZ-00561,2018,C,Western,Nyamasheke,1814,241.3,19.3,5.8,Loam,RHM104,Traditional,5.8,13.2,2.23,26666,0.7,Yes,0.282,2.17
+RW-MZ-00562,2018,C,Western,Nyamasheke,1755,328.4,18.7,5.93,Clay,ZM621,Improved,68.6,97.7,5.09,54407,0.46,No,0.348,1.93
+RW-MZ-00563,2018,C,Southern,Nyanza,1794,313.2,19.3,5.6,Loam,ZM607,Traditional,35.1,6.8,1.44,36920,1.04,No,0.137,1.85
+RW-MZ-00564,2018,C,Southern,Nyanza,1737,274.2,19.1,6.08,Sandy loam,Local,Traditional,23.9,11.9,2.05,39555,1.5,No,0.155,1.54
+RW-MZ-00565,2018,C,Southern,Nyaruguru,1883,223.3,16.8,5.95,Clay,ZM621,Traditional,42.6,0,0.87,33056,0.7,No,0.207,1.47
+RW-MZ-00566,2018,C,Southern,Nyaruguru,1688,320.6,18,5.78,Clay,Local,Traditional,70.1,0,1.48,32298,2.49,No,0.157,1.08
+RW-MZ-00567,2018,C,Western,Rutsiro,1938,272.5,17.9,5.59,Clay,ZM607,Improved,156.8,52.7,1.32,36022,0.98,No,0.29,1.54
+RW-MZ-00568,2018,C,Western,Rutsiro,1956,318.4,17.3,5.89,Loam,RHM104,Improved,41,77.3,1.63,64106,1.27,No,0.053,2.71
+RW-MZ-00569,2019,A,Eastern,Bugesera,1327,505.6,21.8,5.37,Loam,WH505,Traditional,15.8,8.7,0,51955,0.7,No,0.084,2.96
+RW-MZ-00570,2019,A,Eastern,Bugesera,1503,429.2,21.1,5.61,Loam,ZM621,Traditional,22.7,0,4.27,34433,0.58,No,0.102,2.88
+RW-MZ-00571,2019,A,Northern,Burera,2026,730.9,17.4,4.96,Clay,Local,Improved,90.5,57.1,1.64,54533,0.88,No,0.281,1.77
+RW-MZ-00572,2019,A,Northern,Burera,2033,806.5,17,6.04,Volcanic,PAN691,Traditional,12.8,0,1.6,38875,1.88,No,0.131,3.59
+RW-MZ-00573,2019,A,Northern,Gakenke,1946,687,18.2,5.12,Loam,Local,Improved,90.5,73.8,3.32,51820,1.34,No,0.238,2.41
+RW-MZ-00574,2019,A,Northern,Gakenke,1917,751.6,17.8,5.94,Volcanic,Local,Improved,25.1,55.5,0.78,51693,3.87,No,0.05,2.57
+RW-MZ-00575,2019,A,Kigali,Gasabo,1406,704.9,20.5,5.73,Clay,PAN691,Traditional,44.7,23.7,1.7,41336,0.44,No,0.142,3.33
+RW-MZ-00576,2019,A,Kigali,Gasabo,1617,689.8,20.8,5.95,Sandy loam,ZM621,Improved,73.7,25.7,1.08,66121,0.98,No,0.188,3.25
+RW-MZ-00577,2019,A,Eastern,Gatsibo,1347,442.6,22,5.7,Clay loam,ZM621,Traditional,50.9,16.8,0,32345,1.35,No,0.352,2
+RW-MZ-00578,2019,A,Eastern,Gatsibo,1421,502,21.6,6.19,Sandy loam,Local,Traditional,0,26.2,1.83,36043,0.88,Yes,0.035,1.53
+RW-MZ-00579,2019,A,Northern,Gicumbi,1849,609.9,18.9,5.49,Clay loam,ZM607,Improved,94.2,53.8,0.79,68611,0.81,No,0.179,3.69
+RW-MZ-00580,2019,A,Northern,Gicumbi,1960,584.7,17.8,5.74,Clay loam,Local,Improved,98.2,31.5,1.57,56476,0.94,No,0.422,2.22
+RW-MZ-00581,2019,A,Southern,Gisagara,1678,489.9,18.8,6.01,Volcanic,ZM607,Improved,93.7,35.9,0.5,64028,2.06,No,0.219,3.3
+RW-MZ-00582,2019,A,Southern,Gisagara,1709,523.9,20.3,6.66,Clay loam,ZM621,Traditional,27.1,0.5,2.41,42028,0.76,No,0.226,2.93
+RW-MZ-00583,2019,A,Southern,Huye,1869,606.2,18.4,6.71,Loam,ZM621,Traditional,25.9,12.5,2.6,42406,0.42,No,0.265,3.1
+RW-MZ-00584,2019,A,Southern,Huye,1766,678.8,18.5,6.44,Loam,WH505,Traditional,15.7,15.6,4.62,41407,1.32,No,0.284,3.58
+RW-MZ-00585,2019,A,Southern,Kamonyi,1691,524,19.5,5.49,Clay,WH505,Improved,103.5,71,3.44,52559,0.54,No,0.177,3
+RW-MZ-00586,2019,A,Southern,Kamonyi,1716,545.8,19.6,6.33,Clay,Local,Traditional,37.6,14.5,2.36,30287,1.19,No,0.203,1.97
+RW-MZ-00587,2019,A,Western,Karongi,1625,549.6,18.9,5.37,Loam,WH505,Traditional,10.5,16.8,3.18,51659,1.56,No,0.136,3.21
+RW-MZ-00588,2019,A,Western,Karongi,1698,625.2,19.1,5.89,Loam,ZM607,Traditional,30.2,11.1,1.17,35195,0.85,No,0.093,2.97
+RW-MZ-00589,2019,A,Eastern,Kayonza,1449,428.8,21.5,5.98,Clay loam,ZM621,Traditional,43.2,14.6,3.96,34853,0.75,Yes,0.196,2.88
+RW-MZ-00590,2019,A,Eastern,Kayonza,1444,389.9,20.6,6.14,Sandy loam,RHM104,Improved,113.1,64.3,1.24,57878,1.24,No,0.213,3.36
+RW-MZ-00591,2019,A,Kigali,Kicukiro,1539,636.7,20.7,6.41,Sandy loam,PAN691,Traditional,51,17,5.91,39860,1.02,No,0.194,3.82
+RW-MZ-00592,2019,A,Kigali,Kicukiro,1489,615.4,21.6,5.31,Clay,WH505,Improved,72.3,79.1,1.69,48655,1.03,No,0.206,2.65
+RW-MZ-00593,2019,A,Eastern,Kirehe,1433,486.3,21.2,5.76,Sandy loam,RHM104,Improved,58.7,51.3,2.86,54131,0.72,No,0.295,3.61
+RW-MZ-00594,2019,A,Eastern,Kirehe,1481,529.1,21.5,5.84,Loam,ZM621,Improved,115.4,18.8,4.63,57757,0.98,No,0.036,3.98
+RW-MZ-00595,2019,A,Southern,Muhanga,1735,657.6,18.1,5.78,Loam,ZM621,Traditional,41.8,25.9,0.92,35758,0.73,No,0.141,2.98
+RW-MZ-00596,2019,A,Southern,Muhanga,1657,651.7,18.9,5.48,Loam,ZM621,Traditional,38.6,14.1,3.19,36043,0.38,No,0.278,3.11
+RW-MZ-00597,2019,A,Northern,Musanze,2011,691,17.6,5.69,Clay loam,PAN691,Traditional,20.5,39.8,0.6,32138,0.34,No,0.25,2.94
+RW-MZ-00598,2019,A,Northern,Musanze,1773,682.9,17.4,5.94,Loam,ZM607,Traditional,39.5,0,2.36,34614,0.48,No,0.038,2.6
+RW-MZ-00599,2019,A,Eastern,Ngoma,1475,415.4,20.8,5.5,Volcanic,Local,Traditional,6,13.9,2.06,39211,0.75,No,0.121,1.73
+RW-MZ-00600,2019,A,Eastern,Ngoma,1427,467.9,20.8,5.42,Clay,WH505,Traditional,21.8,0,3.07,38878,0.86,No,0.188,2.43
+RW-MZ-00601,2019,A,Western,Ngororero,1790,742.7,19.3,5.51,Loam,RHM104,Traditional,0,10,2.07,48793,0.23,No,0.428,2.92
+RW-MZ-00602,2019,A,Western,Ngororero,1851,704.7,17.7,5.11,Loam,ZM621,Traditional,0,18.9,1.57,47003,0.97,No,0.175,2.84
+RW-MZ-00603,2019,A,Western,Nyabihu,2277,723.1,16.6,5.48,Clay,RHM104,Traditional,75.4,23.1,4.31,28764,0.29,Yes,0.399,2.66
+RW-MZ-00604,2019,A,Western,Nyabihu,2262,692,17.2,5.33,Clay,RHM104,Improved,100.3,84.6,2.18,53725,0.76,No,0.216,2.93
+RW-MZ-00605,2019,A,Eastern,Nyagatare,1387,370.5,21.9,6.71,Clay,Local,Improved,82.1,62.1,1.01,57345,0.26,No,0.399,1.68
+RW-MZ-00606,2019,A,Eastern,Nyagatare,1292,272.7,21.1,6.19,Clay,ZM607,Improved,133.2,71.4,2.75,49198,0.75,No,0.358,2.76
+RW-MZ-00607,2019,A,Southern,Nyamagabe,1974,717.9,16.9,6.17,Sandy loam,RHM104,Traditional,0,11.5,0,35217,0.39,No,0.293,2.35
+RW-MZ-00608,2019,A,Southern,Nyamagabe,2024,722.1,16.6,6.02,Loam,Local,Improved,116.4,40.9,0,43780,0.52,No,0.297,2.23
+RW-MZ-00609,2019,A,Western,Nyamasheke,1754,749.9,19.6,5.89,Clay loam,WH505,Improved,77.3,64.2,1.21,50401,0.96,No,0.35,3.52
+RW-MZ-00610,2019,A,Western,Nyamasheke,1744,713.5,19.3,5.46,Loam,Local,Improved,122.6,63.7,2.85,45278,0.55,No,0.431,1.9
+RW-MZ-00611,2019,A,Southern,Nyanza,1712,507.3,19.2,5.03,Sandy loam,ZM621,Improved,127.7,70.6,0.94,50248,0.58,No,0.194,2.67
+RW-MZ-00612,2019,A,Southern,Nyanza,1743,661.8,20.1,6.96,Clay loam,RHM104,Improved,124.4,63,2.98,46165,0.83,No,0.171,3.23
+RW-MZ-00613,2019,A,Kigali,Nyarugenge,1524,611.3,21,6.4,Volcanic,RHM104,Traditional,15.4,0,0.79,36553,1,No,0.086,3.54
+RW-MZ-00614,2019,A,Kigali,Nyarugenge,1479,473.2,20.8,5.94,Clay,ZM621,Improved,64.8,39,3.88,53454,1,No,0.171,3.21
+RW-MZ-00615,2019,A,Southern,Nyaruguru,1917,647.7,18.8,6.43,Clay,RHM104,Improved,154,67.7,0,67525,0.75,No,0.314,3.35
+RW-MZ-00616,2019,A,Southern,Nyaruguru,1869,734,16.7,5.78,Loam,ZM607,Improved,162.1,63.3,3.14,44273,0.87,No,0.198,3.04
+RW-MZ-00617,2019,A,Western,Rubavu,1671,723.4,19.4,5.62,Loam,Local,Traditional,41.2,13.4,1.31,39966,0.24,No,0.356,1.85
+RW-MZ-00618,2019,A,Western,Rubavu,1677,593.6,20,6.11,Loam,ZM621,Traditional,24.5,0,1.02,36221,0.78,No,0.209,3.67
+RW-MZ-00619,2019,A,Southern,Ruhango,1693,,19.4,,Loam,WH505,Traditional,0,0,2.97,35972,0.22,No,,3.75
+RW-MZ-00620,2019,A,Southern,Ruhango,1736,533,18.7,5.83,Loam,ZM607,Traditional,0,0,0,37209,2.7,No,0.196,2.36
+RW-MZ-00621,2019,A,Northern,Rulindo,1917,678.4,18.1,5.47,Clay loam,WH505,Traditional,0,20.8,2.07,39468,0.43,Yes,0.204,3.37
+RW-MZ-00622,2019,A,Northern,Rulindo,1988,495.3,18.9,5.52,Volcanic,WH505,Improved,125.3,45.2,2,57055,1.31,No,0.267,3.33
+RW-MZ-00623,2019,A,Western,Rusizi,1604,609,20.5,6.01,Loam,ZM621,Improved,35.7,91.8,0.68,54269,0.47,No,0.437,3.2
+RW-MZ-00624,2019,A,Western,Rusizi,1520,585.4,20.5,5.86,Sandy loam,ZM607,Improved,69.4,58.2,1.18,55093,2.08,No,0.3,2.64
+RW-MZ-00625,2019,A,Western,Rutsiro,1903,682.6,19.7,5.66,Clay,WH505,Traditional,16.2,0,2.5,41898,0.98,No,0.224,3.13
+RW-MZ-00626,2019,A,Western,Rutsiro,1947,657.8,17.9,5.9,Clay loam,RHM104,Improved,153.2,28.4,2.15,50602,0.57,No,0.09,3.52
+RW-MZ-00627,2019,A,Eastern,Rwamagana,1400,522.3,20.4,5.39,Sandy loam,ZM607,Traditional,6.8,5.1,3.84,30276,0.21,No,0.288,1.86
+RW-MZ-00628,2019,A,Eastern,Rwamagana,1581,504.1,21,5.76,Clay loam,Local,Improved,85,34.7,0.27,53363,0.81,No,0.255,2.04
+RW-MZ-00629,2019,B,Eastern,Bugesera,1426,412.6,22.4,6.32,Loam,Local,Traditional,32.3,0,0,39157,0.34,No,0.428,1.43
+RW-MZ-00630,2019,B,Eastern,Bugesera,1349,311.4,21.4,6.44,Clay,WH505,Improved,65.4,43.6,0,52170,0.98,No,0.199,2.27
+RW-MZ-00631,2019,B,Northern,Burera,2122,603.8,17.1,5.8,Loam,WH505,Improved,99.2,0,4.52,51214,0.41,No,0.308,3.31
+RW-MZ-00632,2019,B,Northern,Burera,1984,699.6,17.7,5.45,Clay loam,WH505,Traditional,35.7,0.1,1.36,43127,1.29,No,0.209,2.76
+RW-MZ-00633,2019,B,Northern,Gakenke,1945,574.4,18.3,6.13,Volcanic,PAN691,Traditional,71.7,0,5.18,40314,0.52,No,0.296,3.58
+RW-MZ-00634,2019,B,Northern,Gakenke,2003,473.8,17.4,5.67,Volcanic,ZM621,Improved,96.9,82.2,1.89,62736,0.44,No,0.309,2.85
+RW-MZ-00635,2019,B,Kigali,Gasabo,1536,419.5,20.6,5.42,Volcanic,RHM104,Traditional,28.6,25.4,2.45,34785,0.73,No,0.56,2.83
+RW-MZ-00636,2019,B,Kigali,Gasabo,1442,449.5,20.1,6.41,Loam,Local,Improved,104,75.5,3.79,59269,0.67,No,0.237,2.14
+RW-MZ-00637,2019,B,Eastern,Gatsibo,1442,380.8,21,5.54,Clay,Local,Improved,104.2,99.5,2.83,47923,1.68,No,0.452,1.37
+RW-MZ-00638,2019,B,Eastern,Gatsibo,1356,291.1,21.7,5.84,Loam,RHM104,Improved,117.8,56.8,3.18,57764,0.89,No,0.233,3.17
+RW-MZ-00639,2019,B,Northern,Gicumbi,1958,463.4,17.9,6.14,Clay,ZM607,Traditional,57.4,0,3.1,36806,1.17,No,0.417,2
+RW-MZ-00640,2019,B,Northern,Gicumbi,2089,490.4,17.8,4.85,Sandy loam,PAN691,Traditional,22.8,13.7,0.76,47746,2.32,No,0.922,1.69
+RW-MZ-00641,2019,B,Southern,Gisagara,1663,355.4,20.3,6.31,Clay loam,WH505,Traditional,25.4,0,1.82,38014,0.36,No,0.546,2.25
+RW-MZ-00642,2019,B,Southern,Gisagara,1739,359.9,19.7,6.62,Loam,ZM607,Improved,139.7,89.3,3.67,53159,0.4,No,0.308,3.15
+RW-MZ-00643,2019,B,Southern,Huye,1812,550.3,19,4.95,Sandy loam,ZM607,Improved,155.5,81.3,1.64,46951,0.45,No,0.128,2.74
+RW-MZ-00644,2019,B,Southern,Huye,1753,407.3,20.4,5.91,Loam,ZM607,Improved,101.5,58.5,0,53442,1.11,No,0.602,2.36
+RW-MZ-00645,2019,B,Southern,Kamonyi,1710,392.1,19.5,5.52,Clay,WH505,Traditional,43,32.8,1.96,43962,0.92,No,0.518,1.96
+RW-MZ-00646,2019,B,Southern,Kamonyi,1719,573.1,19.5,5.15,Sandy loam,RHM104,Improved,106.3,46.9,3.52,55059,0.95,No,0.514,2.91
+RW-MZ-00647,2019,B,Western,Karongi,1735,596.3,19.3,5.76,Clay,WH505,Traditional,68.6,12.1,2.06,38617,0.59,No,0.348,2.59
+RW-MZ-00648,2019,B,Western,Karongi,1717,476.3,19.3,5.61,Loam,ZM607,Improved,148.4,111.9,3.92,45937,0.88,No,0.589,2.66
+RW-MZ-00649,2019,B,Eastern,Kayonza,1519,524,22.4,6.4,Clay,RHM104,Traditional,33.2,18.1,3.1,33550,1.04,No,0.222,2.16
+RW-MZ-00650,2019,B,Eastern,Kayonza,1400,391.1,21.8,5.68,Volcanic,RHM104,Improved,113.2,47.8,2.16,55280,0.48,No,0.236,3.05
+RW-MZ-00651,2019,B,Kigali,Kicukiro,1523,461.6,20.4,5.47,Clay,Local,Traditional,31.9,14.6,1.82,33273,0.37,No,0.206,1.44
+RW-MZ-00652,2019,B,Kigali,Kicukiro,1569,413,20.5,6.24,Clay,Local,Improved,173.9,14.1,2.75,51479,0.46,No,0.396,1.9
+RW-MZ-00653,2019,B,Eastern,Kirehe,1372,385.3,21.8,5.56,Loam,PAN691,Traditional,23.6,11.5,1.98,31245,0.45,Yes,0.144,2.61
+RW-MZ-00654,2019,B,Eastern,Kirehe,1381,423.8,22.3,5.61,Volcanic,ZM607,Improved,110.3,49.2,2.1,53488,0.63,No,0.678,2.3
+RW-MZ-00655,2019,B,Southern,Muhanga,1625,560.8,20.2,5.55,Clay,ZM621,Traditional,46.6,24.6,4.1,40553,0.63,No,0.07,2.8
+RW-MZ-00656,2019,B,Southern,Muhanga,1727,572.8,19.2,6.61,Clay loam,Local,Improved,64.3,51.8,2.09,42389,0.9,No,0.505,1.71
+RW-MZ-00657,2019,B,Northern,Musanze,1876,680.8,17.4,5.33,Volcanic,PAN691,Improved,83.7,90.3,2.03,57648,0.8,No,0.281,3.65
+RW-MZ-00658,2019,B,Northern,Musanze,1750,566.4,18,5.73,Volcanic,Local,Improved,55.9,33.2,1.9,65799,0.45,No,0.326,2.31
+RW-MZ-00659,2019,B,Eastern,Ngoma,1504,451.5,20.8,6.43,Sandy loam,RHM104,Traditional,70.3,31.1,1.8,37702,0.69,No,0.148,2.4
+RW-MZ-00660,2019,B,Eastern,Ngoma,1597,312.1,20.7,5.77,Sandy loam,ZM621,Traditional,61.2,19.7,3.69,49142,0.43,No,0.393,2.13
+RW-MZ-00661,2019,B,Western,Ngororero,1844,548.8,17.4,5.65,Sandy loam,ZM607,Traditional,23.8,2.1,0.41,38514,1.27,No,0.425,1.88
+RW-MZ-00662,2019,B,Western,Ngororero,1874,540.2,17.8,6,Clay,ZM621,Traditional,12.7,22.1,2.22,38556,0.92,No,0.671,2.18
+RW-MZ-00663,2019,B,Western,Nyabihu,2203,664.5,16.4,5.83,Loam,ZM607,Traditional,18.6,0,1.89,25597,0.54,No,0.321,2.14
+RW-MZ-00664,2019,B,Western,Nyabihu,2340,718.2,16.6,5.26,Sandy loam,Local,Improved,84.1,87.7,3.76,47912,0.57,No,0.4,1.55
+RW-MZ-00665,2019,B,Eastern,Nyagatare,1442,414.7,21.3,5.99,Loam,RHM104,Improved,111.2,37.4,1.49,56223,0.59,No,0.507,3.04
+RW-MZ-00666,2019,B,Eastern,Nyagatare,1378,359.5,21.1,5.21,Clay loam,Local,Traditional,27.4,0,1.65,31117,0.64,No,0.168,1.43
+RW-MZ-00667,2019,B,Southern,Nyamagabe,2072,646,17.4,6.57,Loam,ZM621,Improved,111.5,52.6,1.59,52436,0.93,No,0.573,2.5
+RW-MZ-00668,2019,B,Southern,Nyamagabe,1955,797,17.6,5.95,Loam,ZM607,Traditional,0,6.3,0,39543,0.69,Yes,0.457,1.97
+RW-MZ-00669,2019,B,Western,Nyamasheke,1871,573.6,17.9,5.24,Volcanic,ZM621,Improved,103.1,91,3.02,43266,0.97,No,0.26,2.96
+RW-MZ-00670,2019,B,Western,Nyamasheke,1872,543.5,18.4,5.58,Clay,ZM621,Improved,150.7,59,2.27,40219,0.87,No,0.175,2.57
+RW-MZ-00671,2019,B,Southern,Nyanza,1684,292.6,19.9,5.25,Volcanic,ZM621,Improved,129.4,13.6,1.46,49919,1.73,No,0.068,2.69
+RW-MZ-00672,2019,B,Southern,Nyanza,1652,477.5,19.2,5.32,Loam,ZM607,Traditional,22.4,12.1,5.33,38053,1.29,Yes,0.328,2.57
+RW-MZ-00673,2019,B,Kigali,Nyarugenge,1559,,20.1,,Clay,PAN691,Improved,72.3,14.3,0,49781,0.46,No,,2.05
+RW-MZ-00674,2019,B,Kigali,Nyarugenge,1466,585.3,20.3,5.7,Clay loam,Local,Traditional,18.6,22.6,2.21,34562,0.44,No,0.214,1.96
+RW-MZ-00675,2019,B,Southern,Nyaruguru,1846,618.8,17.9,6.33,Clay,PAN691,Traditional,56.5,23.2,1.95,32996,0.4,No,0.531,2.51
+RW-MZ-00676,2019,B,Southern,Nyaruguru,1863,717.7,17.1,5.71,Clay,ZM607,Improved,86.9,58.4,0,49763,0.77,No,0.346,2.24
+RW-MZ-00677,2019,B,Western,Rubavu,1750,615.4,21.2,5.68,Clay loam,ZM607,Traditional,0,16.4,1.29,36863,0.29,No,0.164,2.52
+RW-MZ-00678,2019,B,Western,Rubavu,1613,,18.2,,Sandy loam,ZM621,Improved,43.6,64.8,0,51284,0.74,No,,2.63
+RW-MZ-00679,2019,B,Southern,Ruhango,1862,425.2,19.5,5.92,Clay loam,PAN691,Traditional,0,25.3,0,35598,2.02,No,0.544,2.46
+RW-MZ-00680,2019,B,Southern,Ruhango,1721,524,19.5,6.05,Sandy loam,RHM104,Traditional,12.8,15.2,3.38,42012,0.83,No,0.426,2.99
+RW-MZ-00681,2019,B,Northern,Rulindo,1916,636.2,18.7,5.21,Volcanic,WH505,Improved,102.8,70,2.59,54524,0.45,No,0.128,3.37
+RW-MZ-00682,2019,B,Northern,Rulindo,1865,538,18.3,5.38,Loam,ZM607,Traditional,22.6,16.5,2.51,35444,0.28,No,0.542,1.85
+RW-MZ-00683,2019,B,Western,Rusizi,1572,513.3,22,5.65,Volcanic,WH505,Improved,86.2,63.5,3.83,55272,1.39,No,0.166,3.3
+RW-MZ-00684,2019,B,Western,Rusizi,1632,395.5,21.2,5.31,Clay,ZM621,Improved,77,79.8,3.8,52923,0.72,No,0.175,2.41
+RW-MZ-00685,2019,B,Western,Rutsiro,1902,588.3,17.7,5.71,Sandy loam,ZM607,Traditional,0,5.4,2.09,30555,0.29,No,0.123,2.39
+RW-MZ-00686,2019,B,Western,Rutsiro,1827,638.1,17.9,4.54,Loam,ZM607,Improved,37.4,58.7,0.32,54407,0.66,No,0.393,2.71
+RW-MZ-00687,2019,B,Eastern,Rwamagana,1454,476.7,19.6,5.88,Clay loam,RHM104,Improved,65.1,14.4,2.22,51199,0.29,Yes,0.527,2.62
+RW-MZ-00688,2019,B,Eastern,Rwamagana,1500,412.7,20.8,6.46,Loam,PAN691,Improved,113.9,15.5,1.52,51650,1.4,No,0.242,3.39
+RW-MZ-00689,2019,C,Eastern,Gatsibo,1427,150,20.8,5.63,Clay loam,WH505,Improved,94.1,72.7,1.64,55400,0.79,No,0.708,1.56
+RW-MZ-00690,2019,C,Eastern,Gatsibo,1326,159.1,22.7,5.65,Sandy loam,PAN691,Improved,91.5,44.4,4.12,56476,0.39,Yes,0.573,1.98
+RW-MZ-00691,2019,C,Northern,Gicumbi,1861,197.2,17.5,6.06,Loam,ZM607,Improved,60.5,103,3.03,53392,2.06,Yes,0.27,2.24
+RW-MZ-00692,2019,C,Northern,Gicumbi,1915,150,18.7,4.98,Loam,Local,Traditional,15.9,0,3.93,46411,0.39,Yes,0.112,1.27
+RW-MZ-00693,2019,C,Western,Karongi,1637,217.9,18.5,5.91,Clay loam,ZM621,Traditional,11.9,0,1.07,38052,0.77,No,0.378,1.56
+RW-MZ-00694,2019,C,Western,Karongi,1685,150,19.6,5.65,Clay,ZM607,Traditional,51.1,9.1,0,39069,0.53,No,0.162,1.66
+RW-MZ-00695,2019,C,Kigali,Kicukiro,1582,163.9,21.3,5.84,Clay loam,PAN691,Improved,150,37.7,1.76,50581,0.44,No,0.066,2.17
+RW-MZ-00696,2019,C,Kigali,Kicukiro,1526,268.6,20.9,5.67,Loam,Local,Traditional,32.5,0,3.57,38913,1.51,Yes,0.079,1.49
+RW-MZ-00697,2019,C,Southern,Muhanga,1888,354,19.7,5.77,Loam,WH505,Traditional,0,34.5,3.45,37085,0.33,No,0.219,2.19
+RW-MZ-00698,2019,C,Southern,Muhanga,1750,246.9,19.1,5.6,Loam,WH505,Improved,108.7,91.4,0.73,53975,0.8,Yes,0.266,2.28
+RW-MZ-00699,2019,C,Western,Nyabihu,2212,322.9,16.7,5.53,Clay loam,ZM621,Improved,90.2,49.4,0.54,57115,0.44,Yes,0.304,2.58
+RW-MZ-00700,2019,C,Western,Nyabihu,2210,413.4,17,5.81,Loam,ZM607,Improved,99.6,98.6,2,49110,0.95,Yes,0.32,2.28
+RW-MZ-00701,2019,C,Southern,Ruhango,1685,394.1,18.6,5.63,Clay,ZM621,Improved,108.4,109.9,1.98,57237,0.92,Yes,0.266,2.59
+RW-MZ-00702,2019,C,Southern,Ruhango,1880,219,18.6,5.59,Loam,ZM621,Traditional,12.1,1.6,1.29,30413,0.57,Yes,0.122,2.12
+RW-MZ-00703,2019,C,Northern,Rulindo,1803,,18,,Clay,ZM607,Improved,73.8,77.3,0.96,52681,0.49,No,,1.76
+RW-MZ-00704,2019,C,Northern,Rulindo,1837,326.9,18.1,5.66,Volcanic,WH505,Traditional,17.7,25.5,2.18,41045,0.85,Yes,0.394,2.55
+RW-MZ-00705,2019,C,Western,Rusizi,1509,348.1,20.6,5.04,Clay,RHM104,Improved,131.8,64,2.71,50345,0.29,No,0.172,2.08
+RW-MZ-00706,2019,C,Western,Rusizi,1477,357.2,21,5.86,Loam,Local,Traditional,73.2,13.8,3.35,42159,0.81,No,0.451,1.3
+RW-MZ-00707,2019,C,Western,Rutsiro,1967,361.8,18.1,5.09,Sandy loam,Local,Traditional,0,11,3.4,36906,0.51,Yes,0.217,1.25
+RW-MZ-00708,2019,C,Western,Rutsiro,1930,355.6,18.5,5.79,Clay loam,WH505,Improved,92.9,91.1,0,54539,0.48,No,0.376,2.19
+RW-MZ-00709,2019,C,Eastern,Rwamagana,1474,150,21.6,6.22,Loam,WH505,Traditional,0,0,1.07,45846,0.77,Yes,0.087,2.83
+RW-MZ-00710,2019,C,Eastern,Rwamagana,1439,150,19.6,6.31,Volcanic,Local,Traditional,10.9,8.2,4.17,48162,1.08,No,0.459,1.35
+RW-MZ-00711,2020,A,Eastern,Bugesera,1368,500,20.3,5.75,Volcanic,WH505,Traditional,61.5,23,1.27,37159,0.86,No,0.412,2.82
+RW-MZ-00712,2020,A,Eastern,Bugesera,1396,550.8,20.5,7.08,Clay loam,ZM607,Improved,82.6,80.5,3.31,48721,0.44,No,0.267,2.81
+RW-MZ-00713,2020,A,Northern,Burera,2098,836.3,18,6.15,Volcanic,ZM621,Improved,100.5,99.1,2.34,53100,0.7,No,0.427,2.98
+RW-MZ-00714,2020,A,Northern,Burera,2022,609.9,16.6,5.99,Volcanic,ZM607,Improved,102.3,54.6,1.06,52792,0.47,No,0.235,2.85
+RW-MZ-00715,2020,A,Northern,Gakenke,1869,686.5,18.4,5.49,Clay,PAN691,Traditional,17.4,2.6,1.48,45144,0.32,No,0.44,2.66
+RW-MZ-00716,2020,A,Northern,Gakenke,1758,,17.7,,Clay loam,ZM607,Traditional,21.1,9.9,2.63,46466,0.52,No,,2.75
+RW-MZ-00717,2020,A,Kigali,Gasabo,1429,516,20.1,6.45,Sandy loam,PAN691,Improved,76.6,48.3,2.46,43751,0.77,No,0.311,2.99
+RW-MZ-00718,2020,A,Kigali,Gasabo,1532,612.1,21.2,6.35,Loam,WH505,Improved,96.9,54.7,1.01,34893,1.35,Yes,0.077,2.95
+RW-MZ-00719,2020,A,Eastern,Gatsibo,1460,539.7,21.8,5.83,Clay,ZM607,Improved,112.3,65.9,3.44,57989,0.63,No,0.195,2.73
+RW-MZ-00720,2020,A,Eastern,Gatsibo,1361,454.5,21.9,6.52,Clay loam,PAN691,Improved,117.8,66,2.41,52324,0.71,No,0.362,3.14
+RW-MZ-00721,2020,A,Northern,Gicumbi,2106,668,17.2,6.37,Clay loam,ZM607,Traditional,0,0,5.84,35719,0.28,No,0.166,2.52
+RW-MZ-00722,2020,A,Northern,Gicumbi,1985,664.5,17.9,5.48,Volcanic,Local,Traditional,67,1.7,0,31004,1.17,No,0.272,1.7
+RW-MZ-00723,2020,A,Southern,Gisagara,1535,455.9,20,6.36,Clay,WH505,Traditional,30.1,15.6,1.88,37258,1.27,No,0.133,2.5
+RW-MZ-00724,2020,A,Southern,Gisagara,1652,385.8,19.7,5.96,Loam,WH505,Improved,68,75.3,4.05,46356,0.78,No,0.164,3.02
+RW-MZ-00725,2020,A,Southern,Huye,1764,643.6,19.3,6.1,Clay,ZM621,Improved,140.4,56.9,0,51870,0.48,No,0.152,3.6
+RW-MZ-00726,2020,A,Southern,Huye,1785,626.7,19.4,5.77,Loam,PAN691,Improved,104.5,49,1.64,55182,1.44,No,0.245,3.89
+RW-MZ-00727,2020,A,Southern,Kamonyi,1574,514.3,21,5.6,Loam,RHM104,Improved,64.9,40.4,1.18,48743,1.49,No,0.127,3.4
+RW-MZ-00728,2020,A,Southern,Kamonyi,1604,618.3,20.5,5.81,Volcanic,WH505,Improved,120,54.5,2.31,53507,0.42,No,0.153,4.18
+RW-MZ-00729,2020,A,Western,Karongi,1789,658,18.2,6.14,Sandy loam,ZM607,Improved,136,74,2.32,58181,1.12,No,0.168,3.23
+RW-MZ-00730,2020,A,Western,Karongi,1639,683.9,19.4,6.56,Volcanic,PAN691,Traditional,79.8,8.8,1.66,25044,0.82,No,0.168,4.17
+RW-MZ-00731,2020,A,Eastern,Kayonza,1528,557.7,20.7,6.21,Clay,WH505,Improved,104.7,49.6,3.81,64259,1.6,No,0.145,3.1
+RW-MZ-00732,2020,A,Eastern,Kayonza,1354,576.9,20.8,6.01,Loam,Local,Improved,40.3,3.2,5.11,54851,0.47,No,0.162,1.96
+RW-MZ-00733,2020,A,Kigali,Kicukiro,1461,509.4,20.7,6.12,Clay,Local,Traditional,14.3,10.6,0.9,38495,0.7,No,0.162,1.49
+RW-MZ-00734,2020,A,Kigali,Kicukiro,1470,652.3,20.4,5.45,Loam,ZM607,Traditional,48.4,14.1,5.59,27651,0.41,No,0.415,2.26
+RW-MZ-00735,2020,A,Eastern,Kirehe,1536,380.2,21.1,6.78,Sandy loam,Local,Improved,100.7,54.6,3.39,55831,0.8,No,0.204,1.59
+RW-MZ-00736,2020,A,Eastern,Kirehe,1399,515.8,20.6,6.3,Clay,ZM621,Improved,113.6,0,1.76,53753,0.55,No,0.065,2.25
+RW-MZ-00737,2020,A,Southern,Muhanga,1572,494.6,18.5,5.68,Loam,RHM104,Improved,118.4,110.4,3.57,55184,1.52,No,0.205,3.63
+RW-MZ-00738,2020,A,Southern,Muhanga,1623,585.2,19.5,6.22,Clay,RHM104,Improved,36.4,77.2,0.7,58201,1.55,No,0.227,3.23
+RW-MZ-00739,2020,A,Northern,Musanze,1817,635.9,17.1,5.25,Sandy loam,RHM104,Traditional,47.6,15.8,2.91,35267,0.42,No,0.432,2.29
+RW-MZ-00740,2020,A,Northern,Musanze,1757,738.6,17.4,5.42,Clay loam,Local,Improved,126.5,99.8,0.77,43394,0.66,No,0.644,1.51
+RW-MZ-00741,2020,A,Eastern,Ngoma,1576,502.5,21.3,5.59,Loam,RHM104,Traditional,69.9,31.9,0.8,31265,0.77,No,0.282,2.49
+RW-MZ-00742,2020,A,Eastern,Ngoma,1452,492.2,21.2,6.44,Loam,ZM621,Traditional,39.6,15.8,3.59,36355,0.28,No,0.594,2.06
+RW-MZ-00743,2020,A,Western,Ngororero,1845,594.2,17.8,6.18,Clay loam,ZM621,Improved,81.4,59.7,0.08,59506,0.61,No,0.055,3.41
+RW-MZ-00744,2020,A,Western,Ngororero,1886,622.7,18,5.61,Loam,PAN691,Traditional,26.6,0.6,1.6,35852,0.67,No,0.281,3.01
+RW-MZ-00745,2020,A,Western,Nyabihu,2317,836.8,17.9,6.09,Loam,Local,Improved,167.2,35.8,2.84,48913,0.91,No,0.233,2.17
+RW-MZ-00746,2020,A,Western,Nyabihu,2235,716.8,16.7,5.64,Clay loam,PAN691,Improved,80.1,106.8,1.54,43368,0.43,No,0.044,3.43
+RW-MZ-00747,2020,A,Eastern,Nyagatare,1392,567,22.3,5.78,Sandy loam,PAN691,Traditional,60.3,9.1,2.77,39801,0.46,No,0.068,3.06
+RW-MZ-00748,2020,A,Eastern,Nyagatare,1521,566.2,22.3,6.56,Volcanic,Local,Improved,113.6,79.4,0.28,46238,0.31,No,0.174,2.33
+RW-MZ-00749,2020,A,Southern,Nyamagabe,2041,647.1,17.8,5.61,Clay loam,Local,Improved,112,86.6,3.52,45010,0.44,No,0.551,1.85
+RW-MZ-00750,2020,A,Southern,Nyamagabe,1925,684.4,16.7,6.09,Loam,RHM104,Improved,64.1,106.6,2.23,59466,0.68,No,0.04,4.06
+RW-MZ-00751,2020,A,Western,Nyamasheke,1758,571,18.6,5.8,Clay loam,ZM621,Improved,72.6,68.5,0,58330,0.83,Yes,0.453,3.3
+RW-MZ-00752,2020,A,Western,Nyamasheke,1825,678.4,19.6,5.57,Clay,PAN691,Improved,114.7,59.8,0.17,47062,0.45,No,0.323,3.45
+RW-MZ-00753,2020,A,Southern,Nyanza,1614,445.4,19.9,5.72,Clay loam,Local,Improved,48,28.5,2,60192,0.66,No,0.035,1.88
+RW-MZ-00754,2020,A,Southern,Nyanza,1755,504.7,19.4,5.52,Loam,ZM607,Traditional,0,12.4,2.26,31816,0.71,No,0.485,2.4
+RW-MZ-00755,2020,A,Kigali,Nyarugenge,1539,680.4,19.9,6.02,Loam,WH505,Improved,75,95.4,4.87,53688,0.57,No,0.235,3.8
+RW-MZ-00756,2020,A,Kigali,Nyarugenge,1532,463.6,21.7,5.74,Clay,RHM104,Improved,47.5,60.1,4.84,62345,0.79,No,0.071,3.29
+RW-MZ-00757,2020,A,Southern,Nyaruguru,1852,713.6,17.7,5.7,Loam,WH505,Improved,84,108.2,3,59290,0.36,No,0.151,3.53
+RW-MZ-00758,2020,A,Southern,Nyaruguru,1906,702.4,18.2,5.39,Clay,PAN691,Improved,81.5,83.1,0.52,52863,0.36,No,0.208,3.46
+RW-MZ-00759,2020,A,Western,Rubavu,1618,763.1,18.3,6.14,Sandy loam,ZM621,Improved,166.4,95.3,1.82,53807,0.45,Yes,0.078,3.05
+RW-MZ-00760,2020,A,Western,Rubavu,1646,683.4,19.1,4.75,Sandy loam,Local,Improved,110.1,80.3,1.81,61453,0.42,No,0.213,1.59
+RW-MZ-00761,2020,A,Southern,Ruhango,1760,616.5,18.9,5.95,Clay,ZM621,Improved,76.2,71.9,2.53,46697,1.05,No,0.541,2.46
+RW-MZ-00762,2020,A,Southern,Ruhango,1819,511.1,19.1,6.08,Volcanic,ZM607,Traditional,38.7,0,2.44,28966,1.71,No,0.235,2.73
+RW-MZ-00763,2020,A,Northern,Rulindo,1888,559.7,17.8,5.75,Loam,ZM607,Traditional,63.7,0,4.25,34551,0.82,No,0.219,2.7
+RW-MZ-00764,2020,A,Northern,Rulindo,2018,529.7,18.6,5.29,Volcanic,WH505,Traditional,10.6,12.6,3.2,33089,0.37,Yes,0.415,2.9
+RW-MZ-00765,2020,A,Western,Rusizi,1561,526.4,21.9,5.73,Loam,ZM621,Traditional,48.3,0,3.67,37450,0.38,No,0.125,2.91
+RW-MZ-00766,2020,A,Western,Rusizi,1490,652.4,20.6,5.42,Clay loam,Local,Improved,159.5,54.1,2.53,60114,2.17,No,0.178,2.1
+RW-MZ-00767,2020,A,Western,Rutsiro,1847,668.6,18.1,6,Volcanic,ZM621,Traditional,50.4,0,0.58,41609,0.52,No,0.44,2.97
+RW-MZ-00768,2020,A,Western,Rutsiro,1940,765,18.1,5.99,Clay,WH505,Improved,44.5,103.8,2.71,55048,0.87,No,0.224,3.3
+RW-MZ-00769,2020,A,Eastern,Rwamagana,1509,509.3,20.8,6.23,Loam,RHM104,Traditional,0,14.6,2.61,32810,1.5,No,0.369,2.59
+RW-MZ-00770,2020,A,Eastern,Rwamagana,1506,476.1,21,5.68,Volcanic,Local,Improved,173.9,50.4,4.24,43245,0.56,No,0.694,1.64
+RW-MZ-00771,2020,B,Eastern,Bugesera,1469,318.2,20.6,6.84,Loam,Local,Improved,176.6,75.5,0,68913,0.22,No,0.11,1.94
+RW-MZ-00772,2020,B,Eastern,Bugesera,1396,389.9,22,5.8,Clay loam,ZM621,Improved,135.3,79,5.27,59689,0.43,No,0.342,2.84
+RW-MZ-00773,2020,B,Northern,Burera,2069,625.4,16.1,5.27,Loam,PAN691,Improved,160.5,64.3,0,47919,0.56,No,0.191,2.61
+RW-MZ-00774,2020,B,Northern,Burera,2073,730.6,17.1,5.5,Sandy loam,ZM621,Traditional,39.1,23.4,4.16,33615,0.77,No,0.307,2.24
+RW-MZ-00775,2020,B,Northern,Gakenke,1973,549.1,18.1,,Clay,ZM607,Traditional,0,4.4,2.84,35825,1.41,No,,1.89
+RW-MZ-00776,2020,B,Northern,Gakenke,1857,603.5,17.4,5.48,Volcanic,Local,Traditional,41.8,17.1,2.82,37953,0.85,No,0.154,1.97
+RW-MZ-00777,2020,B,Kigali,Gasabo,1508,516.9,21.7,6.06,Sandy loam,ZM621,Traditional,9.8,6.9,1.7,41277,1.08,Yes,0.359,2.31
+RW-MZ-00778,2020,B,Kigali,Gasabo,1471,491.4,19.4,5.38,Clay,Local,Traditional,2.3,0,2.3,35938,1.7,Yes,0.344,1.3
+RW-MZ-00779,2020,B,Eastern,Gatsibo,1403,363.4,21.2,6.14,Clay,Local,Improved,112.9,62,1.22,46775,0.68,No,0.251,1.62
+RW-MZ-00780,2020,B,Eastern,Gatsibo,1429,372.7,23,6.31,Clay loam,ZM621,Traditional,16.3,0,0.44,41252,0.23,No,0.483,1.69
+RW-MZ-00781,2020,B,Northern,Gicumbi,1947,516,17.9,5.93,Volcanic,RHM104,Improved,94.2,48.2,4.4,56535,0.53,No,0.506,3.56
+RW-MZ-00782,2020,B,Northern,Gicumbi,1888,627.7,18.8,5.81,Clay,ZM607,Traditional,50.1,25.3,3.37,41787,2.17,No,0.304,2.66
+RW-MZ-00783,2020,B,Southern,Gisagara,1548,433.8,19.9,5.02,Volcanic,ZM621,Improved,128.5,27.2,1.25,50227,1.38,No,0.29,2.69
+RW-MZ-00784,2020,B,Southern,Gisagara,1744,422.5,19.5,6.79,Sandy loam,RHM104,Improved,115.4,90.9,4.5,48426,1.3,No,0.5,2.77
+RW-MZ-00785,2020,B,Southern,Huye,1779,565.8,18.4,6.52,Loam,Local,Traditional,33.2,7.7,2.54,37845,0.93,No,0.199,1.92
+RW-MZ-00786,2020,B,Southern,Huye,1623,519.1,19.6,6.08,Clay loam,ZM607,Improved,75,51.9,0.14,57360,0.47,No,0.331,2.94
+RW-MZ-00787,2020,B,Southern,Kamonyi,1553,576,19.8,5.98,Loam,WH505,Improved,73.3,74.7,0.56,43709,0.39,No,0.168,3.66
+RW-MZ-00788,2020,B,Southern,Kamonyi,1540,434.1,20.2,5.82,Loam,WH505,Traditional,51.1,25.9,1.38,37415,0.56,No,0.615,2.09
+RW-MZ-00789,2020,B,Western,Karongi,1655,633.5,18.9,5.29,Volcanic,RHM104,Traditional,11.1,0,1.41,44600,0.78,Yes,0.63,2.59
+RW-MZ-00790,2020,B,Western,Karongi,1648,676.5,18.1,5.68,Loam,RHM104,Improved,68,28.5,1.34,53696,1.35,No,0.57,2.94
+RW-MZ-00791,2020,B,Eastern,Kayonza,1542,381.4,21.2,5.77,Clay loam,WH505,Improved,110.9,54.9,2.67,50810,0.45,No,0.479,2.33
+RW-MZ-00792,2020,B,Eastern,Kayonza,1474,380.8,20.4,5.56,Volcanic,WH505,Improved,65.7,16.4,4.14,55389,0.55,No,0.429,2.99
+RW-MZ-00793,2020,B,Kigali,Kicukiro,1508,439.2,21.5,5.9,Loam,ZM621,Traditional,26.3,0,1.56,34481,0.46,No,0.299,2.34
+RW-MZ-00794,2020,B,Kigali,Kicukiro,1535,460.1,20.1,5.9,Clay,ZM621,Improved,132.2,48.2,2.43,49366,1.45,No,0.231,2.53
+RW-MZ-00795,2020,B,Eastern,Kirehe,1407,477.6,20.6,6.2,Clay,PAN691,Traditional,21.7,24.1,2.78,31247,0.35,No,0.223,2.42
+RW-MZ-00796,2020,B,Eastern,Kirehe,1471,428.7,21,6.5,Sandy loam,WH505,Improved,128.8,61.5,2.6,56565,0.9,No,0.239,2.92
+RW-MZ-00797,2020,B,Southern,Muhanga,1729,555.3,19.7,4.92,Volcanic,ZM607,Improved,105.1,50.9,0.41,52897,0.69,No,0.311,2.4
+RW-MZ-00798,2020,B,Southern,Muhanga,1701,527.5,19.8,5.49,Clay loam,ZM607,Improved,134.3,52.8,0.6,59462,0.35,No,0.207,2.66
+RW-MZ-00799,2020,B,Northern,Musanze,1894,719.3,16.8,6.15,Clay,ZM621,Improved,94.5,41.2,0.52,46389,0.68,No,0.542,2.08
+RW-MZ-00800,2020,B,Northern,Musanze,1914,692.8,17.6,5.75,Clay loam,Local,Traditional,21.4,0,2.97,46387,0.32,No,0.133,1.98
+RW-MZ-00801,2020,B,Eastern,Ngoma,1400,566.6,21.4,5.69,Clay,ZM607,Traditional,76.2,7.2,0.22,37648,0.79,No,0.353,1.86
+RW-MZ-00802,2020,B,Eastern,Ngoma,1597,435.2,21.2,5.64,Loam,RHM104,Traditional,0,0,4.36,43345,1.78,No,0.231,2.68
+RW-MZ-00803,2020,B,Western,Ngororero,1920,663,18.2,5.54,Sandy loam,WH505,Improved,98,46,3.15,57968,1.95,No,0.33,2.67
+RW-MZ-00804,2020,B,Western,Ngororero,1872,549.3,17.5,5.41,Sandy loam,ZM607,Traditional,15.5,22.3,3.27,26988,1.25,No,0.301,1.83
+RW-MZ-00805,2020,B,Western,Nyabihu,2148,579.7,17,6.16,Clay loam,ZM621,Improved,136.9,104.5,2.48,49433,0.61,Yes,0.213,3.09
+RW-MZ-00806,2020,B,Western,Nyabihu,2196,607.2,16.2,5.53,Clay loam,Local,Improved,104.2,26,2.33,48259,1.78,No,0.366,1.73
+RW-MZ-00807,2020,B,Eastern,Nyagatare,1246,427.2,21.4,6.26,Sandy loam,ZM621,Traditional,13.4,7.3,3.21,41066,2,Yes,0.509,1.95
+RW-MZ-00808,2020,B,Eastern,Nyagatare,1338,324.6,22.8,6.15,Sandy loam,Local,Traditional,32.1,29.2,1.82,27368,0.52,No,0.171,1.19
+RW-MZ-00809,2020,B,Southern,Nyamagabe,2072,579,17.6,6.7,Sandy loam,RHM104,Improved,95.8,106.3,1.32,60444,0.84,No,0.562,2.93
+RW-MZ-00810,2020,B,Southern,Nyamagabe,2115,370.1,17.3,6.08,Clay loam,Local,Improved,123.7,53.3,4.25,57673,0.93,No,0.524,1.71
+RW-MZ-00811,2020,B,Western,Nyamasheke,1831,612.2,19.2,5.79,Loam,PAN691,Improved,138.8,101.4,0,62388,0.71,No,0.365,3.67
+RW-MZ-00812,2020,B,Western,Nyamasheke,1852,577.7,19.4,5.57,Loam,Local,Traditional,30.1,0,0.83,26019,0.46,No,0.045,1.67
+RW-MZ-00813,2020,B,Southern,Nyanza,1691,531.8,20.2,5.23,Loam,WH505,Improved,192,64.9,0,55287,0.44,No,0.257,2.71
+RW-MZ-00814,2020,B,Southern,Nyanza,1697,530.2,19.3,5.87,Loam,PAN691,Improved,108.4,10.3,0.51,42370,0.25,No,0.406,3.06
+RW-MZ-00815,2020,B,Kigali,Nyarugenge,1527,481,20.3,5.82,Volcanic,ZM621,Improved,104.7,75.3,3.09,48751,0.39,No,0.309,2.58
+RW-MZ-00816,2020,B,Kigali,Nyarugenge,1430,575.7,20.4,5.67,Loam,Local,Improved,137,45.4,1.3,39009,0.25,No,0.49,1.47
+RW-MZ-00817,2020,B,Southern,Nyaruguru,1944,688.8,17.7,5.85,Loam,RHM104,Traditional,59.6,18.1,0.54,39871,2.41,No,0.202,3.21
+RW-MZ-00818,2020,B,Southern,Nyaruguru,1842,499,17.8,5.93,Clay loam,ZM621,Improved,134.2,41.3,1.91,50308,0.24,No,0.635,2.42
+RW-MZ-00819,2020,B,Western,Rubavu,1796,569.8,19.4,6.06,Clay loam,RHM104,Improved,68.4,80.7,0.61,57905,0.93,No,0.394,2.77
+RW-MZ-00820,2020,B,Western,Rubavu,1732,601.7,19,5.7,Clay loam,ZM607,Traditional,26.2,4.9,4.58,39028,2.15,No,0.514,2.52
+RW-MZ-00821,2020,B,Southern,Ruhango,1664,504.4,18.5,5.44,Volcanic,Local,Improved,109.5,44.5,2.28,68231,1.36,No,0.145,2.31
+RW-MZ-00822,2020,B,Southern,Ruhango,1717,437.8,19.5,5.96,Clay,ZM621,Improved,112.9,80.7,0,45593,0.54,No,0.725,2.13
+RW-MZ-00823,2020,B,Northern,Rulindo,1802,502.6,18.5,5.06,Clay,ZM621,Improved,115.3,11.8,0.19,48923,0.6,No,0.221,1.97
+RW-MZ-00824,2020,B,Northern,Rulindo,1926,603.7,17.4,5.19,Sandy loam,WH505,Traditional,7.7,0,4.22,32055,0.31,Yes,0.61,1.96
+RW-MZ-00825,2020,B,Western,Rusizi,1476,518.4,20.7,5.92,Loam,Local,Traditional,23.8,1.4,0.16,37594,1.9,No,0.449,1.46
+RW-MZ-00826,2020,B,Western,Rusizi,1441,490.9,20.9,5.51,Sandy loam,WH505,Improved,43.8,34.3,1.02,54123,0.35,No,0.184,2.7
+RW-MZ-00827,2020,B,Western,Rutsiro,1896,599.3,16.7,6.16,Clay,Local,Traditional,1.3,39.1,2.08,27573,0.82,No,0.444,1.44
+RW-MZ-00828,2020,B,Western,Rutsiro,2011,717.5,19.1,5.73,Clay,RHM104,Improved,111.8,53.6,1.35,57585,0.78,No,0.22,3.12
+RW-MZ-00829,2020,B,Eastern,Rwamagana,1535,461.6,21.5,6.03,Clay,ZM607,Improved,109.9,50.4,1.33,54031,0.44,No,0.202,2.54
+RW-MZ-00830,2020,B,Eastern,Rwamagana,1486,525.7,20.8,5.78,Clay loam,Local,Traditional,0,16.9,2.56,36352,0.85,No,0.322,1.6
+RW-MZ-00831,2020,C,Eastern,Bugesera,1411,220.5,21.9,6.01,Sandy loam,PAN691,Improved,142,80.8,2.2,46965,1.32,No,0.219,2.15
+RW-MZ-00832,2020,C,Eastern,Bugesera,1391,150,21.4,5.86,Sandy loam,WH505,Traditional,39.9,0,0.61,38818,0.38,No,0.574,1.31
+RW-MZ-00833,2020,C,Southern,Huye,1796,366.5,18.9,6.52,Clay,ZM621,Improved,17.2,58,4.56,56209,0.49,No,0.184,2.39
+RW-MZ-00834,2020,C,Southern,Huye,1872,208.4,18.7,6.41,Loam,WH505,Improved,123,67.2,1.9,55165,0.52,Yes,0.098,2.79
+RW-MZ-00835,2020,C,Western,Karongi,1748,337,20.5,5.29,Loam,PAN691,Traditional,36.8,28.6,1.91,37181,0.46,No,0.336,1.71
+RW-MZ-00836,2020,C,Western,Karongi,1611,303,19,5.57,Clay,ZM607,Traditional,31.5,17.5,1.04,28885,1.19,No,0.104,1.41
+RW-MZ-00837,2020,C,Eastern,Kirehe,1428,183.3,22,6.43,Loam,Local,Improved,127.6,49.4,0.77,56223,0.39,No,0.283,1.27
+RW-MZ-00838,2020,C,Eastern,Kirehe,1596,193.7,21.1,6.07,Clay,WH505,Traditional,0,6.5,1.51,37260,0.78,No,0.179,1.37
+RW-MZ-00839,2020,C,Northern,Musanze,1812,351.6,18.7,4.95,Volcanic,Local,Improved,129.2,57.5,1.13,51644,0.16,Yes,0.249,1.48
+RW-MZ-00840,2020,C,Northern,Musanze,1746,314.1,17.7,5.85,Clay,ZM607,Traditional,31.4,3.5,2.35,40066,1.28,No,0.47,1.33
+RW-MZ-00841,2020,C,Southern,Nyamagabe,2019,260.4,18.4,5.16,Clay loam,ZM607,Traditional,31.3,0,1.6,33716,0.56,No,0.116,1.31
+RW-MZ-00842,2020,C,Southern,Nyamagabe,2051,341.4,17.4,6.22,Clay,PAN691,Traditional,102.5,0,0,37955,0.91,No,0.397,1.79
+RW-MZ-00843,2020,C,Western,Nyamasheke,1806,170.7,19,5.76,Loam,RHM104,Improved,105.6,56.7,1.89,47871,0.79,No,0.12,2.05
+RW-MZ-00844,2020,C,Western,Nyamasheke,1892,217,19.1,5.24,Sandy loam,ZM621,Traditional,51.3,5.9,1.36,48450,0.61,No,0.249,1.6
+RW-MZ-00845,2020,C,Southern,Nyanza,1682,301.6,19.3,5.26,Clay,PAN691,Improved,63.1,61.7,5.65,50070,0.67,No,0.33,2.01
+RW-MZ-00846,2020,C,Southern,Nyanza,1755,353.7,19.9,5.11,Clay,RHM104,Improved,114.3,16.5,2.4,54263,0.83,No,0.437,2.2
+RW-MZ-00847,2020,C,Western,Rubavu,1663,250.8,18.9,4.97,Sandy loam,ZM621,Improved,109.4,19.1,0.53,58969,0.89,Yes,0.234,2.03
+RW-MZ-00848,2020,C,Western,Rubavu,1795,230,20.1,5.91,Clay loam,Local,Traditional,78.9,0,1.76,38532,0.63,Yes,0.315,1.58
+RW-MZ-00849,2020,C,Southern,Ruhango,1672,193.9,20.5,6.3,Clay loam,WH505,Improved,92.1,80.9,3.22,56578,0.66,Yes,0.409,2.65
+RW-MZ-00850,2020,C,Southern,Ruhango,1678,222.4,19,6.77,Volcanic,PAN691,Traditional,0,20.1,1.01,35986,0.36,No,0.25,1.81
+RW-MZ-00851,2020,C,Northern,Rulindo,1931,237.5,18.5,5.69,Sandy loam,ZM621,Traditional,51.4,24.9,2.64,43633,1.13,Yes,0.502,1.87
+RW-MZ-00852,2020,C,Northern,Rulindo,1833,150,18.2,5.75,Clay,Local,Improved,168.5,79.3,1.74,57428,1.51,No,0.495,1.11
+RW-MZ-00853,2020,C,Western,Rutsiro,2013,319.4,18.1,5.42,Clay loam,Local,Improved,108.7,72,2.37,54966,0.51,No,0.532,1.29
+RW-MZ-00854,2020,C,Western,Rutsiro,1866,417.2,17.5,6.11,Clay,ZM607,Improved,55.8,73.7,3.51,52879,0.58,No,0.42,1.91
+RW-MZ-00855,2020,C,Eastern,Rwamagana,1393,243.6,21.8,6.5,Clay loam,PAN691,Traditional,29.2,9.5,1.25,49431,0.71,No,0.187,2.02
+RW-MZ-00856,2020,C,Eastern,Rwamagana,1400,262.9,20.8,5.43,Loam,ZM621,Traditional,0,23.1,3.4,36192,1.21,Yes,0.228,2.12
+RW-MZ-00857,2021,A,Eastern,Bugesera,1379,404.6,20.1,6.25,Sandy loam,ZM621,Improved,94.6,45.9,0.76,52019,0.37,No,0.182,2.94
+RW-MZ-00858,2021,A,Eastern,Bugesera,1347,437.4,22.5,6.15,Loam,ZM607,Improved,127.1,78,0,38044,1.44,No,0.124,2.83
+RW-MZ-00859,2021,A,Northern,Burera,2092,669.8,17,5.4,Volcanic,RHM104,Traditional,31.1,17.8,0,27587,0.57,No,0.51,2.7
+RW-MZ-00860,2021,A,Northern,Burera,1940,831.5,17,5.26,Volcanic,Local,Traditional,0,4.6,1.58,27072,0.77,No,0.416,1.58
+RW-MZ-00861,2021,A,Northern,Gakenke,1891,533.2,16.6,5,Volcanic,PAN691,Improved,77.5,54,1.93,62862,0.95,Yes,0.315,3.8
+RW-MZ-00862,2021,A,Northern,Gakenke,1959,627.2,17.5,5.28,Clay,WH505,Improved,115.1,72.2,0.41,46461,0.58,No,0.219,2.73
+RW-MZ-00863,2021,A,Kigali,Gasabo,1459,504,20,6.1,Loam,ZM607,Traditional,46.8,32,0.21,47012,2.07,No,0.166,2.97
+RW-MZ-00864,2021,A,Kigali,Gasabo,1487,479.4,21.3,5.96,Clay,ZM621,Improved,91.5,32.7,0.69,44784,1.16,No,0.392,2.46
+RW-MZ-00865,2021,A,Eastern,Gatsibo,1415,515.5,21.9,5.75,Clay loam,ZM621,Traditional,1.1,14.2,3.6,48375,0.78,No,0.099,3.38
+RW-MZ-00866,2021,A,Eastern,Gatsibo,1420,420.6,20.7,6.66,Loam,ZM621,Improved,109.4,35.3,2.58,45950,0.54,No,0.117,3.13
+RW-MZ-00867,2021,A,Northern,Gicumbi,1933,640.6,17,5.65,Clay,Local,Improved,80.9,54.8,2.44,53582,0.96,No,0.295,1.66
+RW-MZ-00868,2021,A,Northern,Gicumbi,1970,698.6,17.2,4.99,Clay,ZM621,Improved,72.9,23.7,0.97,48490,1.18,No,0.081,2.48
+RW-MZ-00869,2021,A,Southern,Gisagara,1701,491.3,20.1,5.36,Loam,ZM621,Improved,19.5,45.8,3.53,56529,1.39,No,0.275,2.61
+RW-MZ-00870,2021,A,Southern,Gisagara,1610,424.3,20.2,6.14,Clay,ZM621,Improved,123.4,16.9,1.82,51352,1.6,Yes,0.346,3.31
+RW-MZ-00871,2021,A,Southern,Huye,1774,599.3,19.4,6.01,Volcanic,Local,Traditional,26.4,34,2.75,37301,2.59,No,0.281,1.96
+RW-MZ-00872,2021,A,Southern,Huye,1663,617.9,18.7,5.92,Loam,PAN691,Traditional,36.6,0,1.14,43283,0.57,No,0.391,3.03
+RW-MZ-00873,2021,A,Southern,Kamonyi,1579,697.9,21.1,5.49,Clay loam,ZM607,Traditional,41.4,11.5,0.16,37465,0.75,No,0.276,2.56
+RW-MZ-00874,2021,A,Southern,Kamonyi,1755,669.2,20.5,6.19,Loam,PAN691,Improved,143.4,48.1,3.64,53722,0.32,Yes,0.438,4.35
+RW-MZ-00875,2021,A,Western,Karongi,1655,524.5,18.2,5.64,Clay,ZM607,Improved,82.9,105.4,2.89,60269,1.16,No,0.161,3.37
+RW-MZ-00876,2021,A,Western,Karongi,1720,588.6,20.4,6.05,Clay loam,Local,Improved,121,87.4,0,55624,0.19,No,0.621,2.2
+RW-MZ-00877,2021,A,Eastern,Kayonza,1443,581,21.4,5.81,Clay loam,WH505,Improved,102.8,63.5,1.57,54577,1.86,No,0.566,3.04
+RW-MZ-00878,2021,A,Eastern,Kayonza,1356,561.2,20.6,6.26,Loam,ZM621,Traditional,13.5,0,4.74,42424,0.66,No,0.1,3.64
+RW-MZ-00879,2021,A,Kigali,Kicukiro,1505,604.1,21.1,6.51,Clay,Local,Improved,118.3,37,1.51,49863,0.33,No,0.166,2.03
+RW-MZ-00880,2021,A,Kigali,Kicukiro,1523,578.3,20.7,6.18,Loam,WH505,Improved,121.2,43.3,3.01,53190,0.59,No,0.03,4.92
+RW-MZ-00881,2021,A,Eastern,Kirehe,1530,432,19.8,6.61,Sandy loam,Local,Improved,120.9,52,2.73,61595,0.7,No,0.044,2.63
+RW-MZ-00882,2021,A,Eastern,Kirehe,1528,625.9,21.7,5.63,Clay loam,ZM607,Traditional,64.6,20,1.89,40652,0.89,No,0.135,2.63
+RW-MZ-00883,2021,A,Southern,Muhanga,1761,545.3,19.8,5.41,Clay loam,ZM607,Improved,107.7,85.8,0.62,47147,0.92,No,0.136,2.68
+RW-MZ-00884,2021,A,Southern,Muhanga,1674,503.6,18,5.86,Loam,ZM607,Traditional,3.7,7.4,1.05,40324,1.55,No,0.486,2.56
+RW-MZ-00885,2021,A,Northern,Musanze,1865,789.5,17.9,5.7,Loam,Local,Improved,38.9,61.5,2.78,53405,1.94,No,0.132,2.35
+RW-MZ-00886,2021,A,Northern,Musanze,1810,595.2,17.4,5.28,Loam,ZM621,Traditional,69,14,0,39713,0.6,No,0.339,2.07
+RW-MZ-00887,2021,A,Eastern,Ngoma,1528,542.9,21.1,6.63,Sandy loam,PAN691,Traditional,49,0,4.1,33774,0.88,Yes,0.368,3.09
+RW-MZ-00888,2021,A,Eastern,Ngoma,1578,424.6,21.7,5.64,Volcanic,WH505,Traditional,71.3,0,2.92,45557,0.46,No,0.311,2.76
+RW-MZ-00889,2021,A,Western,Ngororero,1828,713.8,18,5.5,Sandy loam,ZM621,Improved,79.5,84.1,0,46718,1.01,No,0.29,2.48
+RW-MZ-00890,2021,A,Western,Ngororero,1869,784.6,18.9,5.18,Loam,PAN691,Improved,93.6,72.5,1.93,52312,2.85,No,0.409,3.31
+RW-MZ-00891,2021,A,Western,Nyabihu,2196,818.8,16.6,5.51,Volcanic,ZM621,Traditional,0,7.6,2.22,43067,0.57,No,0.154,3.12
+RW-MZ-00892,2021,A,Western,Nyabihu,2165,831.2,17.1,4.81,Sandy loam,ZM621,Improved,139.8,101.3,3.5,54446,0.29,No,0.438,2.22
+RW-MZ-00893,2021,A,Eastern,Nyagatare,1454,462.5,21.1,5.99,Loam,PAN691,Traditional,24.4,14.1,4.63,37054,0.38,No,0.119,3.35
+RW-MZ-00894,2021,A,Eastern,Nyagatare,1424,440,22.1,5.73,Clay,ZM621,Improved,64,41.2,4.53,48419,0.98,No,0.476,2.21
+RW-MZ-00895,2021,A,Southern,Nyamagabe,1965,685.1,16.6,5.52,Sandy loam,RHM104,Traditional,30.4,9.2,3.29,42177,0.47,No,0.188,3.17
+RW-MZ-00896,2021,A,Southern,Nyamagabe,1859,798.4,17.1,6.39,Clay,Local,Improved,112.5,39.5,4.02,57395,0.64,No,0.451,1.99
+RW-MZ-00897,2021,A,Western,Nyamasheke,1856,732.4,19,6.34,Volcanic,Local,Improved,105.1,116.6,1.93,53606,0.93,No,0.36,2.82
+RW-MZ-00898,2021,A,Western,Nyamasheke,1754,653.6,19.1,5.63,Sandy loam,ZM607,Improved,133.7,67,4.13,59799,1.65,No,0.385,3.53
+RW-MZ-00899,2021,A,Southern,Nyanza,1724,695.4,18.2,6.48,Clay loam,ZM621,Improved,91.8,96.4,3.07,50976,0.21,No,0.432,2.86
+RW-MZ-00900,2021,A,Southern,Nyanza,1655,542.6,19.7,5.77,Clay loam,ZM621,Improved,113.8,60.8,3.35,51778,0.69,No,0.421,3.46
+RW-MZ-00901,2021,A,Kigali,Nyarugenge,1579,655.5,19.7,5.35,Loam,ZM621,Traditional,9.1,0,2.02,34277,0.49,No,0.357,2.64
+RW-MZ-00902,2021,A,Kigali,Nyarugenge,1453,599.3,21.3,5.24,Loam,WH505,Improved,67.1,27.5,3.21,48458,0.23,No,0.383,3.21
+RW-MZ-00903,2021,A,Southern,Nyaruguru,1846,690.6,16.9,5.42,Sandy loam,RHM104,Traditional,46.5,13.5,1.9,31761,0.54,No,0.625,2.02
+RW-MZ-00904,2021,A,Southern,Nyaruguru,1925,686.1,18,5.99,Loam,ZM607,Traditional,0,3.6,0.43,45687,0.86,No,0.25,3.36
+RW-MZ-00905,2021,A,Western,Rubavu,1832,700.6,19.1,5.4,Clay,PAN691,Traditional,79,12.6,3,44486,0.3,No,0.183,3.18
+RW-MZ-00906,2021,A,Western,Rubavu,1701,708.5,19,5.37,Sandy loam,ZM607,Improved,79.5,39,2.37,52066,0.69,No,0.163,2.95
+RW-MZ-00907,2021,A,Southern,Ruhango,1852,588.5,19.1,6.52,Loam,PAN691,Traditional,35.7,25.3,3.79,45871,0.57,No,0.009,4.19
+RW-MZ-00908,2021,A,Southern,Ruhango,1710,650.9,19.3,6.33,Volcanic,WH505,Traditional,0,0,1.8,33364,0.39,No,0.077,3.54
+RW-MZ-00909,2021,A,Northern,Rulindo,1933,725.7,19.2,5.56,Volcanic,PAN691,Traditional,28.2,21,0.74,38660,2.42,No,0.364,4.01
+RW-MZ-00910,2021,A,Northern,Rulindo,1862,669,18.6,5.5,Loam,Local,Improved,125.2,75.7,3.35,57719,0.36,No,0.35,2.31
+RW-MZ-00911,2021,A,Western,Rusizi,1555,650.5,21.8,5.85,Sandy loam,Local,Improved,138.3,122.1,1.6,57769,0.67,No,0.249,2.01
+RW-MZ-00912,2021,A,Western,Rusizi,1405,642.1,20.9,5.96,Loam,RHM104,Traditional,17,25.2,2.3,28132,0.53,No,0.245,3.32
+RW-MZ-00913,2021,A,Western,Rutsiro,1892,631.5,17.7,5.35,Loam,PAN691,Traditional,45.6,4.2,4.26,42037,0.72,No,0.178,3.46
+RW-MZ-00914,2021,A,Western,Rutsiro,1937,655.7,16.8,6.17,Clay loam,ZM607,Traditional,56.4,23.2,0.55,44987,0.61,No,0.3,2.77
+RW-MZ-00915,2021,A,Eastern,Rwamagana,1456,523.2,21.1,5.63,Clay,ZM607,Traditional,22.1,24.2,3.67,32218,2.33,No,0.316,2.18
+RW-MZ-00916,2021,A,Eastern,Rwamagana,1456,530.6,20.3,5.7,Sandy loam,WH505,Traditional,58.8,22.6,3.54,29721,0.58,Yes,0.262,3.1
+RW-MZ-00917,2021,B,Eastern,Bugesera,1461,510.1,21.3,5.06,Clay,ZM607,Improved,99.6,46.7,3.41,49991,0.81,No,0.27,2.4
+RW-MZ-00918,2021,B,Eastern,Bugesera,1436,329.9,21.5,5.78,Loam,ZM621,Traditional,38.3,3,0.82,37862,3.01,No,0.811,2.08
+RW-MZ-00919,2021,B,Northern,Burera,2074,567.7,17.1,5.64,Volcanic,Local,Improved,33.7,54.4,2.72,55051,0.82,No,0.072,2.35
+RW-MZ-00920,2021,B,Northern,Burera,2004,727.2,17.4,5.87,Volcanic,ZM621,Traditional,0,15.8,1.26,39240,0.87,No,0.306,3.14
+RW-MZ-00921,2021,B,Northern,Gakenke,1918,,18.4,,Volcanic,WH505,Improved,40.6,43.5,4.81,51959,2.2,No,,3.79
+RW-MZ-00922,2021,B,Northern,Gakenke,1920,568.1,18.1,5.9,Volcanic,ZM607,Traditional,7.7,1.2,1.79,35767,1.3,No,0.522,2.28
+RW-MZ-00923,2021,B,Kigali,Gasabo,1458,458,20.3,6.15,Clay loam,RHM104,Improved,72.3,35.2,1.64,60517,0.18,No,0.196,3.64
+RW-MZ-00924,2021,B,Kigali,Gasabo,1555,557.2,20.4,6.25,Volcanic,RHM104,Traditional,39.3,38.5,2.56,42199,0.66,No,0.171,4.02
+RW-MZ-00925,2021,B,Eastern,Gatsibo,1273,454.6,22,6.18,Volcanic,ZM607,Traditional,77.2,33.8,2.33,29521,1.39,No,0.209,2.66
+RW-MZ-00926,2021,B,Eastern,Gatsibo,1429,417,21.2,6.45,Sandy loam,Local,Improved,90.1,53.5,2.74,55210,1.03,No,0.373,1.48
+RW-MZ-00927,2021,B,Northern,Gicumbi,1964,596.8,17.8,5.72,Volcanic,ZM607,Traditional,29.5,19.6,4.42,36784,0.53,No,0.86,2.13
+RW-MZ-00928,2021,B,Northern,Gicumbi,1885,454.2,18.1,6.02,Volcanic,PAN691,Improved,111.6,80.5,3.07,35742,0.64,No,0.187,3.19
+RW-MZ-00929,2021,B,Southern,Gisagara,1800,523.5,19.8,5.72,Loam,ZM607,Improved,87.5,53.1,2.12,58524,0.85,No,0.442,2.66
+RW-MZ-00930,2021,B,Southern,Gisagara,1654,388.9,19.8,5.42,Clay loam,ZM621,Improved,84.9,36.8,3.98,52559,0.65,No,0.35,2.58
+RW-MZ-00931,2021,B,Southern,Huye,1803,658.2,18,5.45,Loam,ZM621,Improved,102.8,65.7,1.91,46273,0.91,No,0.135,3.05
+RW-MZ-00932,2021,B,Southern,Huye,1823,487,18.6,6.11,Clay,WH505,Improved,90.7,75.1,1.78,50351,2.09,No,0.361,2.99
+RW-MZ-00933,2021,B,Southern,Kamonyi,1639,344.1,21.5,6.08,Sandy loam,ZM621,Improved,106.7,33.8,0.79,60107,0.26,No,0.123,2.48
+RW-MZ-00934,2021,B,Southern,Kamonyi,1635,440.2,19.8,6.06,Loam,PAN691,Improved,122.5,57.2,1.26,61879,0.62,No,0.438,3.58
+RW-MZ-00935,2021,B,Western,Karongi,1645,583.1,19.1,5.42,Clay loam,RHM104,Improved,76.8,61,1.85,46284,0.52,No,0.478,2.73
+RW-MZ-00936,2021,B,Western,Karongi,1598,459.1,18.8,5.96,Loam,Local,Improved,143.6,36.8,2.42,52589,0.7,No,0.308,2.08
+RW-MZ-00937,2021,B,Eastern,Kayonza,1481,395.9,21.9,5.93,Volcanic,ZM621,Improved,125.9,38,1.6,58861,0.65,No,0.398,3.03
+RW-MZ-00938,2021,B,Eastern,Kayonza,1437,315.2,21.5,6.11,Loam,WH505,Traditional,41.3,16.2,0.68,38821,1.14,No,0.465,2.55
+RW-MZ-00939,2021,B,Kigali,Kicukiro,1421,448.1,19.7,6.61,Loam,ZM607,Improved,139.4,91.6,2.79,60478,0.67,No,0.424,2.94
+RW-MZ-00940,2021,B,Kigali,Kicukiro,1570,429.9,21.1,5.96,Clay loam,ZM621,Improved,81.4,45.9,1.57,56934,0.86,No,0.451,2.58
+RW-MZ-00941,2021,B,Eastern,Kirehe,1484,303,21.5,6.3,Clay,WH505,Improved,80.9,84.1,0.37,58215,0.2,No,0.268,2.76
+RW-MZ-00942,2021,B,Eastern,Kirehe,1444,476.3,21.4,5.81,Loam,ZM621,Improved,138.9,62.3,2.56,44583,1.18,No,0.104,3.09
+RW-MZ-00943,2021,B,Southern,Muhanga,1776,514.5,18.4,5.64,Loam,PAN691,Improved,164.7,24.2,1.27,47624,0.31,No,0.294,3.27
+RW-MZ-00944,2021,B,Southern,Muhanga,1786,551.1,19.6,5.79,Sandy loam,PAN691,Improved,96.5,65.4,0.03,48593,1.02,No,0.266,2.84
+RW-MZ-00945,2021,B,Northern,Musanze,1756,568,16.9,6.05,Sandy loam,RHM104,Improved,84.7,39.1,0.7,54929,0.76,No,0.154,3.17
+RW-MZ-00946,2021,B,Northern,Musanze,1937,631.3,17.2,5.33,Clay,ZM621,Improved,128.6,43.6,0.36,49865,0.47,No,0.155,2.55
+RW-MZ-00947,2021,B,Eastern,Ngoma,1401,480.6,22.1,6.27,Loam,PAN691,Traditional,24.2,27.8,0.61,50125,1.44,No,0.596,3.15
+RW-MZ-00948,2021,B,Eastern,Ngoma,1522,343.8,20.6,6.53,Clay,ZM607,Improved,96,70.6,4.48,51520,0.42,No,0.326,2.41
+RW-MZ-00949,2021,B,Western,Ngororero,1929,631.8,17.5,5.23,Loam,WH505,Traditional,31,23.6,3.78,46473,0.3,No,0.267,2.81
+RW-MZ-00950,2021,B,Western,Ngororero,1921,594.2,17.4,5.9,Clay,ZM621,Traditional,0,15.3,4.63,38416,0.88,No,0.219,2.62
+RW-MZ-00951,2021,B,Western,Nyabihu,2051,588.6,15.9,5.29,Clay,RHM104,Traditional,0.8,44.3,0.59,29545,1.85,No,0.231,1.79
+RW-MZ-00952,2021,B,Western,Nyabihu,2246,628.7,17.2,6.01,Clay loam,WH505,Improved,113,93.8,1.38,51794,1.37,No,0.263,3.71
+RW-MZ-00953,2021,B,Eastern,Nyagatare,1431,472.6,22.4,6.13,Volcanic,RHM104,Traditional,0,0,1.76,39587,0.51,No,0.296,3.43
+RW-MZ-00954,2021,B,Eastern,Nyagatare,1381,340.9,21.5,5.42,Volcanic,WH505,Improved,109.1,10.4,0.1,49958,0.65,Yes,0.414,2.56
+RW-MZ-00955,2021,B,Southern,Nyamagabe,1989,581.6,16.4,5.72,Clay,PAN691,Traditional,19,10,3.05,34965,0.56,No,0.295,2.51
+RW-MZ-00956,2021,B,Southern,Nyamagabe,1986,655.9,17.4,6.23,Sandy loam,Local,Traditional,0,26.4,3.05,45010,0.43,No,0.078,2.27
+RW-MZ-00957,2021,B,Western,Nyamasheke,1762,611.6,19.4,6.4,Clay loam,Local,Traditional,48.5,22,1.12,44755,1.09,No,0.114,2.02
+RW-MZ-00958,2021,B,Western,Nyamasheke,1813,683.7,19.2,5.74,Clay,RHM104,Improved,95.6,28.1,2.61,59294,0.44,No,0.097,3.26
+RW-MZ-00959,2021,B,Southern,Nyanza,1604,545.1,19.5,5.79,Clay,ZM621,Traditional,0,6,2.52,47680,0.67,No,0.501,2.29
+RW-MZ-00960,2021,B,Southern,Nyanza,1661,499,20.9,6.32,Sandy loam,RHM104,Traditional,25.7,15.5,5.03,36328,0.68,No,0.348,2.81
+RW-MZ-00961,2021,B,Kigali,Nyarugenge,1497,384.5,20.1,5.99,Clay,PAN691,Traditional,32,18.4,2.41,38057,0.31,No,0.089,2.81
+RW-MZ-00962,2021,B,Kigali,Nyarugenge,1527,419.2,20.1,5.55,Clay loam,WH505,Traditional,13.9,3.9,4.81,28261,1.45,No,0.294,2.23
+RW-MZ-00963,2021,B,Southern,Nyaruguru,1884,632,16.8,5.89,Clay,Local,Traditional,52.7,5.9,1.83,44440,0.44,No,0.085,1.61
+RW-MZ-00964,2021,B,Southern,Nyaruguru,2092,591.3,17.4,5.99,Clay loam,ZM621,Traditional,27.7,14.5,2.74,35520,0.4,No,0.18,2.79
+RW-MZ-00965,2021,B,Western,Rubavu,1742,635,19.3,5.23,Sandy loam,ZM621,Improved,48.8,24.1,2.17,56204,0.66,No,0.201,2.54
+RW-MZ-00966,2021,B,Western,Rubavu,1735,556.9,20.2,5.85,Clay loam,ZM621,Improved,9.5,86.9,1.27,60017,0.83,No,0.374,3.34
+RW-MZ-00967,2021,B,Southern,Ruhango,1770,491.8,18.8,5.81,Clay,ZM621,Improved,121.3,49.6,1.91,39929,0.84,No,0.14,2.37
+RW-MZ-00968,2021,B,Southern,Ruhango,1664,442.3,18.9,6.11,Clay loam,RHM104,Improved,82.7,82.1,1.54,52414,0.83,No,0.362,2.92
+RW-MZ-00969,2021,B,Northern,Rulindo,1921,593.1,19.2,5.48,Clay loam,WH505,Improved,131.3,40.9,2.58,46418,0.7,No,0.394,3.14
+RW-MZ-00970,2021,B,Northern,Rulindo,1955,468.2,18.5,5.25,Clay,ZM621,Improved,96.8,124,0.86,54359,1.07,No,0.055,2.58
+RW-MZ-00971,2021,B,Western,Rusizi,1549,535.9,20.2,5.46,Volcanic,Local,Improved,93.6,35.2,2.28,59664,0.86,No,0.244,2.14
+RW-MZ-00972,2021,B,Western,Rusizi,1415,582.6,21.1,6.48,Clay,Local,Traditional,17.8,29,2.42,40279,0.28,No,0.307,1.63
+RW-MZ-00973,2021,B,Western,Rutsiro,1879,522,18.3,6.24,Clay loam,Local,Improved,113,0,0.57,52963,0.54,No,0.218,2.19
+RW-MZ-00974,2021,B,Western,Rutsiro,1929,637.6,18.3,4.78,Loam,WH505,Improved,119.9,28.1,2.56,44655,0.68,No,0.346,3.25
+RW-MZ-00975,2021,B,Eastern,Rwamagana,1380,485.2,20.1,5.96,Loam,RHM104,Traditional,64.1,0,0.54,49181,0.95,No,0.261,3.21
+RW-MZ-00976,2021,B,Eastern,Rwamagana,1486,487.8,20.7,5.61,Volcanic,Local,Traditional,41.3,6,1.89,40433,0.52,No,0.029,2.05
+RW-MZ-00977,2021,C,Eastern,Bugesera,1321,249.2,22.2,6.07,Clay,WH505,Improved,151.3,85.1,1.86,47441,1.69,Yes,0.249,2.39
+RW-MZ-00978,2021,C,Eastern,Bugesera,1468,150,22.2,6.36,Sandy loam,PAN691,Improved,130.4,89.7,0.98,48424,1.41,No,0.519,1.73
+RW-MZ-00979,2021,C,Eastern,Gatsibo,1437,301.2,21.9,6.04,Loam,WH505,Improved,53.3,97.2,2.68,47503,0.79,Yes,0.767,2.11
+RW-MZ-00980,2021,C,Eastern,Gatsibo,1428,265.4,22.2,6.7,Loam,ZM607,Traditional,61.7,9.4,0.07,52893,0.7,No,0.395,1.73
+RW-MZ-00981,2021,C,Northern,Gicumbi,2061,243.3,18.1,5.92,Volcanic,ZM607,Traditional,42.8,28.5,5.49,42217,0.51,No,0.19,2.59
+RW-MZ-00982,2021,C,Northern,Gicumbi,1990,293.4,17.9,6.16,Volcanic,RHM104,Traditional,0,8.7,2.21,41612,0.24,No,0.199,2.58
+RW-MZ-00983,2021,C,Southern,Gisagara,1649,286.5,19.9,6.1,Loam,Local,Traditional,75.4,14.5,0.31,38703,1.24,No,0.424,1.28
+RW-MZ-00984,2021,C,Southern,Gisagara,1719,174.3,19.3,5.53,Loam,Local,Traditional,33.7,13.3,3.5,51312,1.67,No,0.303,1.25
+RW-MZ-00985,2021,C,Eastern,Kirehe,1471,231.7,21.1,6.31,Sandy loam,PAN691,Improved,148.8,60.1,4.95,54633,0.68,No,0.294,2.52
+RW-MZ-00986,2021,C,Eastern,Kirehe,1358,265.1,21.9,5.97,Clay,ZM607,Traditional,0,0,1.38,36607,1.01,No,0.346,1.62
+RW-MZ-00987,2021,C,Western,Ngororero,1942,444.8,18,6.02,Sandy loam,ZM621,Improved,130,55,4.33,44047,1.18,Yes,0.056,3.07
+RW-MZ-00988,2021,C,Western,Ngororero,2021,311.7,18.9,6.12,Volcanic,WH505,Improved,87.7,46.2,3.87,48242,0.52,No,0.414,2.61
+RW-MZ-00989,2021,C,Western,Nyabihu,2192,355,16.7,5.72,Clay loam,ZM621,Traditional,25.7,0,1.41,45726,0.61,Yes,0.17,2.54
+RW-MZ-00990,2021,C,Western,Nyabihu,2224,431.3,17.6,5.5,Loam,Local,Improved,121,0,6.74,59794,0.6,Yes,0.359,2.06
+RW-MZ-00991,2021,C,Southern,Nyamagabe,1904,250.4,16.7,6.18,Sandy loam,ZM607,Traditional,34.6,7.5,0,36704,0.54,No,0.235,1.73
+RW-MZ-00992,2021,C,Southern,Nyamagabe,1957,311.5,16.7,6.02,Clay,WH505,Improved,97.5,70.3,0.87,59853,0.62,No,0.133,2.2
+RW-MZ-00993,2021,C,Western,Nyamasheke,1818,279.7,19.6,5.78,Clay loam,ZM607,Improved,41.1,86.8,0.76,50338,0.82,No,0.322,2.11
+RW-MZ-00994,2021,C,Western,Nyamasheke,1735,329.3,18.6,6.47,Loam,ZM621,Improved,88.6,48.6,0.84,60130,0.33,No,0.274,2.22
+RW-MZ-00995,2021,C,Southern,Nyanza,1690,252.2,19.6,5.72,Loam,WH505,Improved,115.6,40.1,2.15,59854,1.4,No,0.307,2.2
+RW-MZ-00996,2021,C,Southern,Nyanza,1781,226.4,20.3,6.53,Volcanic,ZM621,Traditional,42.1,22.1,3.86,35044,1.23,No,0.412,1.98
+RW-MZ-00997,2021,C,Kigali,Nyarugenge,1589,175.1,20.1,5.78,Sandy loam,RHM104,Traditional,0,29.9,1.35,50684,0.45,Yes,0.119,2.31
+RW-MZ-00998,2021,C,Kigali,Nyarugenge,1624,167.7,21.2,5.69,Sandy loam,RHM104,Traditional,0,0,1.84,44341,0.87,Yes,0.162,2.42
+RW-MZ-00999,2021,C,Western,Rubavu,1724,307.1,20,5.73,Loam,ZM607,Improved,138.6,72.7,4.77,63226,0.8,No,0.13,2.47
+RW-MZ-01000,2021,C,Western,Rubavu,1632,399.6,20.1,5.47,Clay,WH505,Traditional,33.7,9.4,1.85,36800,0.99,No,0.122,1.89
+RW-MZ-01001,2021,C,Eastern,Rwamagana,1473,150,20.2,5.62,Loam,WH505,Traditional,55.8,5.3,2.05,32267,0.98,No,0.104,1.92
+RW-MZ-01002,2021,C,Eastern,Rwamagana,1571,352.3,21.3,6.22,Clay,Local,Improved,103.8,132.1,0,54398,0.79,Yes,0.218,1.73
+RW-MZ-01003,2022,A,Eastern,Bugesera,1450,432.2,21.1,5.54,Clay,ZM607,Traditional,33.8,15.8,5.51,43235,1.11,Yes,0.137,2.61
+RW-MZ-01004,2022,A,Eastern,Bugesera,1477,310.9,20.9,6.15,Clay,ZM621,Traditional,37.3,18.1,4.37,38493,0.54,No,0.137,2.67
+RW-MZ-01005,2022,A,Northern,Burera,2126,730.8,16.8,5.17,Clay loam,ZM621,Improved,155.9,22.4,2.22,55614,0.83,No,0.353,3.14
+RW-MZ-01006,2022,A,Northern,Burera,2048,660,15.8,5.83,Volcanic,ZM621,Improved,148.9,101.5,4.2,58286,0.31,No,0.272,3.74
+RW-MZ-01007,2022,A,Northern,Gakenke,1896,561.2,17.9,5.59,Volcanic,RHM104,Traditional,13.5,25.7,0,35435,0.22,No,0.299,3.51
+RW-MZ-01008,2022,A,Northern,Gakenke,2025,675.3,17.7,5.85,Loam,Local,Traditional,0,0,2.63,35970,0.93,No,0.249,1.76
+RW-MZ-01009,2022,A,Kigali,Gasabo,1562,537.3,20.1,5.84,Clay loam,RHM104,Traditional,28.8,5.5,0,35250,0.42,No,0.22,2.88
+RW-MZ-01010,2022,A,Kigali,Gasabo,1426,583.6,20.7,6.74,Clay loam,ZM607,Improved,146.4,65.2,2.04,57057,1.14,No,0.303,3.71
+RW-MZ-01011,2022,A,Eastern,Gatsibo,1449,452.2,21,5.97,Loam,PAN691,Traditional,46.7,3.1,0,46554,0.34,No,0.366,2.94
+RW-MZ-01012,2022,A,Eastern,Gatsibo,1243,526.2,21.5,5.77,Loam,ZM621,Improved,97.1,53.5,3.65,56876,0.68,Yes,0.274,3.46
+RW-MZ-01013,2022,A,Northern,Gicumbi,1866,575.7,17,6.4,Clay loam,Local,Improved,86.4,42.6,4.16,45507,0.27,No,0.177,2.18
+RW-MZ-01014,2022,A,Northern,Gicumbi,1942,512.4,17.6,5.17,Loam,ZM621,Improved,93.9,59,2.6,51040,0.45,No,0.207,3.24
+RW-MZ-01015,2022,A,Southern,Gisagara,1637,546.2,19.8,5.77,Clay loam,Local,Improved,47.8,106.6,1.17,65371,0.85,No,0.501,2.16
+RW-MZ-01016,2022,A,Southern,Gisagara,1648,496.7,19.8,6.08,Clay,Local,Traditional,42.9,1.9,4.8,46013,1.11,No,0.142,2.02
+RW-MZ-01017,2022,A,Southern,Huye,1748,677,18.7,5.91,Sandy loam,WH505,Improved,106.8,93.5,3.21,59452,0.7,No,0.022,4.38
+RW-MZ-01018,2022,A,Southern,Huye,1742,670.8,19.1,5.77,Volcanic,ZM621,Improved,93.8,95.3,4.07,54128,0.69,No,0.396,4.12
+RW-MZ-01019,2022,A,Southern,Kamonyi,1649,508,18.5,5.66,Volcanic,ZM607,Improved,135.6,64.1,2.58,55517,0.31,No,0.293,3.09
+RW-MZ-01020,2022,A,Southern,Kamonyi,1579,505,20.6,6.45,Sandy loam,Local,Traditional,47.5,0,0,38228,0.15,No,0.372,1.71
+RW-MZ-01021,2022,A,Western,Karongi,1751,588.4,19.7,5.73,Clay loam,RHM104,Improved,114.9,67.9,6.02,59424,0.91,No,0.505,4.08
+RW-MZ-01022,2022,A,Western,Karongi,1662,588.1,20.1,5.31,Clay loam,ZM607,Improved,70,67.3,3.16,56410,0.96,No,0.162,3.64
+RW-MZ-01023,2022,A,Eastern,Kayonza,1538,494.4,21.6,5.63,Loam,ZM621,Improved,111.5,24.5,2.99,48017,0.97,No,0.106,3.22
+RW-MZ-01024,2022,A,Eastern,Kayonza,1623,375.4,21.4,6.55,Loam,PAN691,Improved,89.2,7.7,3.53,47327,1.95,No,0.093,3.6
+RW-MZ-01025,2022,A,Kigali,Kicukiro,1560,535,21,5.96,Sandy loam,WH505,Improved,126.9,92.6,0.54,49549,0.47,No,0.136,3
+RW-MZ-01026,2022,A,Kigali,Kicukiro,1591,610.7,20,6.22,Sandy loam,ZM607,Traditional,46.9,35.8,0.67,38235,1.29,No,0.07,2.59
+RW-MZ-01027,2022,A,Eastern,Kirehe,1489,566.1,21,6.68,Sandy loam,PAN691,Traditional,40.2,0,1.61,42420,0.65,No,0.325,2.97
+RW-MZ-01028,2022,A,Eastern,Kirehe,1539,403,22.3,6.42,Clay,ZM621,Improved,69.6,0,1.39,63593,0.41,Yes,0.101,2.6
+RW-MZ-01029,2022,A,Southern,Muhanga,1754,533,18.8,5.29,Clay,Local,Improved,129.9,97.1,2.31,52848,0.58,No,0.313,1.62
+RW-MZ-01030,2022,A,Southern,Muhanga,1581,531.2,19.4,6.24,Clay loam,RHM104,Improved,79.9,76.4,3.33,55117,1.38,No,0.181,4.47
+RW-MZ-01031,2022,A,Northern,Musanze,1817,737.9,17.1,6.29,Volcanic,ZM607,Improved,91.2,40.9,0,48850,0.38,No,0.693,2.63
+RW-MZ-01032,2022,A,Northern,Musanze,1980,699.6,17.2,5.46,Volcanic,WH505,Traditional,7.4,25.3,1.95,38751,0.18,No,0.133,2.92
+RW-MZ-01033,2022,A,Eastern,Ngoma,1474,569.4,21.6,5.68,Sandy loam,Local,Improved,105,74,2.48,54638,0.35,No,0.376,1.71
+RW-MZ-01034,2022,A,Eastern,Ngoma,1496,495.5,20.2,5.88,Loam,Local,Traditional,36.5,0,5.06,39274,0.72,No,0.488,2.09
+RW-MZ-01035,2022,A,Western,Ngororero,1967,630.8,18.7,5.82,Clay,ZM607,Improved,147.3,27.1,1.45,64528,0.64,No,0.479,3.33
+RW-MZ-01036,2022,A,Western,Ngororero,1923,677.4,17.3,5.17,Loam,WH505,Traditional,92,16.9,3.11,31633,0.32,No,0.181,2.7
+RW-MZ-01037,2022,A,Western,Nyabihu,2201,774.2,17.3,5.35,Loam,PAN691,Traditional,3.6,0,2.35,42305,0.44,No,0.387,3.34
+RW-MZ-01038,2022,A,Western,Nyabihu,2174,809.4,17.7,5.93,Volcanic,ZM607,Improved,124.8,71.1,5.31,55610,0.55,No,0.571,3.19
+RW-MZ-01039,2022,A,Eastern,Nyagatare,1444,387.8,21.8,6.14,Loam,PAN691,Traditional,23.6,0,0.31,36722,1.31,No,0.178,2.82
+RW-MZ-01040,2022,A,Eastern,Nyagatare,1346,511.5,21.6,5.53,Loam,ZM607,Improved,108.9,44.1,0,50887,1.45,No,0.308,2.48
+RW-MZ-01041,2022,A,Southern,Nyamagabe,1940,853.5,15.7,6.33,Clay,Local,Improved,93.8,67.9,0.92,59006,1.11,No,0.204,1.99
+RW-MZ-01042,2022,A,Southern,Nyamagabe,2003,636.5,16.1,5.63,Clay,Local,Traditional,21.6,6.1,3.2,32727,0.83,No,0.137,1.73
+RW-MZ-01043,2022,A,Western,Nyamasheke,1769,657.9,18.5,6,Clay,ZM621,Traditional,22.5,0,1.78,41884,1.22,No,0.43,2.89
+RW-MZ-01044,2022,A,Western,Nyamasheke,1948,712.9,18.8,4.8,Sandy loam,Local,Traditional,0,0,1.35,45210,0.49,No,0.219,1.66
+RW-MZ-01045,2022,A,Southern,Nyanza,1746,528,18.9,6.3,Clay loam,WH505,Improved,125.5,78.6,2.22,54154,0.71,No,0.26,3.75
+RW-MZ-01046,2022,A,Southern,Nyanza,1732,660.3,20.3,6.57,Sandy loam,ZM621,Traditional,59.6,33.3,2.73,26019,0.83,No,0.322,2.34
+RW-MZ-01047,2022,A,Kigali,Nyarugenge,1552,466,20.7,6.09,Loam,Local,Improved,55.3,53.8,4.22,51075,0.3,No,0.043,2.54
+RW-MZ-01048,2022,A,Kigali,Nyarugenge,1504,534.8,20.6,5.62,Sandy loam,WH505,Improved,82.3,77.2,2.82,37269,0.78,No,0.206,2.99
+RW-MZ-01049,2022,A,Southern,Nyaruguru,1988,772.2,17.5,6.39,Clay,ZM607,Improved,103.1,61.5,2.65,46714,0.98,No,0.107,3.06
+RW-MZ-01050,2022,A,Southern,Nyaruguru,1803,751.2,17.7,6.03,Clay loam,RHM104,Improved,65.5,67,2.97,60027,0.91,No,0.324,4.2
+RW-MZ-01051,2022,A,Western,Rubavu,1807,708.9,18.6,6.21,Sandy loam,Local,Improved,35,125.9,2.2,46998,1.33,No,0.185,2.1
+RW-MZ-01052,2022,A,Western,Rubavu,1706,677.1,19,5.42,Clay,RHM104,Improved,186.2,110.8,2.86,60898,1.47,No,0.501,3.47
+RW-MZ-01053,2022,A,Southern,Ruhango,1653,652.4,20.7,6.28,Clay loam,RHM104,Improved,81.8,71.8,0,56318,0.5,No,0.408,3.78
+RW-MZ-01054,2022,A,Southern,Ruhango,1852,695.1,19.1,5.79,Volcanic,WH505,Traditional,29.1,1,3.01,41105,1.78,No,0.062,3.89
+RW-MZ-01055,2022,A,Northern,Rulindo,1998,516,19.5,5.98,Loam,RHM104,Traditional,43.5,0,1.47,35271,0.61,No,0.058,3.77
+RW-MZ-01056,2022,A,Northern,Rulindo,1862,584.1,18,5.34,Sandy loam,ZM621,Traditional,26.5,5.8,1.12,43469,0.13,No,0.424,2.45
+RW-MZ-01057,2022,A,Western,Rusizi,1496,677.5,22.8,5.37,Clay,RHM104,Traditional,5.1,45.5,2.74,34603,0.59,No,0.131,2.72
+RW-MZ-01058,2022,A,Western,Rusizi,1450,497.2,21.3,5.84,Loam,ZM621,Traditional,42.7,10.1,1.76,34105,0.75,No,0.339,2.76
+RW-MZ-01059,2022,A,Western,Rutsiro,1951,571.6,18,5.17,Clay loam,WH505,Traditional,18.6,16.5,1.68,28260,0.59,No,0.474,2.3
+RW-MZ-01060,2022,A,Western,Rutsiro,1851,695.8,17,5.81,Loam,ZM607,Traditional,23.9,16.3,1.1,34129,0.63,No,0.14,3.06
+RW-MZ-01061,2022,A,Eastern,Rwamagana,1432,362.7,21.4,6.01,Loam,ZM621,Improved,85.1,77.7,1.47,50837,0.27,No,0.129,3.66
+RW-MZ-01062,2022,A,Eastern,Rwamagana,1480,512.6,21.4,5.29,Clay loam,ZM621,Traditional,0,6.1,0.09,44744,1.26,No,0.097,2.71
+RW-MZ-01063,2022,B,Eastern,Bugesera,1361,400.5,22.3,5.71,Loam,ZM607,Improved,64.5,52,0,56566,1.42,No,0.367,2.55
+RW-MZ-01064,2022,B,Eastern,Bugesera,1477,381.2,21.5,5.87,Clay loam,ZM621,Improved,131.7,60.2,6.15,47481,0.88,No,0.372,3.12
+RW-MZ-01065,2022,B,Northern,Burera,2082,645,17,5.47,Sandy loam,PAN691,Improved,141.3,71.6,2.12,54773,0.82,No,0.109,3.48
+RW-MZ-01066,2022,B,Northern,Burera,2063,664.4,16.5,5.17,Clay loam,Local,Improved,71.1,13.1,2.65,51957,0.44,No,0.284,1.77
+RW-MZ-01067,2022,B,Northern,Gakenke,1905,618.5,18.1,5.74,Clay loam,ZM621,Traditional,15.8,0.7,4.04,43872,0.79,No,0.076,2.93
+RW-MZ-01068,2022,B,Northern,Gakenke,1917,645,18.2,5.86,Volcanic,WH505,Improved,148.3,69.9,4.56,60927,0.68,No,0.605,3.18
+RW-MZ-01069,2022,B,Kigali,Gasabo,1461,515.7,20,5.96,Loam,WH505,Traditional,1.1,9.6,4.09,30126,0.4,No,0.225,2.81
+RW-MZ-01070,2022,B,Kigali,Gasabo,1539,469.6,21.6,5.32,Clay loam,ZM621,Traditional,9.6,5.1,0,36425,1.13,No,0.309,1.94
+RW-MZ-01071,2022,B,Eastern,Gatsibo,1397,417.6,22.2,6.24,Volcanic,PAN691,Traditional,60.6,16.7,1.53,24118,1.21,No,0.239,2.9
+RW-MZ-01072,2022,B,Eastern,Gatsibo,1422,451.4,20.8,6.23,Loam,ZM607,Traditional,0.1,23.3,2.15,28110,1.52,No,0.236,2.54
+RW-MZ-01073,2022,B,Northern,Gicumbi,1952,525,17.6,5.23,Clay loam,PAN691,Traditional,46.9,0,2.94,33750,0.59,Yes,0.299,2.87
+RW-MZ-01074,2022,B,Northern,Gicumbi,2007,559.6,17.7,5.64,Volcanic,PAN691,Improved,53,30.5,2.33,57624,0.49,No,0.427,3.62
+RW-MZ-01075,2022,B,Southern,Gisagara,1673,371.4,20.1,6.12,Clay,WH505,Traditional,30.9,16.8,1.37,28627,0.64,No,0.343,2.51
+RW-MZ-01076,2022,B,Southern,Gisagara,1637,460.1,20.5,5.97,Loam,PAN691,Improved,67.1,26.8,0.58,60484,1.45,Yes,0.259,3.42
+RW-MZ-01077,2022,B,Southern,Huye,1821,528.7,18.6,5.98,Clay,ZM621,Traditional,27.5,0,4.47,30674,0.48,No,0.465,2.38
+RW-MZ-01078,2022,B,Southern,Huye,1882,457.9,19.6,6.37,Loam,ZM621,Traditional,10.1,33.1,1.82,31959,0.73,No,0.498,2.79
+RW-MZ-01079,2022,B,Southern,Kamonyi,1615,452.2,19.8,6.21,Sandy loam,ZM607,Improved,86.8,101.1,0,50288,0.35,No,0.305,2.42
+RW-MZ-01080,2022,B,Southern,Kamonyi,1554,558.1,20,5.76,Clay,ZM621,Traditional,16,13.4,1.07,32372,0.74,No,0.547,1.95
+RW-MZ-01081,2022,B,Western,Karongi,1623,665.8,19.5,5.52,Loam,Local,Improved,109.6,114.6,0.7,46294,0.83,No,0.432,2.04
+RW-MZ-01082,2022,B,Western,Karongi,1732,590.5,18.8,6.61,Sandy loam,ZM607,Improved,100.2,51.3,2.18,52756,0.27,No,0.295,3.05
+RW-MZ-01083,2022,B,Eastern,Kayonza,1377,410.3,22.5,5.94,Clay,ZM607,Improved,146.7,60,1.27,52307,0.37,No,0.244,1.96
+RW-MZ-01084,2022,B,Eastern,Kayonza,1372,425.7,20.9,5.6,Volcanic,WH505,Improved,100.8,90.3,1.68,48310,0.31,No,0.09,3.96
+RW-MZ-01085,2022,B,Kigali,Kicukiro,1453,442.9,20.7,6.03,Clay,RHM104,Improved,125,87.1,1.46,46552,0.51,No,0.166,2.64
+RW-MZ-01086,2022,B,Kigali,Kicukiro,1439,435.6,20.8,6.23,Clay loam,RHM104,Traditional,28.5,0,0.73,37370,0.62,No,0.614,2.28
+RW-MZ-01087,2022,B,Eastern,Kirehe,1488,386.1,21.7,5.8,Loam,Local,Traditional,2.8,25.6,2.16,29275,1.12,No,0.066,1.44
+RW-MZ-01088,2022,B,Eastern,Kirehe,1387,501,20.7,6.37,Clay,WH505,Improved,111,48.9,1.92,55644,0.32,No,0.087,3.48
+RW-MZ-01089,2022,B,Southern,Muhanga,1742,428.8,19.9,6.3,Loam,RHM104,Improved,133.6,113,1.88,45678,1.08,No,0.07,3.46
+RW-MZ-01090,2022,B,Southern,Muhanga,1687,531.5,17.9,6.15,Clay loam,Local,Traditional,43.9,0,0.81,37846,0.54,No,0.356,1.72
+RW-MZ-01091,2022,B,Northern,Musanze,1867,698.4,18,6.33,Loam,RHM104,Improved,125.8,44.2,1.24,53582,0.31,No,0.283,4
+RW-MZ-01092,2022,B,Northern,Musanze,1918,743.5,17.8,5.38,Sandy loam,Local,Traditional,26.5,0.6,2.01,40767,0.37,No,0.061,1.55
+RW-MZ-01093,2022,B,Eastern,Ngoma,1502,444,21,5.08,Clay loam,RHM104,Improved,91.9,95.1,1.89,45066,0.42,No,0.814,2.16
+RW-MZ-01094,2022,B,Eastern,Ngoma,1498,436.3,19.1,5.5,Clay loam,Local,Traditional,23.1,38.9,3.51,35637,2.48,No,0.116,1.88
+RW-MZ-01095,2022,B,Western,Ngororero,1906,650.2,18,6.09,Sandy loam,ZM607,Improved,162.9,61.1,1.61,61370,1.62,No,0.258,3.22
+RW-MZ-01096,2022,B,Western,Ngororero,1822,518.6,18.1,5.71,Loam,Local,Traditional,53.2,0,0,40760,2.04,No,0.404,1.6
+RW-MZ-01097,2022,B,Western,Nyabihu,2180,570.7,17,5.59,Loam,WH505,Traditional,31.6,0.6,3.87,22635,2.13,No,0.278,1.99
+RW-MZ-01098,2022,B,Western,Nyabihu,2198,642.6,16,5.4,Loam,Local,Improved,83.1,37.6,2.88,54204,1.37,No,0.34,1.89
+RW-MZ-01099,2022,B,Eastern,Nyagatare,1429,399.5,22.5,6.14,Sandy loam,Local,Traditional,0,1.4,0,37145,0.18,No,0.81,1.27
+RW-MZ-01100,2022,B,Eastern,Nyagatare,1309,352.7,22.6,6.43,Clay loam,ZM607,Improved,94.6,46.6,4.11,52886,0.76,No,0.093,2.5
+RW-MZ-01101,2022,B,Southern,Nyamagabe,2023,670.8,16.3,6.32,Clay,WH505,Improved,72.5,127.2,3.86,54692,0.32,No,0.625,2.74
+RW-MZ-01102,2022,B,Southern,Nyamagabe,1924,611.4,17.6,5.66,Clay,ZM607,Improved,141.4,48.6,1.01,42869,0.2,No,0.371,2.49
+RW-MZ-01103,2022,B,Western,Nyamasheke,1837,675.7,18.8,6,Clay loam,WH505,Improved,105.5,48.1,0,51332,0.72,No,0.427,3.48
+RW-MZ-01104,2022,B,Western,Nyamasheke,1839,576.1,19.1,4.94,Loam,ZM607,Improved,121.5,70.6,0.02,59091,0.32,No,0.462,2.65
+RW-MZ-01105,2022,B,Southern,Nyanza,1692,438.5,20.4,5.32,Loam,ZM621,Improved,67.6,8.5,1.2,49916,1.31,No,0.328,3.03
+RW-MZ-01106,2022,B,Southern,Nyanza,1719,298.4,19.1,5.65,Sandy loam,ZM621,Traditional,4.6,0,3.23,45206,0.58,No,0.113,2.53
+RW-MZ-01107,2022,B,Kigali,Nyarugenge,1552,471,20.6,5.91,Clay,ZM607,Traditional,13.5,2.3,2.36,42917,0.44,Yes,0.564,1.86
+RW-MZ-01108,2022,B,Kigali,Nyarugenge,1601,437.3,20.5,5.38,Clay,ZM607,Improved,88.1,45.2,5.01,49772,0.5,No,0.398,2.37
+RW-MZ-01109,2022,B,Southern,Nyaruguru,1897,595.4,17.9,6.03,Clay loam,WH505,Improved,84.9,80.8,2.48,54986,0.78,No,0.197,3.67
+RW-MZ-01110,2022,B,Southern,Nyaruguru,1807,567.3,17.6,5.99,Clay,WH505,Traditional,43.1,0.4,0.64,34458,0.63,No,0.201,2.12
+RW-MZ-01111,2022,B,Western,Rubavu,1685,641.7,19.9,5.1,Clay loam,Local,Improved,53.3,67.9,1.72,41148,0.99,No,0.295,1.9
+RW-MZ-01112,2022,B,Western,Rubavu,1688,593.8,19.6,5.73,Loam,PAN691,Improved,70.6,48.2,2.39,48763,1.18,No,0.625,3.27
+RW-MZ-01113,2022,B,Southern,Ruhango,1818,613.6,18.4,5.7,Sandy loam,Local,Improved,124.9,25.7,2.44,60010,0.85,No,0.289,2.09
+RW-MZ-01114,2022,B,Southern,Ruhango,1828,477.9,18.9,5.5,Clay loam,ZM621,Traditional,5.8,18.1,0.35,31915,1.15,No,0.472,2.35
+RW-MZ-01115,2022,B,Northern,Rulindo,1904,539.5,17.7,5.48,Clay loam,Local,Traditional,51.8,8.6,1.14,44963,0.36,No,0.027,1.77
+RW-MZ-01116,2022,B,Northern,Rulindo,1913,523.4,18.7,5.88,Volcanic,Local,Improved,62.7,31.7,2.52,52673,0.52,No,0.285,2.2
+RW-MZ-01117,2022,B,Western,Rusizi,1470,630.9,20,5.88,Clay,ZM621,Improved,118.2,40.6,1.56,46742,0.43,No,0.256,3.4
+RW-MZ-01118,2022,B,Western,Rusizi,1525,508.5,21.6,5.02,Clay,ZM621,Improved,52.7,17.2,4.9,55778,0.68,No,0.657,2.18
+RW-MZ-01119,2022,B,Western,Rutsiro,1874,558.8,17.7,5.91,Clay loam,Local,Improved,72.4,97.2,0.95,55514,0.63,No,0.122,2.23
+RW-MZ-01120,2022,B,Western,Rutsiro,1816,791.8,17.7,6.4,Clay loam,ZM621,Improved,90.1,45.8,2.79,46952,0.91,No,0.29,3.14
+RW-MZ-01121,2022,B,Eastern,Rwamagana,1579,437.1,21.8,6.24,Clay loam,ZM621,Traditional,39.9,31.6,3.53,38829,0.22,No,0.093,2.9
+RW-MZ-01122,2022,B,Eastern,Rwamagana,1450,447.4,21.5,6.94,Clay loam,ZM607,Traditional,37,31.5,3.82,21380,0.4,No,0.152,1.94
+RW-MZ-01123,2022,C,Northern,Gakenke,1856,165.5,18,5.88,Sandy loam,RHM104,Improved,100.4,76.9,2.14,51128,0.33,No,0.201,2.02
+RW-MZ-01124,2022,C,Northern,Gakenke,1960,314.4,17.2,4.58,Clay loam,ZM621,Traditional,0,25.3,2.53,39861,0.8,No,0.145,1.64
+RW-MZ-01125,2022,C,Southern,Gisagara,1534,233.5,18.9,5.94,Loam,ZM607,Traditional,40.1,24.7,3.81,47715,0.25,Yes,0.592,2.34
+RW-MZ-01126,2022,C,Southern,Gisagara,1688,150,19.9,5.71,Clay loam,RHM104,Improved,109.7,66.1,2.88,50136,1.42,No,0.086,2.53
+RW-MZ-01127,2022,C,Southern,Huye,1734,247,18.4,6.13,Clay loam,ZM607,Traditional,8.3,21.3,1.39,35301,1.42,Yes,0.428,2.18
+RW-MZ-01128,2022,C,Southern,Huye,1812,215.6,19.3,6.47,Loam,ZM607,Improved,32.7,26.6,1.15,53352,1.23,No,0.436,2.11
+RW-MZ-01129,2022,C,Western,Karongi,1749,242.5,19.5,6.4,Volcanic,ZM621,Traditional,34.2,47.6,0.02,35520,0.55,No,0.089,2.48
+RW-MZ-01130,2022,C,Western,Karongi,1744,324.8,20.1,5.58,Clay,WH505,Traditional,69.1,0,2.96,41186,1.36,No,0.416,2
+RW-MZ-01131,2022,C,Eastern,Kayonza,1509,303.4,21.2,5.41,Volcanic,ZM621,Improved,170,51.2,2.26,52442,0.58,Yes,0.117,2.93
+RW-MZ-01132,2022,C,Eastern,Kayonza,1457,232.2,20.9,6.07,Sandy loam,Local,Traditional,3.4,39.9,0,41467,0.84,Yes,0.144,1.4
+RW-MZ-01133,2022,C,Southern,Nyamagabe,1961,226.2,16.9,5.98,Clay,ZM607,Improved,81.1,57.5,0,40661,1.16,No,0.315,1.65
+RW-MZ-01134,2022,C,Southern,Nyamagabe,2073,332.6,16.6,5.68,Loam,Local,Traditional,6.6,16.9,1.99,31950,0.56,No,0.436,1.19
+RW-MZ-01135,2022,C,Western,Nyamasheke,1808,255.2,17.9,5.78,Loam,WH505,Improved,84.3,114.3,4.74,59196,0.38,Yes,0.312,3.02
+RW-MZ-01136,2022,C,Western,Nyamasheke,1784,303,18.3,5.49,Clay loam,Local,Traditional,32.3,0,0.3,30908,0.56,No,0.293,1.16
+RW-MZ-01137,2022,C,Southern,Nyanza,1653,317.8,20.1,5.97,Sandy loam,WH505,Traditional,43.7,4.3,0,30635,0.86,No,0.403,1.78
+RW-MZ-01138,2022,C,Southern,Nyanza,1730,317.5,19.4,6.67,Volcanic,WH505,Traditional,30.7,0,0.95,41198,0.73,No,0.274,2.65
+RW-MZ-01139,2022,C,Western,Rubavu,1761,266.6,19.4,6.17,Clay,Local,Traditional,12.4,0,1.25,47979,1.03,No,0.255,1.6
+RW-MZ-01140,2022,C,Western,Rubavu,1721,370,18.8,5.42,Clay,PAN691,Improved,92.4,81.9,3.31,52086,0.5,No,0.459,2.09
+RW-MZ-01141,2022,C,Western,Rusizi,1426,372.6,21.3,6.09,Clay,WH505,Improved,101.8,94.3,1.63,62034,0.64,No,0.168,2.46
+RW-MZ-01142,2022,C,Western,Rusizi,1545,150,21.8,5.67,Sandy loam,ZM607,Improved,0,39.4,1.82,52216,3.01,No,0.308,1.42
+RW-MZ-01143,2023,A,Eastern,Bugesera,1386,355.5,21.2,6.26,Clay,RHM104,Improved,131.6,47.3,0,54899,1.06,No,0.335,2.93
+RW-MZ-01144,2023,A,Eastern,Bugesera,1406,450.2,22.5,6.16,Sandy loam,ZM607,Traditional,10.4,10.9,0,35150,0.51,No,0.718,1.83
+RW-MZ-01145,2023,A,Northern,Burera,2037,764.4,17.2,5.81,Volcanic,WH505,Traditional,37,10,1.9,30073,2.24,No,0.352,2.98
+RW-MZ-01146,2023,A,Northern,Burera,1988,648.9,17.9,5.96,Volcanic,ZM607,Improved,53.2,101.9,2.72,48775,0.35,No,0.254,3.99
+RW-MZ-01147,2023,A,Northern,Gakenke,1910,622.7,17.9,6,Clay loam,Local,Traditional,56.9,34.2,1.85,33727,1.27,No,0.177,1.88
+RW-MZ-01148,2023,A,Northern,Gakenke,1997,617.9,17.8,5.85,Volcanic,ZM607,Improved,153,67.2,2.18,46356,1.74,No,0.22,3.99
+RW-MZ-01149,2023,A,Kigali,Gasabo,1495,514.6,21.4,5.77,Sandy loam,Local,Traditional,8.3,27.1,3.6,35324,0.68,No,0.344,1.42
+RW-MZ-01150,2023,A,Kigali,Gasabo,1539,617.5,20.9,6.38,Clay loam,ZM621,Traditional,14.9,39.5,2.41,34486,0.37,No,0.146,2.91
+RW-MZ-01151,2023,A,Eastern,Gatsibo,1373,390,20.6,6.3,Sandy loam,PAN691,Improved,131.9,67.5,2.36,45982,0.91,No,0.152,3.48
+RW-MZ-01152,2023,A,Eastern,Gatsibo,1454,493.8,21.6,6.03,Volcanic,Local,Improved,38.6,74.4,0.35,60065,0.15,No,0.048,2.64
+RW-MZ-01153,2023,A,Northern,Gicumbi,1888,589.7,18.2,5.88,Loam,WH505,Improved,125.5,73,1.44,55870,0.52,No,0.324,3.53
+RW-MZ-01154,2023,A,Northern,Gicumbi,1975,597.2,18.4,5.89,Sandy loam,Local,Traditional,2.1,1.6,0.06,46147,2.02,No,0.251,2.05
+RW-MZ-01155,2023,A,Southern,Gisagara,1688,412,20,5.94,Clay,WH505,Improved,92.1,45.2,0.71,52220,1.17,No,0.126,3.2
+RW-MZ-01156,2023,A,Southern,Gisagara,1665,404.9,20,5.95,Loam,RHM104,Improved,30,54.9,2.45,54211,0.61,No,0.316,3.65
+RW-MZ-01157,2023,A,Southern,Huye,1738,488.8,18.9,5.57,Clay loam,ZM607,Traditional,5.6,15.3,0,42695,1.26,No,0.098,3.14
+RW-MZ-01158,2023,A,Southern,Huye,1774,552.7,19.5,5.95,Volcanic,PAN691,Improved,136,86.6,1.22,47461,0.15,Yes,0.112,5.15
+RW-MZ-01159,2023,A,Southern,Kamonyi,1674,555.1,20,5.74,Volcanic,ZM621,Improved,181.6,61.6,2.31,52815,0.41,No,0.306,4.06
+RW-MZ-01160,2023,A,Southern,Kamonyi,1612,621.4,19.7,5.93,Clay,RHM104,Traditional,38.9,0.6,0.38,43311,0.61,No,0.507,2.96
+RW-MZ-01161,2023,A,Western,Karongi,1683,714,17.4,5.57,Volcanic,Local,Improved,131.7,47.4,2.3,52777,0.91,No,0.243,2.48
+RW-MZ-01162,2023,A,Western,Karongi,1682,565,18.6,5.91,Clay loam,ZM621,Improved,146.6,59,0,60393,0.76,No,0.337,3.68
+RW-MZ-01163,2023,A,Eastern,Kayonza,1389,477.1,20,5.87,Sandy loam,RHM104,Traditional,32,19.5,3.75,41243,0.64,No,0.324,3.17
+RW-MZ-01164,2023,A,Eastern,Kayonza,1356,496.5,22.2,5.91,Clay loam,WH505,Improved,104.1,52.2,0,58281,2.5,No,0.217,3.36
+RW-MZ-01165,2023,A,Kigali,Kicukiro,1464,500.1,20.8,6.19,Sandy loam,RHM104,Traditional,4,15.6,1.68,43442,0.84,No,0.086,3.44
+RW-MZ-01166,2023,A,Kigali,Kicukiro,1374,463.4,21.6,6.91,Sandy loam,PAN691,Improved,88.7,57.2,3.45,47160,0.35,No,0.341,2.68
+RW-MZ-01167,2023,A,Eastern,Kirehe,1460,595.2,20.7,5.56,Clay loam,ZM621,Improved,74.1,65.4,4.57,54526,1.27,Yes,0.163,3.96
+RW-MZ-01168,2023,A,Eastern,Kirehe,1453,493.3,20.7,6.14,Clay loam,RHM104,Improved,90.3,52.6,1.75,57355,0.74,No,0.124,3.98
+RW-MZ-01169,2023,A,Southern,Muhanga,1815,595.4,19.3,5.87,Volcanic,WH505,Improved,53.7,54.1,2.29,52680,0.97,No,0.37,4.54
+RW-MZ-01170,2023,A,Southern,Muhanga,1657,621.1,20.2,6.65,Loam,Local,Traditional,51.5,0,0,31415,0.24,No,0.1,1.71
+RW-MZ-01171,2023,A,Northern,Musanze,1844,701.4,17.2,5.47,Clay loam,WH505,Improved,49.3,60.6,0,61053,1.77,No,0.131,3.33
+RW-MZ-01172,2023,A,Northern,Musanze,1872,839.5,18.1,5.99,Clay loam,Local,Improved,102.1,30,2.46,57830,0.93,No,0.079,2.61
+RW-MZ-01173,2023,A,Eastern,Ngoma,1339,473.2,21.7,6.53,Sandy loam,RHM104,Improved,105.3,66,1.97,46221,1.46,No,0.304,2.86
+RW-MZ-01174,2023,A,Eastern,Ngoma,1550,506.6,21.5,5.9,Clay loam,ZM621,Improved,98.1,106.4,1.14,54303,0.52,No,0.288,3.22
+RW-MZ-01175,2023,A,Western,Ngororero,1974,677.3,16.2,5.96,Loam,Local,Improved,50.1,61.9,2.8,55184,0.47,No,0.113,2.35
+RW-MZ-01176,2023,A,Western,Ngororero,1982,711.4,17.9,5.39,Clay,PAN691,Improved,77.4,72.8,0,50013,0.24,No,0.404,2.88
+RW-MZ-01177,2023,A,Western,Nyabihu,2174,762,17,5.87,Sandy loam,RHM104,Improved,74.3,78.6,1.87,55728,1.41,No,0.376,3.38
+RW-MZ-01178,2023,A,Western,Nyabihu,2215,792.4,16.8,5.18,Sandy loam,PAN691,Improved,131.2,61.8,1.58,57599,0.78,No,0.059,3.67
+RW-MZ-01179,2023,A,Eastern,Nyagatare,1451,534.1,22,6.34,Loam,ZM621,Improved,3.8,101.5,2.01,50627,0.47,No,0.146,3.24
+RW-MZ-01180,2023,A,Eastern,Nyagatare,1401,466.8,22.2,6.57,Loam,ZM607,Improved,89.3,93.7,0,50581,1.32,No,0.182,3.1
+RW-MZ-01181,2023,A,Southern,Nyamagabe,2114,743,15.4,5.9,Clay,ZM621,Improved,14.8,39.6,3.24,48788,0.42,No,0.241,2.94
+RW-MZ-01182,2023,A,Southern,Nyamagabe,2032,625.8,17,5.98,Loam,ZM621,Improved,167.4,87.5,4.05,45805,0.41,No,0.046,3.76
+RW-MZ-01183,2023,A,Western,Nyamasheke,1924,692.2,18.4,5.72,Sandy loam,ZM621,Improved,55.6,72.7,2.25,52701,0.62,No,0.334,3.03
+RW-MZ-01184,2023,A,Western,Nyamasheke,1743,659.5,19.2,5.79,Clay loam,ZM621,Traditional,21.3,47.5,2.54,30626,0.6,No,0.19,3.01
+RW-MZ-01185,2023,A,Southern,Nyanza,1731,588.3,20.6,6.1,Clay,RHM104,Traditional,24.8,16.9,0,35306,0.76,No,0.338,2.78
+RW-MZ-01186,2023,A,Southern,Nyanza,1760,638.4,19.5,5.86,Clay loam,ZM621,Traditional,0,7.2,0.4,41365,1.04,No,0.143,3.76
+RW-MZ-01187,2023,A,Kigali,Nyarugenge,1536,563.8,20.7,5.62,Sandy loam,ZM621,Traditional,0,3.9,1.14,43661,0.65,Yes,0.436,2.52
+RW-MZ-01188,2023,A,Kigali,Nyarugenge,1397,511.5,20.4,5.87,Clay,Local,Improved,98.3,66.9,2.64,62915,0.66,No,0.227,2.35
+RW-MZ-01189,2023,A,Southern,Nyaruguru,1940,686,16.9,5.72,Loam,ZM607,Improved,135.9,70.4,0,50807,0.42,No,0.191,3.49
+RW-MZ-01190,2023,A,Southern,Nyaruguru,1896,662.7,17.6,6.39,Clay loam,ZM621,Improved,95.6,45.4,0.52,39718,1.42,Yes,0.47,3.22
+RW-MZ-01191,2023,A,Western,Rubavu,1657,663.3,19.2,5.46,Clay loam,RHM104,Improved,51.2,33.1,1.85,50526,1.14,No,0.099,3.92
+RW-MZ-01192,2023,A,Western,Rubavu,1803,716,19.7,5.02,Loam,RHM104,Traditional,35.4,20,2.6,38435,0.8,No,0.161,3.4
+RW-MZ-01193,2023,A,Southern,Ruhango,1836,549.6,19.3,5.45,Loam,ZM607,Traditional,0,0,1.45,43751,0.41,No,0.24,2.71
+RW-MZ-01194,2023,A,Southern,Ruhango,1783,460.1,19.6,6.24,Sandy loam,ZM607,Improved,88.2,55.6,3.2,54616,0.35,No,0.338,3.21
+RW-MZ-01195,2023,A,Northern,Rulindo,2011,636.8,17.8,5.68,Volcanic,ZM607,Traditional,9.2,15.6,3.47,41329,0.67,No,0.307,3.63
+RW-MZ-01196,2023,A,Northern,Rulindo,1899,561,18.1,5.37,Volcanic,PAN691,Improved,164.5,69.9,1.13,55766,2.15,Yes,0.326,3.89
+RW-MZ-01197,2023,A,Western,Rusizi,1417,676.7,21.6,5.27,Sandy loam,WH505,Improved,73.8,80.9,1.98,49790,0.69,No,0.324,2.53
+RW-MZ-01198,2023,A,Western,Rusizi,1485,603.7,21,5.6,Clay,Local,Improved,110.4,91.1,0,56738,0.63,No,0.311,1.98
+RW-MZ-01199,2023,A,Western,Rutsiro,1898,597.8,18.5,5.61,Loam,RHM104,Improved,144.1,56.5,4.27,47636,1.59,No,0.47,3.73
+RW-MZ-01200,2023,A,Western,Rutsiro,1913,646.1,17,5.82,Clay loam,ZM607,Traditional,14.3,15.9,1.65,46443,1.17,No,0.043,3.19
+RW-MZ-01201,2023,A,Eastern,Rwamagana,1370,472.6,21.1,5.89,Sandy loam,WH505,Traditional,0,16,1.4,45988,0.79,No,0.089,3
+RW-MZ-01202,2023,A,Eastern,Rwamagana,1382,689.3,21.3,6.07,Sandy loam,ZM607,Traditional,37.6,0,1.91,34303,1.82,No,0.145,2.62
+RW-MZ-01203,2023,B,Eastern,Bugesera,1444,404.6,21.2,5.86,Sandy loam,WH505,Improved,77.4,29.9,3.15,63246,1.27,No,0.132,3.1
+RW-MZ-01204,2023,B,Eastern,Bugesera,1360,508.9,22.1,6.37,Loam,WH505,Traditional,49.2,5.8,0,41559,1.55,No,0.761,2.19
+RW-MZ-01205,2023,B,Northern,Burera,2073,640.7,18.4,5.95,Loam,WH505,Traditional,28,0,1.32,25717,1.08,No,0.446,2.89
+RW-MZ-01206,2023,B,Northern,Burera,2022,640.2,16.5,5.97,Volcanic,ZM621,Improved,142.6,49.9,2.61,50505,1.03,No,0.417,3.13
+RW-MZ-01207,2023,B,Northern,Gakenke,1855,585.1,19.1,6.02,Loam,RHM104,Improved,103,99,0.84,53494,0.74,No,0.208,4.14
+RW-MZ-01208,2023,B,Northern,Gakenke,1929,439.6,19.1,5.97,Volcanic,Local,Improved,112.9,55.3,2.77,49680,0.35,No,0.715,1.93
+RW-MZ-01209,2023,B,Kigali,Gasabo,1525,497.5,21,6.29,Clay,WH505,Traditional,22.8,0,0.81,41263,0.44,No,0.233,2.53
+RW-MZ-01210,2023,B,Kigali,Gasabo,1508,488.3,20.4,5.88,Clay,Local,Improved,38.7,56.2,1.03,56263,1.27,No,0.125,1.99
+RW-MZ-01211,2023,B,Eastern,Gatsibo,1339,364.1,21.3,5.88,Volcanic,WH505,Traditional,22.1,26.2,0.07,34163,1.38,No,0.346,2.65
+RW-MZ-01212,2023,B,Eastern,Gatsibo,1439,464.6,21.2,5.96,Sandy loam,Local,Improved,116.7,46.3,3.46,47083,0.37,No,0.041,2.22
+RW-MZ-01213,2023,B,Northern,Gicumbi,1931,615.8,17.6,5.05,Clay,RHM104,Traditional,0,3,1.08,36005,0.78,No,0.434,2.37
+RW-MZ-01214,2023,B,Northern,Gicumbi,1990,533.8,17.8,5.75,Loam,ZM607,Improved,86,86.6,1.77,52423,0.79,No,0.272,3.27
+RW-MZ-01215,2023,B,Southern,Gisagara,1602,408.8,20.1,5.8,Sandy loam,RHM104,Improved,89.9,85.9,0.92,42371,0.44,No,0.265,2.55
+RW-MZ-01216,2023,B,Southern,Gisagara,1597,457.3,20.6,5.19,Loam,Local,Improved,138.3,135.2,1.64,45517,0.49,No,0.217,1.82
+RW-MZ-01217,2023,B,Southern,Huye,1775,579.7,19,5.24,Loam,WH505,Traditional,29.1,16.5,3.68,48275,0.53,No,0.283,2.54
+RW-MZ-01218,2023,B,Southern,Huye,1751,535.2,20,6.3,Loam,WH505,Traditional,30.1,0,3.34,45543,1.36,No,0.624,2.52
+RW-MZ-01219,2023,B,Southern,Kamonyi,1660,551.3,19.8,6.54,Loam,Local,Improved,91.2,14.5,0.42,48577,1.7,No,0.492,1.99
+RW-MZ-01220,2023,B,Southern,Kamonyi,1645,456.2,19.8,6.14,Loam,Local,Traditional,54.2,17.7,4.57,42965,1.91,No,0.081,2.08
+RW-MZ-01221,2023,B,Western,Karongi,1573,391.1,19.7,6.07,Clay,Local,Improved,100.7,71.7,1.57,64179,0.45,No,0.677,1.81
+RW-MZ-01222,2023,B,Western,Karongi,1720,607.9,19.3,5.28,Loam,ZM621,Traditional,25,37.1,4.02,31795,0.76,No,0.288,2.62
+RW-MZ-01223,2023,B,Eastern,Kayonza,1510,382.8,21.5,6.36,Sandy loam,PAN691,Improved,120.4,41.3,3.34,43218,0.63,No,0.68,2.54
+RW-MZ-01224,2023,B,Eastern,Kayonza,1511,394.8,21.8,6.19,Loam,PAN691,Improved,97.6,62.2,2.78,43803,0.56,No,0.153,3.75
+RW-MZ-01225,2023,B,Kigali,Kicukiro,1528,556.6,21.3,5.8,Loam,ZM621,Traditional,45.3,17.8,1.79,42999,1.31,No,0.245,2.83
+RW-MZ-01226,2023,B,Kigali,Kicukiro,1585,478.6,20.4,6.09,Clay,RHM104,Improved,120.6,66,1.35,53222,0.59,No,0.284,3.44
+RW-MZ-01227,2023,B,Eastern,Kirehe,1452,442.1,20.7,6.44,Clay,RHM104,Improved,92.5,32.5,0.53,67533,0.78,No,0.479,3.18
+RW-MZ-01228,2023,B,Eastern,Kirehe,1387,463,21.1,6.02,Loam,RHM104,Improved,57.8,88.6,1.45,60617,0.55,No,0.155,3.78
+RW-MZ-01229,2023,B,Southern,Muhanga,1735,542,18.5,5.72,Loam,ZM607,Traditional,0,0,3.33,38215,0.53,No,0.047,2.91
+RW-MZ-01230,2023,B,Southern,Muhanga,1770,504.7,19.6,6.02,Sandy loam,PAN691,Traditional,50.9,21.9,0.99,41817,0.89,No,0.137,3.69
+RW-MZ-01231,2023,B,Northern,Musanze,2006,583.8,17.1,5.87,Loam,ZM607,Improved,105.3,33,5.27,63574,0.91,No,0.288,3.43
+RW-MZ-01232,2023,B,Northern,Musanze,1846,552.8,16.8,5.71,Clay loam,ZM621,Improved,47,75.6,0.67,53483,0.64,No,0.303,2.96
+RW-MZ-01233,2023,B,Eastern,Ngoma,1546,359.2,21.2,5.57,Loam,RHM104,Improved,138.3,73.7,0.15,41609,0.9,No,0.144,2.48
+RW-MZ-01234,2023,B,Eastern,Ngoma,1463,453.7,21.9,5.52,Loam,ZM607,Improved,86.6,50.9,2.26,54815,0.78,No,0.079,2.81
+RW-MZ-01235,2023,B,Western,Ngororero,1977,688.1,17.2,6.44,Clay,ZM621,Traditional,16.5,15.3,3.36,34095,0.35,No,0.215,2.74
+RW-MZ-01236,2023,B,Western,Ngororero,1853,613.5,18,5.7,Clay,ZM621,Traditional,52.2,11.8,3.03,35564,0.22,No,0.093,2.45
+RW-MZ-01237,2023,B,Western,Nyabihu,2143,719.5,16,5.59,Loam,ZM621,Traditional,44,18.9,1.44,48978,0.43,No,0.302,2.4
+RW-MZ-01238,2023,B,Western,Nyabihu,2200,527.8,16.7,5.07,Clay,RHM104,Improved,117.8,75.6,3.72,49197,0.66,No,0.371,2.55
+RW-MZ-01239,2023,B,Eastern,Nyagatare,1423,394.3,21.2,5.71,Sandy loam,ZM621,Traditional,29.6,23.1,1.4,46803,0.31,No,0.069,2.26
+RW-MZ-01240,2023,B,Eastern,Nyagatare,1250,414.2,22,6.24,Sandy loam,Local,Improved,132.5,100.3,3.55,50237,0.16,No,0.465,1.9
+RW-MZ-01241,2023,B,Southern,Nyamagabe,1957,562.4,17.6,5.29,Loam,Local,Traditional,5.2,32.9,2.75,33862,1.22,No,0.504,1.4
+RW-MZ-01242,2023,B,Southern,Nyamagabe,2078,779.3,16.7,6.38,Sandy loam,ZM607,Traditional,17.4,32.9,3.4,35001,0.36,No,0.411,2.34
+RW-MZ-01243,2023,B,Western,Nyamasheke,1750,713.8,18.3,5.67,Sandy loam,RHM104,Traditional,0,17.8,0.83,25567,0.85,No,0.442,2.05
+RW-MZ-01244,2023,B,Western,Nyamasheke,1768,574.6,18.3,5.89,Loam,WH505,Improved,103.5,48.8,2.6,56444,2.83,No,0.078,3.62
+RW-MZ-01245,2023,B,Southern,Nyanza,1724,469.3,20.1,5.77,Loam,ZM607,Improved,73.5,41.4,2.14,55895,0.6,No,0.445,2.75
+RW-MZ-01246,2023,B,Southern,Nyanza,1602,510.2,19,5.91,Clay loam,RHM104,Traditional,0,0,2.01,39655,0.94,No,0.12,2.89
+RW-MZ-01247,2023,B,Kigali,Nyarugenge,1627,507.2,20.9,6.22,Sandy loam,ZM607,Improved,120.7,56.9,2.57,59655,0.59,No,0.692,2.86
+RW-MZ-01248,2023,B,Kigali,Nyarugenge,1502,544,19.1,5.75,Clay loam,RHM104,Improved,152.3,33,5.36,50706,0.42,No,0.572,3.02
+RW-MZ-01249,2023,B,Southern,Nyaruguru,1935,650.9,17,6.08,Clay loam,WH505,Improved,93.7,101.6,4.28,53897,0.94,No,0.293,3.14
+RW-MZ-01250,2023,B,Southern,Nyaruguru,1957,571.3,16.9,5.94,Loam,ZM621,Improved,155.6,94.9,2.5,69656,0.58,No,0.249,4.44
+RW-MZ-01251,2023,B,Western,Rubavu,1769,540.9,20.6,5.65,Sandy loam,Local,Traditional,7.5,2,2.99,28901,1.21,No,0.365,1.59
+RW-MZ-01252,2023,B,Western,Rubavu,1694,491.4,18.9,5.74,Loam,ZM607,Traditional,0,34.9,1.29,38187,0.7,No,0.241,2.24
+RW-MZ-01253,2023,B,Southern,Ruhango,1713,624,19.7,6.44,Clay loam,WH505,Traditional,85.4,5.3,3.12,40270,0.83,No,0.534,3.32
+RW-MZ-01254,2023,B,Southern,Ruhango,1770,388,19.5,6.17,Sandy loam,Local,Improved,69.4,52,3.23,40384,0.72,No,0.345,1.98
+RW-MZ-01255,2023,B,Northern,Rulindo,1941,478.9,17.4,5.73,Sandy loam,WH505,Traditional,39.9,0,0.51,34135,0.59,No,0.118,2.28
+RW-MZ-01256,2023,B,Northern,Rulindo,1927,612.6,18.4,6.32,Clay,ZM621,Improved,103.4,45.7,4.08,58787,0.26,No,0.479,2.62
+RW-MZ-01257,2023,B,Western,Rusizi,1543,641.2,21.4,6.34,Clay loam,WH505,Improved,152.1,90.9,0.37,57803,0.79,No,0.068,3.81
+RW-MZ-01258,2023,B,Western,Rusizi,1528,546.6,20.4,5.77,Loam,Local,Improved,130,52.6,4.04,50421,0.63,No,0.261,2.13
+RW-MZ-01259,2023,B,Western,Rutsiro,1932,541.1,16.3,6.6,Volcanic,WH505,Improved,124.1,42.1,0.94,52880,1.38,No,0.597,2.95
+RW-MZ-01260,2023,B,Western,Rutsiro,1881,621.7,18.4,5.95,Clay loam,ZM621,Improved,178.2,22.8,2.73,63992,0.33,No,0.42,3.54
+RW-MZ-01261,2023,B,Eastern,Rwamagana,1507,494,20.9,5.95,Sandy loam,Local,Improved,60.7,44,2.88,53818,0.48,Yes,0.329,1.84
+RW-MZ-01262,2023,B,Eastern,Rwamagana,1359,469.7,21.2,6.58,Loam,ZM607,Traditional,20.4,21.6,1.08,38544,0.41,No,0.516,2.08
+RW-MZ-01263,2023,C,Northern,Gakenke,1827,385.3,18.7,5.25,Volcanic,ZM621,Improved,99.6,72.8,1.08,63579,0.5,Yes,0.213,3.67
+RW-MZ-01264,2023,C,Northern,Gakenke,1889,301.4,17.6,6.11,Clay,ZM607,Improved,99.2,69.3,1.53,43212,1.05,No,0.01,2.03
+RW-MZ-01265,2023,C,Northern,Gicumbi,2021,325.8,18.3,5.93,Sandy loam,ZM607,Traditional,25.8,20.7,2.44,44573,0.61,Yes,0.044,2.32
+RW-MZ-01266,2023,C,Northern,Gicumbi,1934,233.3,19.2,5.73,Loam,Local,Improved,125.1,60.4,1.22,51275,1.37,No,0.427,1.54
+RW-MZ-01267,2023,C,Southern,Huye,1872,240.9,17.6,5.98,Clay loam,RHM104,Traditional,5.1,0,2.89,42176,0.59,No,0.13,2.01
+RW-MZ-01268,2023,C,Southern,Huye,1751,322.7,18.2,5.37,Clay,PAN691,Improved,98.3,57.7,3.69,64008,0.5,No,0.318,2.29
+RW-MZ-01269,2023,C,Southern,Kamonyi,1609,241,19.7,6.14,Clay loam,Local,Traditional,4.6,33,0.38,48743,1.5,Yes,0.435,1.75
+RW-MZ-01270,2023,C,Southern,Kamonyi,1703,211.9,20.2,5.93,Clay loam,ZM621,Traditional,18.8,20.7,2.14,45988,0.73,No,0.046,2.45
+RW-MZ-01271,2023,C,Eastern,Kayonza,1487,154.9,21.3,6.69,Sandy loam,Local,Improved,124,59,0,50868,0.33,No,0.114,1.2
+RW-MZ-01272,2023,C,Eastern,Kayonza,1533,196.6,21.3,6.07,Clay,RHM104,Traditional,16.9,5.3,0,38585,0.49,No,0.119,1.98
+RW-MZ-01273,2023,C,Eastern,Kirehe,1514,291.1,20.7,6.18,Clay,RHM104,Improved,15.8,46.6,2.64,54355,0.49,No,0.27,2.3
+RW-MZ-01274,2023,C,Eastern,Kirehe,1438,196.3,20.8,5.53,Sandy loam,WH505,Traditional,21.8,0,1.22,40810,0.35,No,0.289,1.57
+RW-MZ-01275,2023,C,Western,Ngororero,1897,314.8,17.6,5.99,Volcanic,ZM621,Improved,148.8,25.7,4.48,58760,0.66,Yes,0.223,3.52
+RW-MZ-01276,2023,C,Western,Ngororero,1869,307.7,17.4,6.01,Volcanic,Local,Improved,75.5,74.9,2.12,52637,0.59,Yes,0.441,1.83
+RW-MZ-01277,2023,C,Western,Nyabihu,2151,296.7,16.2,5.68,Loam,ZM607,Traditional,30.1,13.3,4.4,40289,0.7,Yes,0.515,2.1
+RW-MZ-01278,2023,C,Western,Nyabihu,2227,295.9,16.5,5.58,Clay,RHM104,Traditional,24.2,18.7,2.19,27643,0.36,No,0.461,1.52
+RW-MZ-01279,2023,C,Eastern,Nyagatare,1450,227.4,22.4,6.29,Sandy loam,WH505,Improved,98.3,41.9,2.99,50845,0.63,No,0.226,2.08
+RW-MZ-01280,2023,C,Eastern,Nyagatare,1352,260.8,22.3,5.63,Loam,RHM104,Improved,105.8,28.7,1.06,55230,1.66,No,0.328,2.07
+RW-MZ-01281,2023,C,Southern,Nyamagabe,1908,334.9,17.9,6.36,Loam,WH505,Improved,73.2,66,2.49,58759,1.47,No,0.101,2.87
+RW-MZ-01282,2023,C,Southern,Nyamagabe,1953,442.8,16.2,6.27,Loam,ZM607,Improved,163,72.5,1.39,50053,0.58,Yes,0.593,2.57
+RW-MZ-01283,2023,C,Southern,Ruhango,1779,281.4,19.2,6.18,Sandy loam,ZM607,Improved,53.1,0,1.38,50095,0.53,No,0.31,2.08
+RW-MZ-01284,2023,C,Southern,Ruhango,1792,163.5,18.1,6.71,Clay,Local,Traditional,44.3,26.2,2.34,31674,1.02,No,0.137,1.01
+RW-MZ-01285,2023,C,Western,Rutsiro,2028,280.6,17.5,5.35,Loam,ZM621,Improved,140.6,36.4,2.05,55946,0.67,Yes,0.275,2.23
+RW-MZ-01286,2023,C,Western,Rutsiro,1916,284.7,17.7,5.42,Clay loam,ZM607,Improved,104.1,70.1,3.81,54445,0.5,No,0.275,2.16
+RW-MZ-01287,2023,C,Eastern,Rwamagana,1377,293.7,21.8,6.64,Sandy loam,Local,Traditional,0,0,2.38,41234,2.17,No,0.083,1.29
+RW-MZ-01288,2023,C,Eastern,Rwamagana,1363,241,19.7,5.61,Sandy loam,ZM621,Traditional,28.9,14.3,0.97,42148,1.98,Yes,0.139,2.03
+RW-MZ-01289,2024,A,Eastern,Bugesera,1351,425.3,21.8,5.54,Clay,ZM621,Improved,83.4,98.3,0.74,64548,0.38,No,0.182,3.03
+RW-MZ-01290,2024,A,Eastern,Bugesera,1437,449.6,21.3,6.15,Sandy loam,WH505,Improved,35.7,54.4,3.72,56644,0.54,No,0.146,3.23
+RW-MZ-01291,2024,A,Northern,Burera,1973,652.4,17.4,5.88,Loam,RHM104,Improved,104.9,42.5,3.44,58025,0.94,No,0.054,4.71
+RW-MZ-01292,2024,A,Northern,Burera,1932,654.2,17,5.65,Loam,PAN691,Improved,101.3,88,2.97,52873,0.24,No,0.415,3.78
+RW-MZ-01293,2024,A,Northern,Gakenke,1919,794.8,17.3,5.55,Loam,Local,Improved,105.7,60.8,0,61538,0.54,No,0.28,2.21
+RW-MZ-01294,2024,A,Northern,Gakenke,1918,579.2,17.9,6.03,Volcanic,Local,Improved,105.4,95.1,2.82,39938,0.99,No,0.385,2.29
+RW-MZ-01295,2024,A,Kigali,Gasabo,1468,703.1,20.4,5.31,Sandy loam,PAN691,Traditional,54.7,11,1.95,39783,0.41,No,0.134,2.92
+RW-MZ-01296,2024,A,Kigali,Gasabo,1491,545.8,22.6,5.99,Volcanic,Local,Traditional,20.9,37.8,2.5,43420,0.39,No,0.226,2.36
+RW-MZ-01297,2024,A,Eastern,Gatsibo,1360,536.8,21.4,6.37,Volcanic,ZM607,Traditional,52.5,15.8,0,33247,0.59,No,0.154,3.08
+RW-MZ-01298,2024,A,Eastern,Gatsibo,1357,416,21.4,6.01,Sandy loam,WH505,Improved,97,80.4,1.74,56236,0.31,No,0.316,3.09
+RW-MZ-01299,2024,A,Northern,Gicumbi,1929,624.4,18.6,5.38,Volcanic,ZM621,Traditional,19.4,0,2.24,36183,0.77,No,0.216,3.3
+RW-MZ-01300,2024,A,Northern,Gicumbi,2013,663.3,17.9,4.9,Clay loam,WH505,Traditional,12.3,6.8,2.02,38143,1.52,No,0.138,2.72
+RW-MZ-01301,2024,A,Southern,Gisagara,1625,462.4,19.1,6.44,Clay loam,PAN691,Traditional,20,15.2,2.48,35597,0.8,No,0.335,3.34
+RW-MZ-01302,2024,A,Southern,Gisagara,1618,556.5,20.2,5.95,Clay loam,ZM621,Improved,88.2,63.8,3.45,51348,0.19,No,0.1,3.52
+RW-MZ-01303,2024,A,Southern,Huye,1702,613.9,19.3,5.41,Loam,ZM607,Traditional,10.7,0,2.32,30125,1.45,No,0.176,2.88
+RW-MZ-01304,2024,A,Southern,Huye,1716,657.2,19.3,6.39,Loam,Local,Improved,109,68,1.16,47074,1.45,No,0.206,2.38
+RW-MZ-01305,2024,A,Southern,Kamonyi,1575,571.2,19.6,5.01,Sandy loam,ZM607,Improved,72.8,61.1,2.18,57290,0.46,No,0.054,2.9
+RW-MZ-01306,2024,A,Southern,Kamonyi,1579,495.6,19.7,6.09,Sandy loam,WH505,Traditional,27.1,7.7,3.3,42337,0.77,Yes,0.392,2.84
+RW-MZ-01307,2024,A,Western,Karongi,1691,575.1,19.2,5.72,Clay loam,PAN691,Traditional,0,10.6,2.27,37266,0.93,No,0.202,3.14
+RW-MZ-01308,2024,A,Western,Karongi,1665,592.9,18.7,5.74,Clay loam,Local,Improved,59.9,49.3,0.1,52098,0.41,No,0.129,2.24
+RW-MZ-01309,2024,A,Eastern,Kayonza,1449,426.9,22.6,6.79,Loam,ZM607,Improved,88.7,55.1,0,62181,1.36,No,0.373,2.33
+RW-MZ-01310,2024,A,Eastern,Kayonza,1433,491.8,21.3,5.45,Loam,Local,Improved,92,127.2,0.61,57640,0.78,No,0.242,1.98
+RW-MZ-01311,2024,A,Kigali,Kicukiro,1600,670.9,20,6.81,Loam,ZM621,Improved,98.2,27.4,3.36,45269,0.28,No,0.383,3.29
+RW-MZ-01312,2024,A,Kigali,Kicukiro,1530,560.5,20.9,5.5,Volcanic,PAN691,Improved,95,107.7,4.85,55635,0.28,No,0.178,3.87
+RW-MZ-01313,2024,A,Eastern,Kirehe,1344,534.2,21.6,6.08,Sandy loam,ZM621,Improved,40.7,65.3,4.2,46750,1.11,No,0.082,3.45
+RW-MZ-01314,2024,A,Eastern,Kirehe,1384,448.1,21.3,5.35,Loam,ZM621,Improved,42.2,76.4,1.55,54302,0.22,No,0.147,2.83
+RW-MZ-01315,2024,A,Southern,Muhanga,1618,654.5,19.5,5.61,Loam,ZM607,Improved,93.5,104.2,1.76,58925,0.76,No,0.351,3.39
+RW-MZ-01316,2024,A,Southern,Muhanga,1580,622.2,19.2,5.79,Loam,WH505,Traditional,68.5,19.9,5.16,35366,1.07,No,0.206,3.41
+RW-MZ-01317,2024,A,Northern,Musanze,1805,832,17.9,5.95,Volcanic,ZM621,Improved,76.9,81.4,3.38,56777,0.53,No,0.597,3.36
+RW-MZ-01318,2024,A,Northern,Musanze,1752,,18.6,,Sandy loam,Local,Improved,96.8,51.2,1.55,56526,0.5,No,,2.41
+RW-MZ-01319,2024,A,Eastern,Ngoma,1381,551.8,21.3,5.74,Clay loam,ZM621,Traditional,53.7,33.4,4.66,51287,0.56,No,0.6,2.85
+RW-MZ-01320,2024,A,Eastern,Ngoma,1516,414.5,20.6,5.52,Clay,PAN691,Improved,116.4,54.8,3.48,55712,0.55,No,0.269,2.9
+RW-MZ-01321,2024,A,Western,Ngororero,1849,736,17.4,5.16,Clay,ZM607,Traditional,29.5,0,1.62,37525,1.11,No,0.224,2.01
+RW-MZ-01322,2024,A,Western,Ngororero,1857,769.3,17.7,5.36,Clay loam,Local,Improved,37,90,1.49,51715,0.27,No,0.337,1.75
+RW-MZ-01323,2024,A,Western,Nyabihu,2191,892.1,16.4,5.6,Loam,ZM607,Traditional,0,19.8,0,42993,0.53,No,0.146,2.46
+RW-MZ-01324,2024,A,Western,Nyabihu,2217,831.7,16.4,5.95,Loam,ZM607,Improved,106.9,63.8,2.25,49961,0.55,No,0.044,2.71
+RW-MZ-01325,2024,A,Eastern,Nyagatare,1510,538,21.6,6.43,Volcanic,ZM621,Traditional,85.5,16,1.93,43414,1.36,No,0.181,3.68
+RW-MZ-01326,2024,A,Eastern,Nyagatare,1495,398.2,21.3,6.34,Clay,WH505,Improved,37.5,70.1,3.82,52844,0.38,No,0.137,3.28
+RW-MZ-01327,2024,A,Southern,Nyamagabe,2174,763.4,18,6.1,Loam,Local,Traditional,36.2,0,2.77,31505,0.87,No,0.116,2.33
+RW-MZ-01328,2024,A,Southern,Nyamagabe,2028,746.9,17.9,5.72,Clay,PAN691,Improved,118.8,77.4,0.09,47797,0.97,No,0.075,3.63
+RW-MZ-01329,2024,A,Western,Nyamasheke,1820,822,19,6.32,Clay loam,ZM607,Traditional,28.4,22.6,1.35,40442,1.49,No,0.175,3.25
+RW-MZ-01330,2024,A,Western,Nyamasheke,1867,639,20.4,5.31,Clay loam,ZM607,Traditional,26.8,22.3,2.38,50394,0.65,No,0.132,2.94
+RW-MZ-01331,2024,A,Southern,Nyanza,1636,633.1,19.7,6.19,Clay,ZM607,Improved,182.1,54.9,0.98,58489,0.82,No,0.398,3.26
+RW-MZ-01332,2024,A,Southern,Nyanza,1728,588.9,17.9,6.11,Clay,Local,Improved,56.2,94.6,1.49,47167,0.93,No,0.183,2.31
+RW-MZ-01333,2024,A,Kigali,Nyarugenge,1637,617.4,20.6,5.69,Loam,ZM607,Improved,46.6,63.1,1.23,45805,0.7,No,0.197,3.76
+RW-MZ-01334,2024,A,Kigali,Nyarugenge,1537,501.6,21,6.1,Clay loam,ZM621,Improved,141.9,34.7,2.02,55950,0.24,No,0.447,3.53
+RW-MZ-01335,2024,A,Southern,Nyaruguru,1950,793.4,17.8,6.26,Clay loam,RHM104,Traditional,6.7,16.1,1.58,37916,0.61,No,0.622,2.58
+RW-MZ-01336,2024,A,Southern,Nyaruguru,1899,779.4,16.9,5.7,Clay,PAN691,Traditional,44.7,17.5,2.92,28747,0.46,No,0.12,3.02
+RW-MZ-01337,2024,A,Western,Rubavu,1734,657.4,20.1,5.14,Sandy loam,ZM621,Traditional,10.5,12.8,0.17,44375,0.99,No,0.385,2.6
+RW-MZ-01338,2024,A,Western,Rubavu,1847,661,19.9,6.17,Sandy loam,ZM621,Improved,95.6,64.2,4.55,58491,1.1,No,0.076,3.38
+RW-MZ-01339,2024,A,Southern,Ruhango,1804,630.3,19.7,6.35,Sandy loam,WH505,Improved,94,88.5,2.12,59614,1.46,No,0.015,4.43
+RW-MZ-01340,2024,A,Southern,Ruhango,1717,661.8,19,6.38,Sandy loam,WH505,Improved,69.9,41.4,5.35,47648,0.84,No,0.198,3.95
+RW-MZ-01341,2024,A,Northern,Rulindo,1973,577.5,18.3,5.58,Volcanic,RHM104,Improved,58.8,49,3.69,46212,1.26,No,0.055,4.8
+RW-MZ-01342,2024,A,Northern,Rulindo,1875,603.8,18.6,5.07,Volcanic,Local,Improved,121.9,92.3,1.51,46571,0.39,No,0.237,2.46
+RW-MZ-01343,2024,A,Western,Rusizi,1434,530.1,21.2,6.14,Loam,ZM621,Traditional,9.3,12.8,1.01,33149,0.25,No,0.257,3.05
+RW-MZ-01344,2024,A,Western,Rusizi,1477,588.4,22.7,5.74,Clay loam,ZM607,Improved,106.4,12.2,0.93,48589,0.47,No,0.224,2.61
+RW-MZ-01345,2024,A,Western,Rutsiro,2007,737.3,18,5.35,Loam,ZM621,Traditional,25.5,1.6,3.53,38466,0.42,No,0.198,3.07
+RW-MZ-01346,2024,A,Western,Rutsiro,1910,726.7,18,5.79,Loam,ZM621,Traditional,0,10.7,3.2,41511,0.52,No,0.108,3.04
+RW-MZ-01347,2024,A,Eastern,Rwamagana,1629,584.3,20.4,6.58,Clay loam,PAN691,Traditional,51,15.8,1.38,37633,0.75,No,0.039,4.15
+RW-MZ-01348,2024,A,Eastern,Rwamagana,1447,509,20.3,5.89,Clay loam,Local,Improved,98.7,72.2,0.93,37958,0.65,No,0.393,1.93
+RW-MZ-01349,2024,B,Eastern,Bugesera,1405,448.8,21.6,5.72,Volcanic,ZM621,Traditional,12.1,1.6,0.95,49381,0.46,No,0.123,3.47
+RW-MZ-01350,2024,B,Eastern,Bugesera,1421,357.6,22.5,5.75,Clay loam,PAN691,Traditional,39.9,43.2,0,33304,0.71,No,0.185,2.5
+RW-MZ-01351,2024,B,Northern,Burera,1918,668.4,17,5.04,Loam,WH505,Traditional,14.4,4,1.63,48553,2.35,No,0.41,2.98
+RW-MZ-01352,2024,B,Northern,Burera,1976,585.9,17,5.6,Volcanic,ZM607,Improved,171.9,98.8,0.68,61812,0.34,No,0.195,3.8
+RW-MZ-01353,2024,B,Northern,Gakenke,1907,506.1,17.3,5.89,Volcanic,WH505,Traditional,6.5,0,3.34,33049,1.14,No,0.457,2.98
+RW-MZ-01354,2024,B,Northern,Gakenke,1904,542,18.8,5.54,Sandy loam,ZM621,Traditional,10.5,0,0.77,33593,0.97,No,0.067,2.74
+RW-MZ-01355,2024,B,Kigali,Gasabo,1488,521.6,21.3,6.67,Clay loam,RHM104,Improved,125.7,59.1,1.97,53718,0.53,Yes,0.321,3.58
+RW-MZ-01356,2024,B,Kigali,Gasabo,1647,570.4,20.6,5.86,Clay,ZM621,Traditional,3.3,15.8,3.93,34036,1.99,No,0.15,2.37
+RW-MZ-01357,2024,B,Eastern,Gatsibo,1400,383.6,21.6,5.59,Clay,Local,Improved,118.7,59.4,1.28,47581,0.36,No,0.856,1.13
+RW-MZ-01358,2024,B,Eastern,Gatsibo,1458,378.7,22.7,5.55,Volcanic,WH505,Improved,110.3,91.4,3.08,48838,3.86,No,0.164,3.31
+RW-MZ-01359,2024,B,Northern,Gicumbi,1919,636.1,18.9,4.94,Sandy loam,ZM621,Improved,102.3,92.1,3.56,58381,0.76,No,0.249,3.3
+RW-MZ-01360,2024,B,Northern,Gicumbi,1979,577.8,17.1,6.03,Sandy loam,Local,Improved,137.4,34,1.84,69417,2.2,No,0.069,2.26
+RW-MZ-01361,2024,B,Southern,Gisagara,1601,536,19.7,5.71,Volcanic,PAN691,Improved,65.1,23,2.07,31817,0.63,No,0.326,3.16
+RW-MZ-01362,2024,B,Southern,Gisagara,1746,360.2,20,5.84,Loam,PAN691,Traditional,43.5,3.7,3.45,35404,0.83,No,0.351,3.1
+RW-MZ-01363,2024,B,Southern,Huye,1677,653.4,18.3,5.7,Clay,ZM607,Traditional,0,0,2.15,42368,1.67,No,0.039,2.84
+RW-MZ-01364,2024,B,Southern,Huye,1692,395,19,5.96,Volcanic,ZM607,Traditional,0.6,30.8,0.67,36343,0.65,No,0.198,3.23
+RW-MZ-01365,2024,B,Southern,Kamonyi,1622,436.1,19.9,6.28,Sandy loam,Local,Improved,74.6,21.3,3.1,57836,0.65,No,0.313,2
+RW-MZ-01366,2024,B,Southern,Kamonyi,1765,539.3,18.9,6.58,Sandy loam,Local,Improved,80.7,76.4,3.55,48713,0.2,No,0.514,1.77
+RW-MZ-01367,2024,B,Western,Karongi,1750,537,19.9,5.25,Loam,ZM607,Traditional,11.2,33,1.74,43435,1.12,No,0.062,2.43
+RW-MZ-01368,2024,B,Western,Karongi,1680,565.5,19.4,5.73,Sandy loam,Local,Traditional,6.9,0,1.03,29170,0.76,No,0.461,1.19
+RW-MZ-01369,2024,B,Eastern,Kayonza,1467,415.1,21.4,6.02,Clay loam,ZM607,Traditional,23.2,46.6,2.79,36262,0.93,No,0.822,2.04
+RW-MZ-01370,2024,B,Eastern,Kayonza,1353,486.9,21.4,5.92,Clay loam,PAN691,Improved,12.6,90.2,1.85,58797,0.63,No,0.251,4.05
+RW-MZ-01371,2024,B,Kigali,Kicukiro,1504,333.1,20.4,6.28,Loam,ZM621,Traditional,4.3,12.8,0.45,37373,0.54,No,0.53,2.31
+RW-MZ-01372,2024,B,Kigali,Kicukiro,1539,496.1,21,5.8,Clay loam,RHM104,Improved,106.1,50.9,4.25,69074,0.48,Yes,0.63,3.55
+RW-MZ-01373,2024,B,Eastern,Kirehe,1456,486.4,21.5,5.47,Clay,ZM607,Traditional,52.8,14.7,2.08,36977,0.8,No,0.275,2.15
+RW-MZ-01374,2024,B,Eastern,Kirehe,1325,479.6,20.1,6.1,Sandy loam,Local,Improved,102.9,45.1,2.74,51829,1.47,No,0.12,2.07
+RW-MZ-01375,2024,B,Southern,Muhanga,1714,452.1,19,6.01,Volcanic,ZM621,Traditional,21.8,5.1,3.24,40109,1.37,No,0.153,3.54
+RW-MZ-01376,2024,B,Southern,Muhanga,1682,516.2,19.7,6.81,Loam,ZM607,Improved,113.6,7,1.8,58283,0.49,No,0.711,2.66
+RW-MZ-01377,2024,B,Northern,Musanze,1994,738.7,17.7,5.64,Loam,ZM621,Improved,159.9,33.1,1.95,56787,0.7,No,0.414,3.11
+RW-MZ-01378,2024,B,Northern,Musanze,1927,685.6,17.1,6.77,Volcanic,WH505,Traditional,34.5,4,1.1,33199,0.97,No,0.399,3.15
+RW-MZ-01379,2024,B,Eastern,Ngoma,1517,458,21.1,6.06,Sandy loam,ZM621,Improved,62.4,76.9,3.4,56637,0.59,No,0.494,2.78
+RW-MZ-01380,2024,B,Eastern,Ngoma,1651,471.2,21.1,6.94,Clay,WH505,Traditional,68.5,1.3,2.65,44426,1.07,No,0.621,2.1
+RW-MZ-01381,2024,B,Western,Ngororero,1928,644.8,18.2,4.77,Loam,WH505,Traditional,55.1,58,0,39826,0.7,No,0.439,2.52
+RW-MZ-01382,2024,B,Western,Ngororero,1864,727.7,17.1,5.27,Sandy loam,Local,Improved,150,76.4,1.3,52197,0.92,No,0.536,1.58
+RW-MZ-01383,2024,B,Western,Nyabihu,2171,677.8,16,5.09,Loam,ZM607,Traditional,31.3,7.6,2.56,40703,1.05,No,0.114,2.17
+RW-MZ-01384,2024,B,Western,Nyabihu,2142,810,15.7,6.03,Clay loam,ZM607,Improved,100.1,85.5,2.34,57529,1.58,No,0.192,2.94
+RW-MZ-01385,2024,B,Eastern,Nyagatare,1537,403,21.7,6.2,Sandy loam,ZM621,Improved,142.3,37.1,0.89,52233,1.26,No,0.517,2.3
+RW-MZ-01386,2024,B,Eastern,Nyagatare,1381,418.1,22.6,6.63,Sandy loam,WH505,Improved,48.1,68.9,0.42,55905,0.26,No,0.089,3
+RW-MZ-01387,2024,B,Southern,Nyamagabe,2021,588.4,16.8,6.37,Volcanic,ZM607,Traditional,24.3,15.2,0,31578,0.29,No,0.036,2.85
+RW-MZ-01388,2024,B,Southern,Nyamagabe,1973,714.8,16.9,5.1,Clay loam,ZM607,Improved,30.7,52.5,0.69,45702,0.62,Yes,0.198,2.31
+RW-MZ-01389,2024,B,Western,Nyamasheke,1834,484.6,18.3,5.63,Clay,WH505,Traditional,0,11.2,3.27,43607,0.91,No,0.111,2.73
+RW-MZ-01390,2024,B,Western,Nyamasheke,1729,535.1,18.6,5.78,Loam,Local,Traditional,21.2,0,0,38488,1.51,No,0.639,1.51
+RW-MZ-01391,2024,B,Southern,Nyanza,1792,491.6,20,6.01,Clay loam,RHM104,Improved,84.5,31.5,3.36,62029,0.35,No,0.202,3.9
+RW-MZ-01392,2024,B,Southern,Nyanza,1705,608.4,19.8,6.01,Loam,Local,Traditional,3.2,7.6,1.58,27642,1.12,No,0.348,1.8
+RW-MZ-01393,2024,B,Kigali,Nyarugenge,1625,498.2,20.8,6.18,Clay loam,Local,Improved,69.9,96.7,2.95,46341,0.59,No,0.118,2.26
+RW-MZ-01394,2024,B,Kigali,Nyarugenge,1495,457.4,22,6.1,Clay,RHM104,Improved,119,36.8,0.56,51772,1.3,No,0.362,2.52
+RW-MZ-01395,2024,B,Southern,Nyaruguru,1912,598.1,18.3,5.48,Sandy loam,WH505,Improved,106,49.3,0.86,50781,0.36,No,0.152,3.02
+RW-MZ-01396,2024,B,Southern,Nyaruguru,1914,657.6,17.6,5.37,Volcanic,ZM621,Improved,106.8,54.1,2.24,46160,0.83,Yes,0.608,3.15
+RW-MZ-01397,2024,B,Western,Rubavu,1711,639.8,20,5.73,Sandy loam,WH505,Improved,134,71.2,2.36,52957,0.81,No,0.485,2.68
+RW-MZ-01398,2024,B,Western,Rubavu,1701,622,20,4.9,Loam,ZM621,Traditional,0,15,1.93,46648,0.61,No,0.518,2.38
+RW-MZ-01399,2024,B,Southern,Ruhango,1644,489.5,18.7,5.84,Clay loam,Local,Improved,177.9,93.3,4.91,49593,1.83,No,0.523,2.09
+RW-MZ-01400,2024,B,Southern,Ruhango,1748,640.5,19.5,5.72,Loam,ZM621,Traditional,19.4,0,0.74,52609,0.71,No,0.247,3.37
+RW-MZ-01401,2024,B,Northern,Rulindo,1861,486.1,17.5,6.28,Clay loam,ZM621,Traditional,26.5,22.2,3.96,34292,0.68,No,0.193,2.18
+RW-MZ-01402,2024,B,Northern,Rulindo,1908,603.8,17.7,5.26,Sandy loam,PAN691,Improved,145.3,12,2.58,52377,0.59,Yes,0.155,3.7
+RW-MZ-01403,2024,B,Western,Rusizi,1417,593,22,5.8,Loam,ZM621,Traditional,2.1,10.5,2.4,38156,0.5,No,0.509,2.36
+RW-MZ-01404,2024,B,Western,Rusizi,1476,484.9,20.7,5.54,Clay loam,PAN691,Traditional,55.2,7.6,1.01,41525,0.51,No,0.657,2.78
+RW-MZ-01405,2024,B,Western,Rutsiro,1948,604.7,18.1,4.93,Clay loam,Local,Traditional,54.3,0,2.48,39912,0.41,No,0.589,1.45
+RW-MZ-01406,2024,B,Western,Rutsiro,1873,701.3,17.3,5.49,Loam,WH505,Improved,88,37.1,3.43,46258,0.41,No,0.317,2.79
+RW-MZ-01407,2024,B,Eastern,Rwamagana,1284,532.4,21.1,6.06,Clay,PAN691,Improved,62.1,54.3,2.53,61187,0.7,No,0.201,3.98
+RW-MZ-01408,2024,B,Eastern,Rwamagana,1398,600,21.9,5.73,Clay,Local,Improved,101.6,58.7,1.03,49725,1.48,No,0.268,1.92
+RW-MZ-01409,2024,C,Southern,Gisagara,1819,150,20.8,5.87,Clay loam,ZM607,Traditional,0,25.3,1.76,41427,0.7,No,0.189,1.86
+RW-MZ-01410,2024,C,Southern,Gisagara,1625,316.6,18.9,5.94,Loam,ZM621,Improved,116.3,1.6,0,65553,0.69,No,0.285,2.46
+RW-MZ-01411,2024,C,Western,Karongi,1780,176.7,19.9,5.53,Volcanic,ZM621,Traditional,14.5,4.1,1.41,44489,0.64,No,0.276,2.49
+RW-MZ-01412,2024,C,Western,Karongi,1626,211.3,19.2,6.61,Sandy loam,ZM607,Traditional,48,31.3,1.63,36688,0.41,No,0.414,1.62
+RW-MZ-01413,2024,C,Eastern,Kayonza,1440,235.7,20.4,6.11,Clay loam,RHM104,Traditional,16.7,18.4,4.69,26261,0.83,Yes,0.32,2.79
+RW-MZ-01414,2024,C,Eastern,Kayonza,1440,150,22.2,6.33,Clay,ZM621,Traditional,76.1,8.2,2.14,31608,0.44,No,0.342,1.38
+RW-MZ-01415,2024,C,Eastern,Ngoma,1465,244.4,20.1,6.05,Sandy loam,ZM607,Improved,149.6,93.4,1.9,47333,0.41,Yes,0.295,2.24
+RW-MZ-01416,2024,C,Eastern,Ngoma,1496,150,20.9,6.5,Loam,PAN691,Improved,88.3,69.6,2.38,46215,0.51,No,0.243,2.31
+RW-MZ-01417,2024,C,Eastern,Nyagatare,1407,150,20.6,5.6,Clay loam,WH505,Improved,114.6,34.3,1.19,53490,0.79,No,0.371,1.89
+RW-MZ-01418,2024,C,Eastern,Nyagatare,1403,197.7,22.7,6.07,Loam,WH505,Improved,113.9,87,3.15,57056,1.27,No,0.037,2.61
+RW-MZ-01419,2024,C,Western,Nyamasheke,1830,296.6,18.9,5.43,Loam,RHM104,Improved,83.3,12.4,0.54,52783,0.71,Yes,0.308,3
+RW-MZ-01420,2024,C,Western,Nyamasheke,1780,150,18.4,6.15,Sandy loam,ZM621,Improved,154.7,44.7,3.29,51227,0.72,No,0.164,1.72
+RW-MZ-01421,2024,C,Southern,Nyanza,1722,256.6,19.4,5.9,Loam,WH505,Improved,67.5,97.8,0.92,54636,1.51,Yes,0.071,3.29
+RW-MZ-01422,2024,C,Southern,Nyanza,1748,228.6,19.3,5.96,Clay,ZM621,Traditional,9.1,13.6,2.86,36249,1.54,No,0.284,1.89
+RW-MZ-01423,2024,C,Northern,Rulindo,1881,211.5,18.4,5.45,Volcanic,ZM607,Improved,36.3,66,1.64,64018,0.34,No,0.403,2.21
+RW-MZ-01424,2024,C,Northern,Rulindo,1887,242.3,18.2,5.7,Volcanic,WH505,Traditional,7.4,37.7,1.29,24474,1.95,No,0.304,2.1
+RW-MZ-01425,2024,C,Western,Rusizi,1409,310.5,19.6,5.02,Sandy loam,ZM607,Traditional,13.7,0,0.55,43111,0.2,No,0.542,1.4
+RW-MZ-01426,2024,C,Western,Rusizi,1583,391,20.5,5.01,Sandy loam,ZM607,Improved,86.7,50.8,2.5,54197,0.77,No,0.193,2.12

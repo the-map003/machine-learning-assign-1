@@ -1,0 +1,14 @@
+no,problem,columns,records_affected,severity,proposed_treatment
+1,Numbers and dates stored as padded text ('  70.0'),all,10614,Medium,"strip spaces, convert to float/datetime"
+2,Disguised missing codes 9999.9 / 999.9 / 99.99,"DEWP, SLP, STP, VISIB, WDSP, MXSPD, GUST, MAX, MIN, PRCP, SNDP",42609,High,replace by NaN
+3,Columns (almost) completely empty,"SLP, SNDP, GUST, STP",8997,Medium,drop columns > 50 % missing
+4,"Imperial units (F, knots, miles, inches)","TEMP, DEWP, MAX, MIN, WDSP, MXSPD, VISIB, PRCP",10614,Medium,"convert to C, km/h, km, mm"
+5,Several facts packed in one code (FRSHTT '010010'),FRSHTT,10614,Medium,split into fog/rain/hail/thunder 0/1
+6,Incomplete precipitation totals (flag I),"PRCP, PRCP_ATTRIBUTES",3827,High,do not use PRCP as target; keep prcp_incomplete flag
+7,"Rain flag and rain amount disagree (flag 1 & 0 in, or flag 0 & > 0.1 in)",PRCP vs FRSHTT,1864,High,target from rain flag; report as limitation
+8,Missing days / station-years (gaps),DATE,792,High,target only when next day exists; lags only over consecutive days
+9,Unequal station coverage,NAME,2122,Low,keep station as a feature; report bias
+10,Unrealistic wind values,"WDSP, MXSPD",2,Low,set to NaN
+11,Skewed rain amount,PRCP,3949,Low,log(1 + mm) feature
+12,Leakage risk: target comes from tomorrow; random split would mix future into training,"rain_tomorrow, DATE",10614,High,only today/past features; chronological split
+13,Long station names with country suffix,NAME,10614,Low,short station + district + province

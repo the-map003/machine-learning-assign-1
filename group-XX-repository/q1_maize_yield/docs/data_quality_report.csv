@@ -1,0 +1,13 @@
+no,problem,columns,records_affected,severity,proposed_treatment
+1,Missing values that occur together (no soil test / scouting / rain record),"rainfall_mm, soil_ph, pest_incidence_index",14,Medium,keep rows; median imputation fitted on train; indicator tested in Stage 5
+2,IQR outliers (all within realistic ranges),"soil_ph, manure_t_ha, farm_area_ha, pest_incidence_index, yield_t_ha",112,Low,keep (real farms); log transform for farm area
+3,Right-skewed farm area (skew 1.95),farm_area_ha,1426,Low,log(1 + area) feature
+4,True zeros in fertiliser/manure (no input used) - must not be read as missing,"npk_kg_ha, urea_kg_ha, manure_t_ha",351,Medium,keep 0; add uses_mineral_fertiliser flag
+5,Strongly related columns (altitude vs temperature r = -0.88; NPK/urea vs nitrogen),"altitude_m, avg_temp_c, urea_kg_ha",1426,Low,keep altitude + temperature deviation; drop urea after creating nitrogen feature
+6,"Unbalanced groups: Season C (226 rows), irrigated farms (128)","season, irrigation",226,Medium,stratified split by season; report lower certainty
+7,Non-official province name 'Kigali',province,132,Low,rename to 'Kigali City'
+8,Target unit t/ha while the brief and agronomist use kg/ha,yield_t_ha,1426,Low,keep t/ha and add yield_kg_ha
+9,"No farm below 1,000 kg/ha - agronomist threshold cannot define 'very low'",yield_t_ha,0,Medium,low_yield_risk = bottom 10 % of TRAINING yields
+10,Timing leakage risk: season rainfall/temperature known only at season end,"rainfall_mm, avg_temp_c, pest_incidence_index",1426,High,keep for A-D; warn modelling team to use data-to-date for early warning (E)
+11,"Information missing vs brief: no farm/cooperative code, no planting date",-,1426,Medium,cannot analyse per cooperative or planting date; recommend collecting
+12,"Checks with nothing found: duplicates, wrong labels, wrong district-province, impossible values",all,0,-,documented checks; no change needed

@@ -1,0 +1,21 @@
+column,meaning,data_type,unit,allowed_values_notes
+STATION,NOAA station code,text (ID),-,"64387099999 Kigali, 64380099999 Kamembe, 64381099999 Gisenyi, 64383099999 Ruhengeri"
+DATE,Day of the observation,date,YYYY-MM-DD,2015-01-01 to 2025-08-24
+"LATITUDE, LONGITUDE",Station position,float,degrees,constant per station
+ELEVATION,Station height,float,m,"1,481-1,856"
+NAME,Station name,category,-,"e.g. 'KIGALI INTERNATIONAL, RW'"
+TEMP,Mean temperature,float,deg F,9999.9 = missing
+DEWP,Mean dew point,float,deg F,9999.9 = missing
+SLP,Sea-level pressure,float,mbar,9999.9 = missing
+STP,Station pressure,float,mbar,999.9 = missing
+VISIB,Mean visibility,float,miles,999.9 = missing
+WDSP,Mean wind speed,float,knots,999.9 = missing
+MXSPD,Max sustained wind,float,knots,999.9 = missing
+GUST,Max wind gust,float,knots,999.9 = missing
+"MAX, MIN",Max / min temperature,float,deg F,9999.9 = missing; '*' = derived from hourly data
+PRCP,Total precipitation,float,inches,99.99 = missing
+PRCP_ATTRIBUTES,Precipitation flag,category,-,"A-H = report period, I = incomplete"
+SNDP,Snow depth,float,inches,999.9 = missing (no snow in Rwanda)
+FRSHTT,Weather events,6-digit code,-,"Fog Rain Snow Hail Thunder Tornado, 1 = occurred"
+*_ATTRIBUTES,Number of reports used for the daily value,integer,count,quality indicator
+rain_tomorrow (created),TARGET: rain flag of the next day,0/1,-,built in Stage 4

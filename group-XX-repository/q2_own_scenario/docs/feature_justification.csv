@@ -1,0 +1,20 @@
+feature,how_created,evidence,decision
+rw_season,month -> Long rains / Short rains / Long dry / Short dry,rain follows Rwanda's seasons (Fig. Q2-3.4b),kept
+"doy_sin, doy_cos",day of year on a circle,31 Dec and 1 Jan are neighbours,kept
+rel_humidity_pct,Magnus formula from temp and dew point,r = 0.27 with target,kept
+dewpoint_spread_c,temp_c - dewpoint_c,"r = -0.27; created, then removed (duplicate of humidity)",removed
+diurnal_range_c,max_temp_c - min_temp_c,r = -0.06; cloudy days vary less,kept
+rain_yesterday,rain flag of the previous day (if consecutive),r = 0.21; wet spells persist,kept
+rain_days_last3,rainy days among the last 3 consecutive days,r = 0.31,kept
+temp_change_c,temp today - temp yesterday,r = -0.02; cooling before rain,kept
+log_prcp_mm,log(1 + prcp_mm),skew 16.12 -> 1.4,kept
+"rain, thunder, fog, prcp_incomplete",decoded from FRSHTT / PRCP flag,rain today r = 0.26,kept
+hail,-,near-constant (variance threshold): hail on 0.1% of days,removed
+elevation_m,-,one value per station - duplicates the station column,removed
+max_temp_c,-,strongly correlated with temp_c; its information kept in diurnal_range_c,removed
+min_temp_c,-,strongly correlated with temp_c/dewpoint_c; its information kept in diurnal_range_c,removed
+prcp_mm,-,very skewed and often incomplete; replaced by log_prcp_mm + prcp_incomplete,removed
+month,-,replaced by doy_sin/doy_cos (circular) and rw_season (agronomic seasons),removed
+dewpoint_c,-,"r = 0.78 with rel_humidity_pct, which is easier to explain",removed
+dewpoint_spread_c,-,"r = -0.994 with rel_humidity_pct (same information, |r| > 0.85)",removed
+n_obs,-,"low importance (0.037); quality bookkeeping, not weather",removed
